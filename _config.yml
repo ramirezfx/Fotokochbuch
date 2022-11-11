@@ -1,0 +1,10 @@
+baseurl: "/"
+paginate_path: "/page:num"
+paginate: 6
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+sitename: Die Kochmanufaktur
+imglogopath: $PATHTOLOGO
