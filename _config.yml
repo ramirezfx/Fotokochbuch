@@ -1,10 +1,16 @@
 baseurl: "/"
 paginate_path: "/page:num"
-paginate: 6
+paginate: 10
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-sitename: Die Kochmanufaktur
-imglogopath: $PATHTOLOGO
+  - jekyll-youtube
+
+url: https://test.speedypreneur.com
+sitename: Speedypreneur
+imglogopath: /wp-content/images/cropped-SPEEDYPRENEUR.html
+faviconpath: /wp-content/images/cropped-favicon-32x32.png
+appletouchiconpath: /wp-content/images/cropped-favicon-180x180.png
+author: Speedypreneur
