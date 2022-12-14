@@ -1,0 +1,17 @@
+<ul class="default-wp-page clearfix">
+
+  {% if page.previous.url %}
+
+  <li class="previous">
+    <a href="{{page.previous.url}}" rel="prev"><span class="meta-nav">&larr;</span> {{page.previous.headline}}</a>
+  </li>
+
+
+  {% endif %}
+  {% if page.next.url %}
+  <li class="next">
+    <a href="{{page.next.url}}" rel="next">{{page.next.headline }} <span class="meta-nav">&rarr;</span></a>
+  </li>
+  {% endif %}
+
+</ul>

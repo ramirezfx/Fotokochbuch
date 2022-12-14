@@ -1,0 +1,46 @@
+<div id="content" class="clearfix">
+    <article id="post-17" class="post-17 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+
+        <div class="article-content clearfix">
+            <div class="above-entry-meta">
+              {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
+              {% include tag-list.html tags=tag_list %}
+
+            </div>
+            <header class="entry-header">
+                <h1 class="entry-title">
+                    {{ page.headline }}
+                </h1>
+            </header>
+
+            <div class="below-entry-meta">
+                <span class="posted-on">
+                    <a href="#" title="" rel="bookmark">
+                        <i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="">{{ page.date | date: "%B %-d, %Y"}}</time>
+                        <time class="updated" datetime="">{{ page.date | date: "%B %-d, %Y"}}</time>
+                    </a>
+                </span>
+                <span class="byline">
+                    <span class="author vcard">
+                        <i class="fa fa-user"></i>
+                        <a class="url fn n" href="#" title="{{ site.author }}"> {{ site.author }} </a>
+                    </span>
+                </span>
+
+            </div>
+            <div class="entry-content clearfix">
+              <i>
+                {% include ad-text.html %}
+                <p>{{ content }}</p>
+              </i>
+            </div>
+            <div style="padding-top: 30px;">
+              {% youtube page.youtubeurl %}
+            </div>
+            <div style="padding-top: 30px;">
+              {% include ad-banner.html %}
+            </div>
+        </div>
+    </article>
+</div>

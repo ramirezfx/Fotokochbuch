@@ -1,0 +1,54 @@
+<div class="article-container">
+    {% for post in paginator.posts %}
+    <article id="post-20" class="post-20 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <div class="featured-image">
+            <a href="{{ post.url }}" title="{{ post.title }}">
+                <img
+                    width="480"
+                    height="360"
+                    class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image"
+                    alt=""
+                    srcset="{{ post.thumbnail }}"
+                    sizes="(max-width: 480px) 100vw, 480px"
+                />
+            </a>
+        </div>
+
+        <div class="article-content clearfix">
+            <div class="above-entry-meta">
+                {% for tags in post.tags %}
+                <span class="cat-links"><a href="/tags/#{{ tags }}" rel="category tag"><i class="fa-solid fa-tags"></i> {{ tags }}</a>&nbsp;</span>
+                {% endfor %}
+            </div>
+            <header class="entry-header">
+                <h2 class="entry-title">
+                    <a href="{{ post.url }}" title="{{ post.headline }}">{{ post.headline }}</a>
+                </h2>
+            </header>
+
+            <div class="below-entry-meta">
+                <span class="posted-on">
+                    <a href="#" title="" rel="bookmark">
+                        <i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="">{{ post.date | date: "%B %-d, %Y"}}</time>
+                        <time class="updated" datetime="">{{ post.date | date: "%B %-d, %Y"}}</time>
+                    </a>
+                </span>
+                <span class="byline">
+                    <span class="author vcard">
+                        <i class="fa fa-user"></i>
+                        <a class="url fn n" href="#" title="{{ site.author }}"> {{ site.author }} </a>
+                    </span>
+                </span>
+
+            </div>
+            <div class="entry-content clearfix">
+                <p>{{ post.content | strip_html | truncate: '250' | escape }}</p>
+                <a class="more-link" title="{{ post.title }}" href="{{ post.url }}">
+                    <span>Read more</span>
+                </a>
+            </div>
+        </div>
+    </article>
+    {% endfor %}
+
+</div>
