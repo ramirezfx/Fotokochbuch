@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-19T22:32:42+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><author><name>Speedypreneur</name></author><entry><title type="html">Bolognese-Fix</title><link href="http://0.0.0.0:4000/bolognese-fix/" rel="alternate" type="text/html" title="Bolognese-Fix" /><published>2022-02-05T00:00:00+00:00</published><updated>2022-02-05T00:00:00+00:00</updated><id>http://0.0.0.0:4000/bolognese-fix</id><content type="html" xml:base="http://0.0.0.0:4000/bolognese-fix/"><![CDATA[<section data-bs-version="5.1">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-19T22:44:42+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><author><name>Speedypreneur</name></author><entry><title type="html">Chili Con Carne-Fix</title><link href="http://0.0.0.0:4000/chili-con-carne-fix/" rel="alternate" type="text/html" title="Chili Con Carne-Fix" /><published>2022-02-06T00:00:00+00:00</published><updated>2022-02-06T00:00:00+00:00</updated><id>http://0.0.0.0:4000/chili-con-carne-fix</id><content type="html" xml:base="http://0.0.0.0:4000/chili-con-carne-fix/"><![CDATA[<section data-bs-version="5.1">
+
+  <div style="max-width: 600px; margin: auto;">
+    <div style="margin-bottom: 20px;">
+        <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <!-- Sektion 1 Anfang-->
+                        <b>Zutaten vorbereiten:</b>
+                        <!-- Sektion 1 Ende-->
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <!-- Schritt Anfang-->
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1 EL Kakaopulver
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1.5 EL Chilipulver
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                2.5 EL Zucker braun
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1/2 TL Oregano
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1 EL Kreuzkümmel (Cumin)
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1 TL Salz
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1 TL Pfeffer
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1 TL Chiliflocken
+                            </label>
+                        </div>
+                                                <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                1/2 TL Korianderpulver
+                            </label>
+                        </div>
+                        <!-- Schritt Ende-->
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <!-- Sektion 2 Anfang-->
+                        <b>Zubereitung:</b>
+                        <!-- Sektion 2 Ende-->
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <!-- Schritt Anfang-->
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                            <label class="form-check-label" for="flexCheckDefault">
+                                Alle Zutaten in ein 212ml Einmachglas geben und ordentlich vermengen
+                            </label>
+                        </div>
+                        <!-- Schritt Ende -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+</section>]]></content><author><name>Speedypreneur</name></author><category term="Gewürz" /><category term="Fix" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bolognese-Fix</title><link href="http://0.0.0.0:4000/bolognese-fix/" rel="alternate" type="text/html" title="Bolognese-Fix" /><published>2022-02-05T00:00:00+00:00</published><updated>2022-02-05T00:00:00+00:00</updated><id>http://0.0.0.0:4000/bolognese-fix</id><content type="html" xml:base="http://0.0.0.0:4000/bolognese-fix/"><![CDATA[<section data-bs-version="5.1">
 
   <div style="max-width: 600px; margin: auto;">
     <div style="margin-bottom: 20px;">
