@@ -1,4 +1,200 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-19T23:12:52+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><author><name>Speedypreneur</name></author><entry><title type="html">Chili Con Carne (Coffee-Chili)</title><link href="http://0.0.0.0:4000/chili-con-carne/" rel="alternate" type="text/html" title="Chili Con Carne (Coffee-Chili)" /><published>2022-02-08T00:00:00+00:00</published><updated>2022-02-08T00:00:00+00:00</updated><id>http://0.0.0.0:4000/chili-con-carne</id><content type="html" xml:base="http://0.0.0.0:4000/chili-con-carne/"><![CDATA[<p>Portionen: 6</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-19T23:25:35+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><author><name>Speedypreneur</name></author><entry><title type="html">Spaghetti Bolognese</title><link href="http://0.0.0.0:4000/spaghetti-bolognese/" rel="alternate" type="text/html" title="Spaghetti Bolognese" /><published>2022-02-09T00:00:00+00:00</published><updated>2022-02-09T00:00:00+00:00</updated><id>http://0.0.0.0:4000/spaghetti-bolognese</id><content type="html" xml:base="http://0.0.0.0:4000/spaghetti-bolognese/"><![CDATA[<section data-bs-version="5.1">
+    <div style="max-width: 600px; margin: auto;">
+        <div style="margin-bottom: 20px;">
+            <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <!-- Sektion 1 Anfang-->
+                            <b>Zutaten vorbereiten:</b>
+                            <!-- Sektion 1 Ende-->
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <!-- Schritt Anfang-->
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    500g Faschiertes
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Bolognese-Fix
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Pro Portion 125g Spaghetti
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    1 Tube Tomatenmark
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    2 Zwiebeln (ca. 200g)
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    2 Dosen geschälte Tomaten
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    4 EL Öl
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    250ml Rotwein
+                                </label>
+                            </div>
+                            <!-- Schritt Ende-->
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <!-- Sektion 2 Anfang-->
+                            <b>Vorbereitung:</b>
+                            <!-- Sektion 2 Ende-->
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <!-- Schritt Anfang-->
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    2 Zwiebeln würfelig schneiden und in eine Schüssel geben
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    250ml Rotwein in ein Gefäß geben
+                                </label>
+                            </div>
+                            <!-- Schritt Ende -->
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <!-- Sektion 3 Start-->
+                            <b>Zubereitung:</b>
+                            <!-- Sektion 3 Ende -->
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <!-- Schritt Anfang -->
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    4 EL Öl in einen Kochtopf geben
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Kochfeld auf mittlere/hohe Hitze stellen
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Inhalt der Schüssel mit den Zwiebelwürfeln in den Kochtopf geben und goldgelb rösten
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    500g Faschierte dazu geben und krümmelig anbraten
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Den Behälter mit den 250 ml Rotwein dazu geben und so lange köcheln lassen bis vom Rotwein nix mehr übrig ist.
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Den Inhalt der 2 Dosen geschälte Tomaten dazu geben und umrühren
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Kochfeld auf halbe Leistung stellen
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Deckel drauf und 15 Minuten köcheln lassen
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Nach den 15 Minuten die Komplette Tube Tomatenmark dazu geben und ordentlich verrühren
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Die Tomatenstücke ev. mit dem Kochlöffel zerteilen und 20 Minuten zugedeckt köcheln lassen
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Nun ist auch der ideale Zeitpunkt um die Nudeln lt. Packungsanleitung zuzubereiten
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Kochtopf vom Kochfeld nehmen
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Kochfeld abschalten
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Den Inhalt der Schüssel mit dem Bolognese-Fix dazu geben und ordentlich umrühren
+                                </label>
+                            </div>
+                            <!-- Schritt Ende -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>]]></content><author><name>Speedypreneur</name></author><category term="Hauptspeise" /><category term="Faschiertes" /><summary type="html"><![CDATA[Zutaten vorbereiten: 500g Faschiertes Bolognese-Fix Pro Portion 125g Spaghetti 1 Tube Tomatenmark 2 Zwiebeln (ca. 200g) 2 Dosen geschälte Tomaten 4 EL Öl 250ml Rotwein Vorbereitung: 2 Zwiebeln würfelig schneiden und in eine Schüssel geben 250ml Rotwein in ein Gefäß geben Zubereitung: 4 EL Öl in einen Kochtopf geben Kochfeld auf mittlere/hohe Hitze stellen Inhalt der Schüssel mit den Zwiebelwürfeln in den Kochtopf geben und goldgelb rösten 500g Faschierte dazu geben und krümmelig anbraten Den Behälter mit den 250 ml Rotwein dazu geben und so lange köcheln lassen bis vom Rotwein nix mehr übrig ist. Den Inhalt der 2 Dosen geschälte Tomaten dazu geben und umrühren Kochfeld auf halbe Leistung stellen Deckel drauf und 15 Minuten köcheln lassen Nach den 15 Minuten die Komplette Tube Tomatenmark dazu geben und ordentlich verrühren Die Tomatenstücke ev. mit dem Kochlöffel zerteilen und 20 Minuten zugedeckt köcheln lassen Nun ist auch der ideale Zeitpunkt um die Nudeln lt. Packungsanleitung zuzubereiten Kochtopf vom Kochfeld nehmen Kochfeld abschalten Den Inhalt der Schüssel mit dem Bolognese-Fix dazu geben und ordentlich umrühren]]></summary></entry><entry><title type="html">Chili Con Carne (Coffee-Chili)</title><link href="http://0.0.0.0:4000/chili-con-carne/" rel="alternate" type="text/html" title="Chili Con Carne (Coffee-Chili)" /><published>2022-02-08T00:00:00+00:00</published><updated>2022-02-08T00:00:00+00:00</updated><id>http://0.0.0.0:4000/chili-con-carne</id><content type="html" xml:base="http://0.0.0.0:4000/chili-con-carne/"><![CDATA[<p>Portionen: 6</p>
 <section data-bs-version="5.1">
     <div style="max-width: 600px; margin: auto;">
         <div style="margin-bottom: 20px;">
