@@ -1,10 +1,10 @@
 <center>
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div>
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}"><i class="fa-solid fa-square-caret-left"></i> Prev</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}"><i class="fa-solid fa-square-caret-left"></i> Vorher</a>
   {% else %}
-    <span><i class="fa-solid fa-square-caret-left"></i> Prev</span>
+    <span><i class="fa-solid fa-square-caret-left"></i> Vorher</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -18,9 +18,9 @@
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next <i class="fa-solid fa-square-caret-right"></i></a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Nachher <i class="fa-solid fa-square-caret-right"></i></a>
   {% else %}
-    <span>Next <i class="fa-solid fa-square-caret-right"></i></span>
+    <span>Nachher <i class="fa-solid fa-square-caret-right"></i></span>
   {% endif %}
 </div>
 {% endif %}

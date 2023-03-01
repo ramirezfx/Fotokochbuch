@@ -1,90 +1,68 @@
 ---
 layout: blog
 permalink: /rub-entenbrust/
-pagedesc: Rub für Entenbrust
-title: Rub für Entenbrust
-headline: Rub für Entenbrust
-thumbnail: /wp-content/images/Afy2BZ5u_94-HQ.jpg
+pagedesc: Rub Für Entenbrust
+title: Rub Für Entenbrust
+headline: Rub Für Entenbrust
+thumbnail: /wp-content/images/rub-enenbrust.jpg
 tags: [Gewürz]
+portionen: 3-4 Entenbrüste
+gesamtzeitaufwand: 1-2 Minuten
+zeitaufwandzubereitung: 1-2 Minuten
 htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
 <section data-bs-version="5.1">
     <div style="max-width: 600px; margin: auto;">
         <div style="margin-bottom: 20px;">
-            <div class="accordion" id="accordionExample">
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <!-- Sektion 1 Anfang-->
-                            <b>Zutaten vorbereiten:</b>
-                            <!-- Sektion 1 Ende-->
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang-->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 TL Zucker
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 TL Paprikapulver
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 TL Knoblauchpulver
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1 TL Chiliflocken
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1 TL Kreuzkümmel
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    5 EL Öl
-                                </label>
-                            </div>
-
-                            <!-- Schritt Ende-->
-                        </div>
-                    </div>
+            <ul class="nav nav-tabs" id="myTab" role="tablist" style="list-style-type: none;">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="info-tab" data-bs-toggle="tab" data-bs-target="#rezeptinfo-tab-pane" type="button" role="tab" aria-controls="rezeptinfo-tab-pane" aria-selected="true">Rezeptinfos</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zutaten-tab" data-bs-toggle="tab" data-bs-target="#zutaten-tab-pane" type="button" role="tab" aria-controls="zutaten-tab-pane" aria-selected="false">Zutaten</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zubereitung-tab" data-bs-toggle="tab" data-bs-target="#zubereitung-tab-pane" type="button" role="tab" aria-controls="zubereitung-tab-pane" aria-selected="false">Zubereitung</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="rezeptinfo-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                    <!-- Rezeptinfo START -->
+                    {% if  page.portionen %}
+                        <b><i class="fa-solid fa-pizza-slice"></i> Portionen: <span class="badge bg-primary">{{ page.portionen }}</span><br></b>
+                    {% endif %}
+                    {% if page.gesamtzeitaufwand %}
+                        <b><i class="fa-solid fa-hourglass-end"></i> Gesamtzeitaufwand:  <span class="badge bg-primary">{{ page.gesamtzeitaufwand }}</span></b>
+                    {% endif %}
+                    <!-- Rezeptinfo ENDE -->
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <!-- Sektion 2 Anfang-->
-                            <b>Zubereitung:</b>
-                            <!-- Sektion 2 Ende-->
-                        </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang-->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Alle Zutaten in ein 212ml Einmachlas geben und ordentlich vermengen
-                                </label>
-                            </div>
-                            <!-- Schritt Ende -->
-                        </div>
+                <div class="tab-pane fade" id="zutaten-tab-pane" role="tabpanel" aria-labelledby="zutaten-tab" tabindex="0">
+                    <!-- Zutaten START -->
+                    {% for nextstep in site.data.rub-entenbrust.zutaten %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
+                    {% endfor %}
+                    <!-- Zutaten ENDE -->
+                </div>
+                <div class="tab-pane fade" id="zubereitung-tab-pane" role="tabpanel" aria-labelledby="zubereitung-tab" tabindex="0">
+                    <!-- Zubereitung START -->
+                    {% if page.zeitaufwandzubereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Zubereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandzubereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.rub-entenbrust.zubereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
+                    </div>
+                    {% endfor %}
+                    <!-- Zubereitung ENDE -->
                 </div>
             </div>
         </div>

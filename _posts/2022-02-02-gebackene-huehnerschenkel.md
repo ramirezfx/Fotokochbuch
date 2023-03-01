@@ -1,159 +1,86 @@
 ---
 layout: blog
 permalink: /gebackene-sesamschenkel/
-pagedesc: Gebackene Sesam-Schenkel
-title: Gebackene Sesam-Schenkel
-headline: Gebackene Sesam-Schenkel
-thumbnail: /wp-content/images/Afy2BZ5u_94-HQ.jpg
-youtubeurl: 'https://www.youtube.com/watch?v=3otxuuogqr0'
-tags: [Huhn, Hauptspeise]
+pagedesc: Gebackene Sesamschenkel
+title: Gebackene Sesamschenkel
+headline: Gebackene Sesamschenkel
+thumbnail: /wp-content/images/gebackene-sesamschenkel.webp
+tags: [Hauptspeise, Huhn]
+portionen: 4
 htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
 <section data-bs-version="5.1">
-
     <div style="max-width: 600px; margin: auto;">
         <div style="margin-bottom: 20px;">
-            <div class="accordion" id="accordionExample">
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                      <!-- Sektion 1 Anfang-->
-                      <b>Zutaten vorbereiten</b>
-                      <!-- Sektion 1 Ende-->
-                    </button>
-                  </h2>
-                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                        <!-- Schritt Anfang-->
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              1/3 Cup Sojasauce
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              2 EL Limettensaft
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              1 EL Honig
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              1 EL Ingwer kleingehackt
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              1kg Hühneroberschenkel
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              2 EL Sesam
-                            </label>
-                        </div>
-                        <!-- Schritt Ende-->
-
-                    </div>
-                  </div>
+            <ul class="nav nav-tabs" id="myTab" role="tablist" style="list-style-type: none;">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="info-tab" data-bs-toggle="tab" data-bs-target="#rezeptinfo-tab-pane" type="button" role="tab" aria-controls="rezeptinfo-tab-pane" aria-selected="true">Rezeptinfos</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zutaten-tab" data-bs-toggle="tab" data-bs-target="#zutaten-tab-pane" type="button" role="tab" aria-controls="zutaten-tab-pane" aria-selected="false">Zutaten</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="vorbereitung-tab" data-bs-toggle="tab" data-bs-target="#vorbereitung-tab-pane" type="button" role="tab" aria-controls="vorbereitung-tab-pane" aria-selected="false">Vorbereitung</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zubereitung-tab" data-bs-toggle="tab" data-bs-target="#zubereitung-tab-pane" type="button" role="tab" aria-controls="zubereitung-tab-pane" aria-selected="false">Zubereitung</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="rezeptinfo-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                    <!-- Rezeptinfo START -->
+                    {% if  page.portionen %}
+                        <b><i class="fa-solid fa-pizza-slice"></i> Portionen: <span class="badge bg-primary">{{ page.portionen }}</span><br></b>
+                    {% endif %}
+                    {% if page.gesamtzeitaufwand %}
+                        <b><i class="fa-solid fa-hourglass-end"></i> Gesamtzeitaufwand:  <span class="badge bg-primary">{{ page.gesamtzeitaufwand }}</span></b>
+                    {% endif %}
+                    <!-- Rezeptinfo ENDE -->
                 </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      <!-- Sektion 2 Anfang-->
-                      <b>Vorbereitung</b>
-                      <!-- Sektion 2 Ende-->
-                    </button>
-                  </h2>
-                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                        <!-- Schritt Anfang-->
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              1/3 Cup Sojasauce, 2 EL Limettensaft, 1 EL Honig und 2 EL kleingehackten Ingwer in einer Schüssel vermengen
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              Hühneroberschenkel in einen Behälter geben
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              Die Marinade mit der Sojasauce,... dazu geben und 1-2 Stunden marinieren - Ab und zu umrühren und vermengen
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              2 EL Sesam in einer trockenen Pfanne ohne Öl anrösten und in eine kleine Schüssel geben
-                            </label>
-                        </div>
-                        <!-- Schritt Ende -->
-
+                <div class="tab-pane fade" id="zutaten-tab-pane" role="tabpanel" aria-labelledby="zutaten-tab" tabindex="0">
+                    <!-- Zutaten START -->
+                    {% for nextstep in site.data.gebackene-sesamschenkel.zutaten %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
-                  </div>
+                    {% endfor %}
+                    <!-- Zutaten ENDE -->
                 </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                      <!-- Sektion 3 Start-->
-                      <b>Zubereitung</b>
-                      <!-- Sektion 3 Ende -->
-                    </button>
-                  </h2>
-                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                        <!-- Schritt Anfang -->
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              Ofen auf 190 Grad Ober- Unterhitze vorheizen
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              Sobald die Backtemperatur von 190 Grad erreicht ist, den Inhalt des Behälters mit den Hühnerschenkel in eine Auflaufform geben (Hautseite oben!!!)
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              45-50 Minuten backen lassen (Ab und zu die Haut mit der Marinade bestreichen)
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              Nach 45-50 Minuten die Temperatur des Backofens auf 220 Grad erhöhen bis die Schenkel braun und zart sind (ca. 10 Minuten)
-                            </label>
-                        </div>
-                                                <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              Nach ca. 10 Minuten die Schenkel raus nehmen und mit Reis servieren - Gerösteten Sesam drüber streuen
-                            </label>
-                        </div>
-                        <!-- Schritt Ende -->
+                <div class="tab-pane fade" id="vorbereitung-tab-pane" role="tabpanel" aria-labelledby="vorbereitung-tab" tabindex="0">
+                    <!--  Vorbereitung START -->
+                    {% if page.zeitaufwandvorbereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Vorbereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandvorbereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.gebackene-sesamschenkel.vorbereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
-                  </div>
+                    {% endfor %}
+                    <!-- Vorbereitung ENDE -->
                 </div>
-              </div>
+                <div class="tab-pane fade" id="zubereitung-tab-pane" role="tabpanel" aria-labelledby="zubereitung-tab" tabindex="0">
+                    <!-- Zubereitung START -->
+                    {% if page.zeitaufwandzubereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Zubereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandzubereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.gebackene-sesamschenkel.zubereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
+                    </div>
+                    {% endfor %}
+                    <!-- Zubereitung ENDE -->
+                </div>
             </div>
+        </div>
     </div>
-
 </section>

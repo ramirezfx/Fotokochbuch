@@ -1,206 +1,84 @@
 ---
 layout: blog
 permalink: /spaghetti-bolognese/
-pagedesc: Spaghetti Bolognese
-title: Spaghetti Bolognese
-headline: Spaghetti Bolognese
-thumbnail: /wp-content/images/Afy2BZ5u_94-HQ.jpg
-tags: [Hauptspeise, Faschiertes]
+pagedesc: Sauce Bolognese
+title: Sauce Bolognese
+headline: Sauce Bolognese
+thumbnail: /wp-content/images/sauce-bolognese.jpg
+tags: [Sauce, Pasta]
+portionen: 6
 htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
 <section data-bs-version="5.1">
     <div style="max-width: 600px; margin: auto;">
         <div style="margin-bottom: 20px;">
-            <div class="accordion" id="accordionExample">
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <!-- Sektion 1 Anfang-->
-                            <b>Zutaten vorbereiten:</b>
-                            <!-- Sektion 1 Ende-->
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang-->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    500g Faschiertes
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Bolognese-Fix
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Pro Portion 125g Spaghetti
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1 Tube Tomatenmark
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Zwiebeln (ca. 200g)
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Dosen geschälte Tomaten
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    4 EL Öl
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    250ml Rotwein
-                                </label>
-                            </div>
-                            <!-- Schritt Ende-->
-                        </div>
-                    </div>
+            <ul class="nav nav-tabs" id="myTab" role="tablist" style="list-style-type: none;">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="info-tab" data-bs-toggle="tab" data-bs-target="#rezeptinfo-tab-pane" type="button" role="tab" aria-controls="rezeptinfo-tab-pane" aria-selected="true">Rezeptinfos</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zutaten-tab" data-bs-toggle="tab" data-bs-target="#zutaten-tab-pane" type="button" role="tab" aria-controls="zutaten-tab-pane" aria-selected="false">Zutaten</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="vorbereitung-tab" data-bs-toggle="tab" data-bs-target="#vorbereitung-tab-pane" type="button" role="tab" aria-controls="vorbereitung-tab-pane" aria-selected="false">Vorbereitung</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zubereitung-tab" data-bs-toggle="tab" data-bs-target="#zubereitung-tab-pane" type="button" role="tab" aria-controls="zubereitung-tab-pane" aria-selected="false">Zubereitung</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="rezeptinfo-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                    <!-- Rezeptinfo START -->
+                    {% if  page.portionen %}
+                        <b><i class="fa-solid fa-pizza-slice"></i> Portionen: <span class="badge bg-primary">{{ page.portionen }}</span><br></b>
+                    {% endif %}
+                    {% if page.gesamtzeitaufwand %}
+                        <b><i class="fa-solid fa-hourglass-end"></i> Gesamtzeitaufwand:  <span class="badge bg-primary">{{ page.gesamtzeitaufwand }}</span></b>
+                    {% endif %}
+                    <!-- Rezeptinfo ENDE -->
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <!-- Sektion 2 Anfang-->
-                            <b>Vorbereitung:</b>
-                            <!-- Sektion 2 Ende-->
-                        </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang-->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Zwiebeln würfelig schneiden und in eine Schüssel geben
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    250ml Rotwein in ein Gefäß geben
-                                </label>
-                            </div>
-                            <!-- Schritt Ende -->
-                        </div>
+                <div class="tab-pane fade" id="zutaten-tab-pane" role="tabpanel" aria-labelledby="zutaten-tab" tabindex="0">
+                    <!-- Zutaten START -->
+                    {% for nextstep in site.data.sauce-bolognese.zutaten %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
+                    {% endfor %}
+                    <!-- Zutaten ENDE -->
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <!-- Sektion 3 Start-->
-                            <b>Zubereitung:</b>
-                            <!-- Sektion 3 Ende -->
-                        </button>
-                    </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang -->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    4 EL Öl in einen Kochtopf geben
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Kochfeld auf mittlere/hohe Hitze stellen
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Inhalt der Schüssel mit den Zwiebelwürfeln in den Kochtopf geben und goldgelb rösten
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    500g Faschierte dazu geben und krümmelig anbraten
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Den Behälter mit den 250 ml Rotwein dazu geben und so lange köcheln lassen bis vom Rotwein nix mehr übrig ist.
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Den Inhalt der 2 Dosen geschälte Tomaten dazu geben und umrühren
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Kochfeld auf halbe Leistung stellen
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Deckel drauf und 15 Minuten köcheln lassen
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Nach den 15 Minuten die Komplette Tube Tomatenmark dazu geben und ordentlich verrühren
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Die Tomatenstücke ev. mit dem Kochlöffel zerteilen und 20 Minuten zugedeckt köcheln lassen
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Nun ist auch der ideale Zeitpunkt um die Nudeln lt. Packungsanleitung zuzubereiten
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Kochtopf vom Kochfeld nehmen
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Kochfeld abschalten
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Den Inhalt der Schüssel mit dem Bolognese-Fix dazu geben und ordentlich umrühren
-                                </label>
-                            </div>
-                            <!-- Schritt Ende -->
-                        </div>
+                <div class="tab-pane fade" id="vorbereitung-tab-pane" role="tabpanel" aria-labelledby="vorbereitung-tab" tabindex="0">
+                    <!--  Vorbereitung START -->
+                    {% if page.zeitaufwandvorbereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Vorbereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandvorbereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.sauce-bolognese.vorbereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
+                    {% endfor %}
+                    <!-- Vorbereitung ENDE -->
+                </div>
+                <div class="tab-pane fade" id="zubereitung-tab-pane" role="tabpanel" aria-labelledby="zubereitung-tab" tabindex="0">
+                    <!-- Zubereitung START -->
+                    {% if page.zeitaufwandzubereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Zubereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandzubereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.sauce-bolognese.zubereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
+                    </div>
+                    {% endfor %}
+                    <!-- Zubereitung ENDE -->
                 </div>
             </div>
         </div>

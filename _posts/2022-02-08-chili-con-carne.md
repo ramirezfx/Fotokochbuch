@@ -4,242 +4,83 @@ permalink: /chili-con-carne/
 pagedesc: Chili Con Carne (Coffee-Chili)
 title: Chili Con Carne (Coffee-Chili)
 headline: Chili Con Carne (Coffee-Chili)
-thumbnail: /wp-content/images/Afy2BZ5u_94-HQ.jpg
-tags: [Hauptspeise, Faschiertes]
+thumbnail: /wp-content/images/chili-con-carne.jpg
+tags: [Faschiertes, Hauptspeise]
+portionen: 6-8
 htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
-Portionen: 6
 <section data-bs-version="5.1">
     <div style="max-width: 600px; margin: auto;">
         <div style="margin-bottom: 20px;">
-            <div class="accordion" id="accordionExample">
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <!-- Sektion 1 Anfang-->
-                            <b>Zutaten vorbereiten:</b>
-                            <!-- Sektion 1 Ende-->
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang-->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1/2 Rindsuppnwürfel
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Chili-Con-Carne-Fix
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1kg Faschiertes
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    3 EL Öl
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Zwiebeln
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    3 Knoblauchzehen
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Dosen gehackte Tomaten
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    250ml Bier
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    200-250ml Kaffee (starker)
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    140g Tomatenmark
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    3 Dosen Kidney-Bohnen
-                                </label>
-                            </div>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    200ml Wasser
-                                </label>
-                            </div>
-                            <!-- Schritt Ende-->
-                        </div>
-                    </div>
+            <ul class="nav nav-tabs" id="myTab" role="tablist" style="list-style-type: none;">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="info-tab" data-bs-toggle="tab" data-bs-target="#rezeptinfo-tab-pane" type="button" role="tab" aria-controls="rezeptinfo-tab-pane" aria-selected="true">Rezeptinfos</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zutaten-tab" data-bs-toggle="tab" data-bs-target="#zutaten-tab-pane" type="button" role="tab" aria-controls="zutaten-tab-pane" aria-selected="false">Zutaten</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="vorbereitung-tab" data-bs-toggle="tab" data-bs-target="#vorbereitung-tab-pane" type="button" role="tab" aria-controls="vorbereitung-tab-pane" aria-selected="false">Vorbereitung</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="zubereitung-tab" data-bs-toggle="tab" data-bs-target="#zubereitung-tab-pane" type="button" role="tab" aria-controls="zubereitung-tab-pane" aria-selected="false">Zubereitung</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="rezeptinfo-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                    <!-- Rezeptinfo START -->
+                    {% if  page.portionen %}
+                        <b><i class="fa-solid fa-pizza-slice"></i> Portionen: <span class="badge bg-primary">{{ page.portionen }}</span><br></b>
+                    {% endif %}
+                    {% if page.gesamtzeitaufwand %}
+                        <b><i class="fa-solid fa-hourglass-end"></i> Gesamtzeitaufwand:  <span class="badge bg-primary">{{ page.gesamtzeitaufwand }}</span></b>
+                    {% endif %}
+                    <!-- Rezeptinfo ENDE -->
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <!-- Sektion 2 Anfang-->
-                            <b>Vorbereitung:</b>
-                            <!-- Sektion 2 Ende-->
-                        </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang-->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Zwiebeln würfelig schneiden und in ein Schüssel geben
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    4 Knoblauchzehen über den Zwiebelwürfel ausdrücken
-                                </label>
-                            </div>
-                            <!-- Schritt Ende -->
-                        </div>
+                <div class="tab-pane fade" id="zutaten-tab-pane" role="tabpanel" aria-labelledby="zutaten-tab" tabindex="0">
+                    <!-- Zutaten START -->
+                    {% for nextstep in site.data.chili-con-carne.zutaten %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
+                    {% endfor %}
+                    <!-- Zutaten ENDE -->
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <!-- Sektion 3 Start-->
-                            <b>Zubereitung:</b>
-                            <!-- Sektion 3 Ende -->
-                        </button>
-                    </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <!-- Schritt Anfang -->
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    3 EL Öl im Kochtopf erhitzen
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Zwiebelwürfel und Knoblauch goldbraun rösten
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1kg Faschiertes dazu geben und alles vermengen
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Faschiertes krümelig braten
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    140g Tomatenmark dazu geben, vermengen und ein wenig mit anrösten
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Chili-Con-Carne-Fix dazu geben und schnell unterrühren
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    250ml Bier dazu geben
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    200ml Wasser dazu geben
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    200-250ml Kaffee dazu geben
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    1/2 Suppenwürfel über den Kochtopf zerbröseln
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    2 Dosen Tamatenstücke dazu geben und ordentlich umrühren
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Kurz aufkochen lassen
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Kochfeld auf kleine Hitze stellen, Deckel drauf geben und 90 Minuten schwach köcheln lassen
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    3 Kidney-Dosen abtropfen lassen.
-                                </label>
-                            </div>
-                                                        <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Deckel runter geben und die Kidney-Bohnen dazu geben
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                <label class="form-check-label" for="flexCheckDefault">
-                                    Ohne Deckel bei niedriger Hitze weitere 30 Minuten köcheln lassen
-                                </label>
-                            </div>
-                            <!-- Schritt Ende -->
-                        </div>
+                <div class="tab-pane fade" id="vorbereitung-tab-pane" role="tabpanel" aria-labelledby="vorbereitung-tab" tabindex="0">
+                    <!--  Vorbereitung START -->
+                    {% if page.zeitaufwandvorbereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Vorbereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandvorbereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.chili-con-carne.vorbereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
+                    {% endfor %}
+                    <!-- Vorbereitung ENDE -->
+                </div>
+                <div class="tab-pane fade" id="zubereitung-tab-pane" role="tabpanel" aria-labelledby="zubereitung-tab" tabindex="0">
+                    <!-- Zubereitung START -->
+                    {% if page.zeitaufwandzubereitung %}
+                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Zubereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandzubereitung }}</span></b></h5>
+                    {% endif %}
+                    {% for nextstep in site.data.chili-con-carne.zubereitung %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
+                    </div>
+                    {% endfor %}
+                    <!-- Zubereitung ENDE -->
                 </div>
             </div>
         </div>
+    </div>
 </section>
