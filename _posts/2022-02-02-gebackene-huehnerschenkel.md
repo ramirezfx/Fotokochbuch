@@ -11,7 +11,7 @@ htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
 <section data-bs-version="5.1">
-    <div style="max-width: 600px; margin: auto; font-size: 120%;">
+    <div style="max-width: 600px; margin: auto; font-size: 120%; line-height: 200%;">
         <div style="margin-bottom: 20px;">
             <ul class="nav nav-tabs" id="myTab" role="tablist" style="list-style-type: none;">
                 <li class="nav-item" role="presentation">
