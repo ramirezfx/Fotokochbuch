@@ -30,6 +30,7 @@
                     <!-- Zutaten START -->
                     {% for nextstep in site.data.[page.datafile].zutaten %}
                     <div class="form-check">
+                        <hr style="border: 1px dashed gray;">
                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
                         <label class="form-check-label" for="flexCheckDefault">
                             {{ nextstep.s }}
@@ -45,6 +46,7 @@
                     {% endif %}
                     {% for nextstep in site.data.[page.datafile].vorbereitung %}
                     <div class="form-check">
+                        <hr style="border: 1px dashed gray;">
                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
                         <label class="form-check-label" for="flexCheckDefault">
                             {{ nextstep.s }}
@@ -60,6 +62,7 @@
                     {% endif %}
                     {% for nextstep in site.data.[page.datafile].zubereitung %}
                     <div class="form-check">
+                        <hr style="border: 1px dashed gray;">
                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
                         <label class="form-check-label" for="flexCheckDefault">
                             {{ nextstep.s }}
