@@ -13,3 +13,4 @@ zeitaufwandzubereitung: Mindestens 30 Minuten
 htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
+Die Marinade kann man entweder zum Marinieren von Fleisch verwenden, oder als Sauce. Wenn man sie als Sauce verwenden will: Einfach Gemüse anbraten, Marinade rein leeren und andicken lassen ... fertig !
