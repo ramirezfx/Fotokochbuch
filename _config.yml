@@ -14,3 +14,5 @@ imglogopath: /wp-content/images/cropped-SPEEDYPRENEUR.html
 faviconpath: /wp-content/images/cropped-favicon-32x32.png
 appletouchiconpath: /wp-content/images/cropped-favicon-180x180.png
 author: Speedypreneur
+portionen_icon: <i class="fa-solid fa-pizza-slice"></i>
+timer_icon: <i class="fa-solid fa-hourglass-end"></i>

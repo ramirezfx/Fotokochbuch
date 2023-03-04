@@ -19,10 +19,10 @@
                 <div class="tab-pane fade show active" id="rezeptinfo-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
                     <!-- Rezeptinfo START -->
                     {% if  page.portionen %}
-                        <b><i class="fa-solid fa-pizza-slice"></i> Portionen: <span class="badge bg-primary">{{ page.portionen }}</span><br></b>
+                        <b>{{ site.portionen_icon }} Portionen: <span class="badge bg-primary">{{ page.portionen }}</span><br></b>
                     {% endif %}
                     {% if page.gesamtzeitaufwand %}
-                        <b><i class="fa-solid fa-hourglass-end"></i> Gesamtzeitaufwand:  <span class="badge bg-primary">{{ page.gesamtzeitaufwand }}</span></b>
+                        <b>{{ site.timer_icon }} Gesamtzeitaufwand:  <span class="badge bg-primary">{{ page.gesamtzeitaufwand }}</span></b>
                     {% endif %}
                     <!-- Rezeptinfo ENDE -->
                 </div>
@@ -42,7 +42,7 @@
                 <div class="tab-pane fade" id="vorbereitung-tab-pane" role="tabpanel" aria-labelledby="vorbereitung-tab" tabindex="0">
                     <!--  Vorbereitung START -->
                     {% if page.zeitaufwandvorbereitung %}
-                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Vorbereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandvorbereitung }}</span></b></h5>
+                        <h5><b>{{ site.timer_icon }} Vorbereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandvorbereitung }}</span></b></h5>
                     {% endif %}
                     {% for nextstep in site.data.[page.datafile].vorbereitung %}
                     <div class="form-check">
@@ -58,7 +58,7 @@
                 <div class="tab-pane fade" id="zubereitung-tab-pane" role="tabpanel" aria-labelledby="zubereitung-tab" tabindex="0">
                     <!-- Zubereitung START -->
                     {% if page.zeitaufwandzubereitung %}
-                        <h5><b><i class="fa-solid fa-hourglass-end"></i> Zubereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandzubereitung }}</span></b></h5>
+                        <h5><b>{{ site.timer_icon }} Zubereitungszeit: <span class="badge bg-primary">{{ page.zeitaufwandzubereitung }}</span></b></h5>
                     {% endif %}
                     {% for nextstep in site.data.[page.datafile].zubereitung %}
                     <div class="form-check">
