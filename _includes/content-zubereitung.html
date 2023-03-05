@@ -31,12 +31,14 @@
                         <hr style="border: 3px solid black;" />
                         <table style="border-collapse: collapse; width: 100%;" border="1">
                             <tbody>
+                                {% if site.data.[page.datafile].naehrwerte.preis_pro_portion %}
                                 <tr>
                                     <td style="width: 48.9015%;"><b>Preis / Portion:</b></td>
                                     <td style="width: 48.9015%; text-align: right;">
                                         <i><b>{{ site.data.[page.datafile].naehrwerte.preis_pro_portion }} EUR</b></i>
                                     </td>
                                 </tr>
+                                {% endif %}
                                 <tr>
                                     <td style="width: 48.9015%;"><b>Menge / Portion:</b></td>
                                     <td style="width: 48.9015%; text-align: right;">
