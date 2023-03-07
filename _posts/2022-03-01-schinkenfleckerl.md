@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /schinkenfleckerl/
 pagedesc: Schinkenfleckerl
 title: Schinkenfleckerl

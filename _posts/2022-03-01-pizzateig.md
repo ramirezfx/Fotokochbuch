@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /pizzateig/
 pagedesc: Pizzateig - Ohne Kneten
 title: Pizzateig - Ohne Kneten

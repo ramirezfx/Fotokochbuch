@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /chili-con-carne-fix/
 pagedesc: Chili Con Carne-Fix
 title: Chili Con Carne-Fix

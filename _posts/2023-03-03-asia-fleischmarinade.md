@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /asia-fleischmarinade-sauce/
 pagedesc: Asia-Fleischmarinade/Sauce
 title: Asia-Fleischmarinade/Sauce

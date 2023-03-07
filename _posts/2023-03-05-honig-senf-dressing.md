@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /honig-senf-dressing/
 pagedesc: Würziges Honig-/Senf Dressing
 title: Würziges Honig-/Senf Dressing

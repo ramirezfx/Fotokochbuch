@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /pizzasauce/
 pagedesc: Pizzasauce
 title: Pizzasauce

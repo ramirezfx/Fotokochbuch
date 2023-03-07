@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /sauce-carbonara/
 pagedesc: Sauce Carbonara
 title: Sauce Carbonara

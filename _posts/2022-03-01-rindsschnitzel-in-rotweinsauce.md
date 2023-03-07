@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /rindsschnitzel-in-rotweinsauce/
 pagedesc: Rindsschnitzel In Rotweinsauce
 title: Rindsschnitzel In Rotweinsauce

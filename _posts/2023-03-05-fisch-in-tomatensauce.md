@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /fisch-in-tomatensauce/
 pagedesc: Fisch In Tomatensauce
 title: Fisch In Tomatensauce

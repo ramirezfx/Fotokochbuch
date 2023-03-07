@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /rub-entenbrust/
 pagedesc: Rub Für Entenbrust
 title: Rub Für Entenbrust

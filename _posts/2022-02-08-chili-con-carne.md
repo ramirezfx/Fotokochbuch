@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /chili-con-carne/
 pagedesc: Chili Con Carne (Coffee-Chili)
 title: Chili Con Carne (Coffee-Chili)

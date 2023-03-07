@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /bolognese-fix/
 pagedesc: Bolognese-Fix
 title: Bolognese-Fix

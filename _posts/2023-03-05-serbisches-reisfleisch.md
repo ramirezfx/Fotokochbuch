@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /serbisches-reisfleisch/
 pagedesc: Serbisches Reisfleisch
 title: Serbisches Reisfleisch

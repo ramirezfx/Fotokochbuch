@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /italian-seasoning/
 pagedesc: Italienische Gewürzmischung
 title: Italienische Gewürzmischung

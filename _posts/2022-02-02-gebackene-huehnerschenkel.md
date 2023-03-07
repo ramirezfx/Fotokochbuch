@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /gebackene-sesamschenkel/
 pagedesc: Gebackene Sesamschenkel
 title: Gebackene Sesamschenkel

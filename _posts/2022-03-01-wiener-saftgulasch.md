@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /wiener-saftgulasch/
 pagedesc: Wiener Saftgulasch
 title: Wiener Saftgulasch

@@ -1,5 +1,5 @@
 ---
-layout: blog-zubereitung
+layout: blog
 permalink: /XXX/ #permalink
 pagedesc: #Seitenbeschreibung
 title: #Titel
@@ -9,6 +9,7 @@ datafile: # Datenfile (Ohne .yml - Endung)
 tags: [XXX, YYY] #Tags
 portionen: # Portionen
 gesamtzeitaufwand: # Gesamtzeitaufwand
+zeitaufwandvorbereitung: # Zeitaufwand Vorbereitung
 zeitaufwandzubereitung: # Zeitaufwand Zubereitung
 htmlbeforeheadend: blog/htmlbeforeheadend.html
 htmlbeforebodyend: blog/htmlbeforebodyend.html

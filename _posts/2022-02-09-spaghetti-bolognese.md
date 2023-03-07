@@ -1,5 +1,5 @@
 ---
-layout: blog-vorbereitung-zubereitung
+layout: blog
 permalink: /spaghetti-bolognese/
 pagedesc: Sauce Bolognese
 title: Sauce Bolognese
