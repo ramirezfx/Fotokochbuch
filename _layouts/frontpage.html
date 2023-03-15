@@ -1,53 +1,33 @@
 <!DOCTYPE html>
-<html lang="en-US">
-    <!-- Mirrored from localhost:8080/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Apr 2022 13:33:04 GMT -->
-    <!-- Added by HTTrack -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <!-- /Added by HTTrack -->
-    {% include head.html %}
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
 
-    <body class="home blog wp-custom-logo wp-embed-responsive right-sidebar wide">
-      {% include svgs.html %}
-        <div id="page" class="hfeed site">
-            <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
-            {% include header.html %}
-
-                </div>
-                <!-- #header-text-nav-container -->
-            </header>
-            <!-- #masthead -->
-            <div id="main" class="clearfix">
-                <div class="inner-wrap clearfix">
-                    <div class="front-page-top-section clearfix">
-                        <div class="widget_slider_area"></div>
-
-                        <div class="widget_beside_slider"></div>
-                    </div>
-
-                    <div class="main-content-section clearfix">
-                        <div id="primary">
-                            <div id="content" class="clearfix">
-                              {% include frontpage-content.html %}
-                            </div>
-                        </div>
-
-                        {% include sidebar.html %}
-                    </div>
-                </div>
-                <!-- .inner-wrap -->
-            </div>
-            {% include pagination-navigation.html %}
-            {% include footer.html %}
-            <!-- #colophon -->
-            <a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
-        </div>
-        <!-- #page -->
-        {% include style.html %}
-        {% include scripts.html %}
-        {% if page.htmlbeforebodyend %}
-          {% include {{ page.htmlbeforebodyend }} %}
+    <body>
+        {% if site.htmlbeforebody %}
+            {% include {{ site.htmlbeforebody }} %}
         {% endif %}
-    </body>
+        {% if page.htmlbeforebody %}
+            {% include {{ page.htmlbeforebody }} %}
+        {% endif %}
+        <!-- Put BODY-HTML here: -->
 
-    <!-- Mirrored from localhost:8080/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Apr 2022 13:33:36 GMT -->
+{% include header.html %}
+
+{% include headline.html %}
+
+{% include frontpage-content.html %}
+
+{% include footer.html %}
+
+{% include mobirise-credit.html %}
+
+{% include scripts.html %}
+
+{% include cookie-alert.html %}
+
+        <!-- End BODY-HTML -->
+        {% if site.htmlbeforebodyend %} {% include {{ site.htmlbeforebodyend }} %} {% endif %} {% if page.htmlbeforebodyend %} {% include {{ page.htmlbeforebodyend }} %} {% endif %}
+    </body>
 </html>

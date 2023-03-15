@@ -1,6 +1,6 @@
 baseurl: "/"
 paginate_path: "/page:num"
-paginate: 10
+paginate: 12
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -8,11 +8,17 @@ plugins:
   - jekyll-paginate
   - jekyll-youtube
 
-url: https://test.speedypreneur.com
+url: # Your complete URL https://your.domain.om
 sitename: Speedypreneur
-imglogopath: /wp-content/images/cropped-SPEEDYPRENEUR.html
-faviconpath: /wp-content/images/cropped-favicon-32x32.png
-appletouchiconpath: /wp-content/images/cropped-favicon-180x180.png
-author: Speedypreneur
+imglogopath: /assets/images/logo.png
+faviconpath: # Path To Favicon
+cookiealert: Hello
+appletouchiconpath: # Path To Apple-Touch Favicon
+author: # Will be displayed at every post as the post-author
 portionen_icon: <i class="fa-solid fa-pizza-slice"></i>
 timer_icon: <i class="fa-solid fa-hourglass-end"></i>
+htmlheadstart:
+htmlbeforeheadend: site-htmlbeforeheadend.html
+htmlbodystart:
+htmlbeforebodyend:
+

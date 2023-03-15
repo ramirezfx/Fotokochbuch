@@ -1,0 +1,9 @@
+	{% assign name_page = "" %}
+	{% for page in site.pages %}
+		{% unless page.title == null or page.hide or name_page contains page.title %}
+		<!-- Put cycling HTML here: -->
+			<li class="nav-item"><a class="nav-link link text-black display-4" href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+		<!-- End cycling HTML -->
+		{% endunless %}
+		{% assign name_page = page.title | append: name_page %}
+	{% endfor %}
