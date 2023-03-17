@@ -1,0 +1,208 @@
+<section data-bs-version="5.1" class="tabs content18 cid-tyyMnREkwE" id="tabs1-8">
+    <!-- TAB START -->
+        
+    
+        
+        
+    <div class="container">
+            
+        <div class="row justify-content-center mt-4">
+            <div class="col-12 col-md-8">
+                <ul class="nav nav-tabs mb-4" role="tablist">
+                    <li class="nav-item first mbr-fonts-style"><a class="nav-link mbr-fonts-style show active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-p_tab0" aria-selected="true"><strong>Rezeptinfos</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-p_tab1" aria-selected="true"><strong>Zutaten</strong></a></li>
+                    {% if site.data.[page.datafile].vorbereitung %}
+                        <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-p_tab2" aria-selected="true"><strong>Vorbereitung</strong></a></li>
+                    {% endif %}
+                    {% if site.data.[page.datafile].zubereitung %}
+                        <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-p_tab3" aria-selected="true"><strong>Zubereitung</strong></a></li>
+                    {% endif %}
+                </ul>
+                <div class="tab-content">
+                    <div id="tab1" class="tab-pane in active" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-7">
+                                    {% if site.data.[page.datafile].portionen %}
+                                    <b>{{ site.portionen_icon }} Portionen: <span class="badge bg-primary">{{ site.data.[page.datafile].portionen }}</span><br /></b>
+                                    {% endif %}
+                                    {% if site.data.[page.datafile].gesamtzeitaufwand %}
+                                    <b>{{ site.timer_icon }} Gesamtzeitaufwand: <span class="badge bg-primary">{{ site.data.[page.datafile].gesamtzeitaufwand }}</span></b>
+                                    {% endif %}
+                                    {% if site.data.[page.datafile].naehrwerte %}
+                                    <!-- Nährwerttabelle START -->
+                                    <div style="margin-top: 30px; line-height: 80%;">
+                                        <h2>
+                                            <b>Nährwerte:</b>
+                                        </h2>
+                                        <p>Angaben pro 100g</p>
+                                        <hr style="border: 3px solid black;" />
+                                        <table style="border-collapse: collapse; width: 100%;" border="0">
+                                            <tbody>
+                                                {% if site.data.[page.datafile].naehrwerte.preis_pro_portion %}
+                                                <tr>
+                                                    <td style="width: 48.9015%;"><b>Preis / Portion:</b></td>
+                                                    <td style="width: 48.9015%; text-align: right;">
+                                                        <i><b>{{ site.data.[page.datafile].naehrwerte.preis_pro_portion }} EUR</b></i>
+                                                    </td>
+                                                </tr>
+                                                {% endif %}
+                                                <tr>
+                                                    <td style="width: 48.9015%;"><b>Menge / Portion:</b></td>
+                                                    <td style="width: 48.9015%; text-align: right;">
+                                                        <i><b>{{ site.data.[page.datafile].naehrwerte.menge_pro_portion }} g</b></i>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <h4>
+                                            <b>Kalorien: {{ site.data.[page.datafile].naehrwerte.kalorien }}</b>
+                                        </h4>
+                                        <table style="border-collapse: collapse; width: 100%;" border="0">
+                                            <hr style="border: 3px solid black;" />
+                                            <table style="border-collapse: collapse; width: 100%;" border="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;"><b>Fett</b></td>
+                                                        <td style="width: 48.9015%; text-align: right;">
+                                                            <i><b>{{ site.data.[page.datafile].naehrwerte.fett }} g</b></i>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;">&nbsp; Davon ges. Fetts.</td>
+                                                        <td style="width: 48.9015%; text-align: right;"><i>{{ site.data.[page.datafile].naehrwerte.ges_fette }} g</i></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <hr style="border: 1px dashed gray;" />
+                                            <table style="border-collapse: collapse; width: 100%;" border="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;"><b>Kohlenhydrate</b></td>
+                                                        <td style="width: 48.9015%; text-align: right;">
+                                                            <i><b>{{ site.data.[page.datafile].naehrwerte.kohlenhydrate }} g</b></i>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;">&nbsp; Davon Zucker</td>
+                                                        <td style="width: 48.9015%; text-align: right;"><i>{{ site.data.[page.datafile].naehrwerte.zucker }} g</i></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <hr style="border: 1px dashed gray;" />
+                                            <table style="border-collapse: collapse; width: 100%;" border="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;"><b>Ballaststoffe</b></td>
+                                                        <td style="width: 48.9015%; text-align: right;">
+                                                            <i><b>{{ site.data.[page.datafile].naehrwerte.ballaststoffe }} g</b></i>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <hr style="border: 1px dashed gray;" />
+                                            <table style="border-collapse: collapse; width: 100%;" border="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;"><b>Eiwei&szlig;</b></td>
+                                                        <td style="width: 48.9015%; text-align: right;">
+                                                            <i><b>{{ site.data.[page.datafile].naehrwerte.eiweiss }} g</b></i>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <hr style="border: 1px dashed gray;" />
+                                            <table style="border-collapse: collapse; width: 100%;" border="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 48.9015%;"><b>Salz</b></td>
+                                                        <td style="width: 48.9015%; text-align: right;">
+                                                            <i><b>{{ site.data.[page.datafile].naehrwerte.salz }} g</b></i>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </table>
+                                    </div>
+                                    <!-- Nährwerttabelle ENDE -->
+                                    {% endif %}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    {% if site.data.[page.datafile].zutaten %}
+                    <div id="tab2" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-7">
+                                    {% for nextstep in site.data.[page.datafile].zutaten %}
+                                    <div class="form-check">
+                                        <hr style="border: 1px dashed gray;" />
+                                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                        <label class="form-check-label" for="flexCheckDefault">
+                                            {{ nextstep.s }}
+                                        </label>
+                                    </div>
+                                    {% endfor %}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if site.data.[page.datafile].vorbereitung %}
+                    <div id="tab3" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-7">
+                                <!--  Vorbereitung START -->
+                                {% if site.data.[page.datafile].zeitaufwandvorbereitung %}
+                                <h5>
+                                    <b>{{ site.timer_icon }} Vorbereitungszeit: <span class="badge bg-primary">{{ site.data.[page.datafile].zeitaufwandvorbereitung }}</span></b>
+                                </h5>
+                                {% endif %} {% for nextstep in site.data.[page.datafile].vorbereitung %}
+                                <div class="form-check">
+                                    <hr style="border: 1px dashed gray;" />
+                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        {{ nextstep.s }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                                <!-- Vorbereitung ENDE -->
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if site.data.[page.datafile].zubereitung %}
+                    <div id="tab4" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-7">
+                                <!-- Zubereitung START -->
+                                {% if site.data.[page.datafile].zeitaufwandzubereitung %}
+                                <h5>
+                                    <b>{{ site.timer_icon }} Zubereitungszeit: <span class="badge bg-primary">{{ site.data.[page.datafile].zeitaufwandzubereitung }}</span></b>
+                                </h5>
+                                {% endif %} {% for nextstep in site.data.[page.datafile].zubereitung %}
+                                <div class="form-check">
+                                    <hr style="border: 1px dashed gray;" />
+                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        {{ nextstep.s }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                                <!-- Zubereitung ENDE -->
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- TAB END -->
+</section>

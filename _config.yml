@@ -1,6 +1,6 @@
 baseurl: "/"
 paginate_path: "/page:num"
-paginate: 12
+paginate: 10
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -9,16 +9,13 @@ plugins:
   - jekyll-youtube
 
 url: # Your complete URL https://your.domain.om
-sitename: Speedypreneur
+sitename: Kochen Mit KI
 imglogopath: /assets/images/logo.png
 faviconpath: # Path To Favicon
-cookiealert: Hello
+cookiealert: Unsere Seite benutzt Cookies
 appletouchiconpath: # Path To Apple-Touch Favicon
-author: # Will be displayed at every post as the post-author
-portionen_icon: <i class="fa-solid fa-pizza-slice"></i>
-timer_icon: <i class="fa-solid fa-hourglass-end"></i>
+author: Kochen Mit KI
 htmlheadstart:
 htmlbeforeheadend: site-htmlbeforeheadend.html
 htmlbodystart:
 htmlbeforebodyend:
-

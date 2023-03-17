@@ -7,6 +7,4 @@ headline: Würziges Honig-/Senf Dressing
 thumbnail: /assets/images/honigsenfdressing.webp
 datafile: honig-senf-dressing
 tags: [Dressing]
-htmlbeforeheadend: blog/htmlbeforeheadend.html
-htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---

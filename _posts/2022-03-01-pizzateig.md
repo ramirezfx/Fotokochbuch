@@ -7,6 +7,4 @@ headline: Pizzateig - Ohne Kneten
 thumbnail: /assets/images/pizza.jpg
 datafile: pizzateig
 tags: [Hauptspeise]
-htmlbeforeheadend: blog/htmlbeforeheadend.html
-htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---

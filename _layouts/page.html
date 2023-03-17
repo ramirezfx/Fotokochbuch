@@ -5,16 +5,18 @@
 		{% include head.html %}
 	</head>
 	<body>
-		{% include header.html %}
-		{% include headline.html %}
+		{% include header-block.html %}
+		{% include headline-block.html %}
 		{% include page-content.html %}
 
-		{% include footer.html %}
-		{% include mobirise-credit.html %}
-        {% include scripts.html %}
-		{% include cookie-alert.html %}
-        {% if page.htmlbeforebodyend %}
+		{% include pagination-navigation.html %}
+		{% include footer-block.html %}
+		{% include mobirise-credit-block.html %}
+        	{% include scripts.html %}
+			{% include cookie-alert-block.html %}
+			
+        	{% if page.htmlbeforebodyend %}
 			{% include {{ page.htmlbeforebodyend }} %}
-        {% endif %}
+        	{% endif %}
     </body>
 </html>

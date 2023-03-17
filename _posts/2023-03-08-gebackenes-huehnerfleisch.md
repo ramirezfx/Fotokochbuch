@@ -7,6 +7,4 @@ headline: Gebackenes Huhn
 thumbnail: /assets/images/gebackenes-huhn.jpg
 datafile: gebackenes-huhn
 tags: [Hauptspeise, Huhn]
-htmlbeforeheadend: blog/htmlbeforeheadend.html
-htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---

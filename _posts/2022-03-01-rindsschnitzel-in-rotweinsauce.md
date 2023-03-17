@@ -7,6 +7,4 @@ headline: Rindsschnitzel In Rotweinsauce
 thumbnail: /assets/images/rindsschnitzel-in-rotweinsauce.jpg
 datafile: rindsschnitzel-in-rotweinsauce
 tags: [Hauptspeise, Rindfleisch]
-htmlbeforeheadend: blog/htmlbeforeheadend.html
-htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---

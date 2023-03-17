@@ -1,18 +1,24 @@
-{% if site.htmlheadstart %}
-    {% include {{ site.htmlheadstart }} %}
-{% endif %}
-{% if page.htmlheadstart %}
-    {% include {{ page.htmlheadstart }} %}
-{% endif %}
+	{% if site.htmlheadstart %}
+		{% include {{ site.htmlheadstart }} %}
+	{% endif %}
+	
+	{% if page.htmlheadstart %}
+		{% include {{ page.htmlheadstart }} %}
+	{% endif %}
 
-<!-- Paste Your HEAD-HTML-Code Here -->
+	<!-- Paste Your HEAD-HTML-Code Here -->
 
 <!-- Site made with Mobirise Website Builder v5.8.1, https://mobirise.com -->
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="generator" content="Mobirise v5.8.1, mobirise.com" />
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-<link rel="shortcut icon" data-href="/assets/images/logo.png" type="image/x-icon" />
+
+{% if site.faviconpath %}
+<link rel="shortcut icon" data-href="{{ site.faviconpath }}" type="image/x-icon" />
+{% endif %}
+
+
 <meta name="description" content="{{ page.pagedesc }}" />
 
 <title>{{ page.title }}</title>
@@ -25,12 +31,13 @@
 <link rel="preload" data-href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 <noscript><link rel="stylesheet" data-href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" /></noscript>
 <link rel="preload" as="style" data-href="/assets/mobirise/css/mbr-additional.css" /><link rel="stylesheet" data-href="/assets/mobirise/css/mbr-additional.css" type="text/css" />
+	
+	<!-- End HEAD-HTML-Code -->
 
-<!-- End HEAD-HTML-Code -->
+	{% if site.htmlbeforeheadend %}
+		{% include {{ site.htmlbeforeheadend }} %}
+	{% endif %}
 
-{% if site.htmlbeforeheadend %}
-    {% include {{ site.htmlbeforeheadend }} %}
-{% endif %}
-{% if page.htmlbeforeheadend %}
-    {% include {{ page.htmlbeforeheadend }} %}
-{% endif %}
+	{% if page.htmlbeforeheadend %}
+		{% include {{ page.htmlbeforeheadend }} %}
+	{% endif %}

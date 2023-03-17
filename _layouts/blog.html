@@ -5,16 +5,22 @@
 		{% include head.html %}
 	</head>
 	<body>
-		{% include header.html %}
-		{% include headline.html %}
-		{% include blog-content.html %}
+		{% include header-block.html %}
+		{% include headline-block.html %}
+        {% include feat-image-block.html %}
 
-		{% include footer.html %}
-		{% include mobirise-credit.html %}
+        {{ content }}
+
+        {% include tab-block.html %}
+        {% include blog-nav-block.html %}
+		{% include pagination-navigation.html %}
+		{% include footer-block.html %}
+		{% include mobirise-credit-block.html %}
         {% include scripts.html %}
-		{% include cookie-alert.html %}
+		{% include cookie-alert-block.html %}
+			
         {% if page.htmlbeforebodyend %}
-			{% include {{ page.htmlbeforebodyend }} %}
+		{% include {{ page.htmlbeforebodyend }} %}
         {% endif %}
     </body>
 </html>

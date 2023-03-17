@@ -7,6 +7,4 @@ headline: Italienische Gewürzmischung
 datafile: italian-seasoning
 thumbnail: /assets/images/italian-seasoning.jpg
 tags: [Gewürz]
-htmlbeforeheadend: blog/htmlbeforeheadend.html
-htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---

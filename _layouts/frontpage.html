@@ -8,26 +8,33 @@
         {% if site.htmlbeforebody %}
             {% include {{ site.htmlbeforebody }} %}
         {% endif %}
+        
         {% if page.htmlbeforebody %}
             {% include {{ page.htmlbeforebody }} %}
         {% endif %}
+
         <!-- Put BODY-HTML here: -->
 
-{% include header.html %}
+        {% include header-block.html %}
+        {% include headline-block.html %}
 
-{% include headline.html %}
-
-{% include frontpage-content.html %}
-
-{% include footer.html %}
-
-{% include mobirise-credit.html %}
-
-{% include scripts.html %}
-
-{% include cookie-alert.html %}
-
+        {{ content }}
+       
+        {% include cycling-block.html %}
+        {% include pagination-navigation.html %}
+        {% include footer-block.html %}
+        {% include mobirise-credit-block.html %}
+        {% include scripts.html %}                
+        {% include cookie-alert-block.html %}
+        
         <!-- End BODY-HTML -->
-        {% if site.htmlbeforebodyend %} {% include {{ site.htmlbeforebodyend }} %} {% endif %} {% if page.htmlbeforebodyend %} {% include {{ page.htmlbeforebodyend }} %} {% endif %}
+
+        {% if site.htmlbeforebodyend %}
+            {% include {{ site.htmlbeforebodyend }} %}
+        {% endif %}
+        
+        {% if page.htmlbeforebodyend %}
+            {% include {{ page.htmlbeforebodyend }} %}
+        {% endif %}
     </body>
 </html>

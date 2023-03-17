@@ -7,6 +7,4 @@ headline: Chili Con Carne-Fix
 thumbnail: /assets/images/chili-con-carne-fix.webp
 datafile: chili-con-carne-fix
 tags: [Fix, Gewürz]
-htmlbeforeheadend: blog/htmlbeforeheadend.html
-htmlbeforebodyend: blog/htmlbeforebodyend.html
 ---
