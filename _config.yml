@@ -14,6 +14,8 @@ imglogopath: /assets/images/logo.png
 faviconpath: # Path To Favicon
 cookiealert: Unsere Seite benutzt Cookies
 appletouchiconpath: # Path To Apple-Touch Favicon
+portionen_icon: <i class="fa-solid fa-pizza-slice"></i>
+timer_icon: <i class="fa-solid fa-hourglass-end"></i>
 author: Kochen Mit KI
 htmlheadstart:
 htmlbeforeheadend: site-htmlbeforeheadend.html
