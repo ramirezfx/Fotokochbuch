@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="home">
-
+    <hr>
     <!-- cycles through posts to get tags -->
     {% assign rawtags = "" %}
     {% for post in site.posts %}
@@ -30,6 +30,7 @@ layout: page
 
     <!-- Displays the list of tags-->
     {% include tag-list.html tags=rawtags %}
+    <hr>
 <br><br>
     <!-- Displays the posts and pages that contains the tag-->
     <div class="posts">
