@@ -1,5 +1,7 @@
 portionen: 6
 zeitaufwandvorbereitung: 6 Minuten
+zeitaufwandzubereitung: 1 Stunde, 15 Minuten
+gesamtzeitaufwand: 1 Stunde, 21 Minuten
 
 zutaten:
  - s: 500g Faschiertes
@@ -18,7 +20,7 @@ vorbereitung:
 zubereitung:
  - s: 4 EL Öl in einen Kochtopf geben
  - s: Kochfeld auf mittlere Hitze stellen
- - s: Inhalt der Schüssel mit den Zwiebelwürfeln in den Kochtopf geben und goldgelb rösten
+ - s: Inhalt der Schüssel mit den Zwiebelwürfeln in den Kochtopf geben und goldgelb rösten <i class="fa-solid fa-hourglass-end"></i> <span class="badge bg-primary">12 Minuten</span>
  - s: 500g Faschiertes dazu geben und krümmelig anbraten
  - s: Den Behälter mit den 250 ml Rotwein dazu geben und so lange köcheln lassen bis vom Rotwein nix mehr übrig ist.
  - s: Den Inhalt der 2 Dosen geschälte Tomaten dazu geben und umrühren
