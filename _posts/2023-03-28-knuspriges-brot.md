@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 permalink: /knuspriges-brot/
 pagedesc: Knuspriges Brot-Ohne Kneten
 title: Knuspriges Brot-Ohne Kneten

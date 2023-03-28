@@ -18,15 +18,16 @@ vorbereitung:
  - s: Alles miteinander vermengen
  - s: 350g lauwarmes Wasser in die Rührschüssel geben und alles miteinander vermengen, bis kein trockenes Mehl mehr übrig bleibt
  - s: Den Teig in einen großen Behälter geben und mit Frischhaltefolie luftdicht verschliessen
- - s: Den Teig an einen warmen Ort geben (z.B. ausgeschalteter Backofen) und 18 Stunden ruhen lassen
+ - s: Den Teig an einen warmen Ort geben (z.B. ausgeschalteter Backofen) und 18 Stunden ruhen lassen <span class="badge bg-primary">18 Stunden</span>
  - s: Nach den 18 Stunden den Teig auf eine bemehlte Fläche geben
  - s: Den Teig vier mal von aussen nach innen wie ein Kuvert falten
  - s: Den Teig in eine Schüssel mit bemelten Geschirrtuch geben
- - s: Den Teig weitere 2 Stunden gehen lassen
+ - s: Den Teig weitere 2 Stunden gehen lassen <span class="badge bg-primary">2 Stunden</span>
 
 zubereitung:
- - s: 30 Minuten vor dem Backen den Ofen (Heißluft) vorheizen (220 Grad) mit einem Blech drinnen.
+ - s: 30 Minuten vor dem Backen den Ofen (Heißluft) vorheizen (220 Grad) mit einem Blech drinnen. <span class="badge bg-primary">30 Minuten</span>
  - s: Kurz vor dem Backen zwei feuerfeste Schalen mit Wasser unten in den Ofen schieben.
  - s: Den nun fertigen Brotteig auf ein Backpapier kippen und auf das heiße Blech setzen.
- - s: Nach 20 Minuten die Wasserschale(n) raus nehmen
+ - s: Nach 20 Minuten die Wasserschale(n) raus nehmen <span class="badge bg-primary">20 Minuten</span>
+ - s: Weitere 20 Minuten fertig backen <span class="badge bg-primary">20 Minuten</span>
  - s: Aus dem Ofen und auf einem Gitter abkühlen lassen
