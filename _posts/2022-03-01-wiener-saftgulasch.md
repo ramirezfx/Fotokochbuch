@@ -34,7 +34,7 @@ Die Zubereitung des Wiener Saftgulaschs erfordert etwas Zeit und Geduld, aber es
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <a href="ZZZURL"><img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" /></a>
+                    <a href="ZZZURL"><img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" /></a>
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -62,7 +62,7 @@ Um die Intensität und den Geschmack des Saftgulaschs zu verstärken, werden auc
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <a href="ZZZURL"><img data-src="/assets/images/variations.png" alt="Mobirise Website Builder" /></a>
+                    <a href="ZZZURL"><img src="/assets/images/variations.png" alt="Mobirise Website Builder" /></a>
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -91,7 +91,7 @@ Darüber hinaus kann das Wiener Saftgulasch auch in verschiedenen Varianten serv
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <a href="ZZZURL"><img data-src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" /></a>
+                    <a href="ZZZURL"><img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" /></a>
                 </div>
             </div>
             <div class="col-12 col-lg">

@@ -1,13 +1,9 @@
-<!-- Start Static HTML here: -->
-
-<!-- Put This Code when you wanna cycle through posts and edit the file post-cycle.html:
-
-{% include post-cycle.html %}
-
--->
-
-<!-- Put This Code where you wanna have the Navigation-Buttons:
-
-    {% include pagination-navigation.html %}
-
--->
+<!-- Start HTML here: -->
+<section class="inner-page pt-4">
+    <div class="container">
+        {% include headline-block.html %}
+        {{ content }}
+        {% include cycling-block.html %}
+        {% include pagination-navigation.html %}
+    </div>
+  </section>

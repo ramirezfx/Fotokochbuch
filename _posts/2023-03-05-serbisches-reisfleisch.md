@@ -43,7 +43,7 @@ tags: [Hauptspeise, Schweinefleisch, Reis]
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -78,7 +78,7 @@ Durch das Verständnis der Zutaten können Sie auch einige Varianten ausprobiere
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/variations.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/variations.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -111,7 +111,7 @@ Mit diesen und vielen anderen Variationen kann man das serbische Reisfleisch imm
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

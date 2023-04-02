@@ -33,7 +33,7 @@ Probieren Sie das Rezept aus und lassen Sie sich von dem einzigartigen Geschmack
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -62,7 +62,7 @@ Weitere wichtige Zutaten sind das Mehl, das dazu verwendet wird, um die Sauce zu
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/variations.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/variations.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -91,7 +91,7 @@ Um das Gericht etwas gesünder zu gestalten, kann man auch Vollkornmehl anstelle
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

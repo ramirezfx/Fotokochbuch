@@ -34,7 +34,7 @@ Die Kombination aus Knoblauch und Schlagobers mag im ersten Moment ungewöhnlich
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -65,7 +65,7 @@ Bei der Zubereitung der Knoblauchcremesuppe ist es wichtig, hochwertige Zutaten 
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/variations.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/variations.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -94,7 +94,7 @@ Bei der Zubereitung der Knoblauchcremesuppe ist es wichtig, hochwertige Zutaten 
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

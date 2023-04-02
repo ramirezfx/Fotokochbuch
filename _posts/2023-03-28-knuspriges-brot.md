@@ -39,7 +39,7 @@ Das Ergebnis ist ein köstliches, knuspriges Brot mit einer goldbraunen Kruste u
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

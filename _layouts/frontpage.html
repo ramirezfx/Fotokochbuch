@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        {% include head.html %}
+        {% include head-block.html %}
     </head>
 
     <body>
@@ -12,23 +12,14 @@
         {% if page.htmlbeforebody %}
             {% include {{ page.htmlbeforebody }} %}
         {% endif %}
-
         <!-- Put BODY-HTML here: -->
-
         {% include header-block.html %}
-        {% include headline-block.html %}
-
-        {{ content }}
-       
-        {% include cycling-block.html %}
-        {% include pagination-navigation.html %}
+        {% include frontpage-content.html %}
         {% include footer-block.html %}
-        {% include mobirise-credit-block.html %}
-        {% include scripts.html %}                
+        {% include scripts.html %}
         {% include cookie-alert-block.html %}
-        
-        <!-- End BODY-HTML -->
 
+        <!-- End BODY-HTML -->
         {% if site.htmlbeforebodyend %}
             {% include {{ site.htmlbeforebodyend }} %}
         {% endif %}

@@ -37,7 +37,7 @@ Sobald alle Zutaten gemischt sind, k√∂nnen Sie die Sauce mit einem Mixer oder P√
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

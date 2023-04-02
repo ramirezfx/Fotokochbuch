@@ -34,7 +34,7 @@ Man kann das Rezept auch nach Belieben variieren, indem man zum Beispiel verschi
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -61,7 +61,7 @@ Es gibt eine perfekte Kombination aus Gewürzen, Käse und Schinken, die den Ges
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/variations.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/variations.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -96,7 +96,7 @@ Mit diesen Variationen können Schinkenfleckerl zu einem vielseitigen Gericht we
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

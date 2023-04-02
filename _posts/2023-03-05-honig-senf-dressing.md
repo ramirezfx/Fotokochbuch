@@ -34,7 +34,7 @@ Das würzige Honig-Senf-Dressing ist eine großartige Ergänzung zu jeder Mahlze
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -63,7 +63,7 @@ Das würzige Honig-Senf-Dressing ist eine großartige Ergänzung zu jeder Mahlze
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/variations.png" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/variations.png" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">
@@ -104,7 +104,7 @@ Hier sind einige Variationen, die Sie ausprobieren können, um das Würzige Honi
         <div class="row align-items-center">
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <img data-src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
+                    <img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
                 </div>
             </div>
             <div class="col-12 col-lg">

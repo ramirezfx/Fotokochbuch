@@ -1,49 +1,26 @@
-<section data-bs-version="5.1" class="menu menu2 cid-tyytkxj9QY" once="menu" id="menu2-0">
-    <!-- HEADER-BLOCK START -->
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-between">
 
-    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
-        <div class="container">
-            <div class="navbar-brand">
-                <span class="navbar-logo">
-                    <a href="/">
-                        <img data-src="{{ site.imglogopath }}" alt="Mobirise Website Builder" style="height: 3rem;" />
-                    </a>
-                </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7" href="/">{{ site.sitename }}</a></span>
-            </div>
-            <button
-                class="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-bs-toggle="collapse"
-                data-target="#navbarSupportedContent"
-                data-bs-target="#navbarSupportedContent"
-                aria-controls="navbarNavAltMarkup"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-            >
-                <div class="hamburger">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
-                    {% assign name_page = "" %}
-                    {% for page in site.pages %}
-                        {% unless page.menutitle == null or page.hide or name_page contains page.title %}
-                        <!-- Put cycling HTML here: -->
-                            <li class="nav-item"><a class="nav-link link text-black display-4" href="{{ page.url | relative_url }}"> {{ page.menutitle }}</a></li>
-                        <!-- End cycling HTML -->
-                        {% endunless %}
-                        {% assign name_page = page.title | append: name_page %}
-                    {% endfor %}
- 
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- HEADER-BLOCK END -->
-</section>
+      <div id="logo">
+        
+
+        <!-- <span><a href="index.html"><img src="{{ site.imglogopath }}" alt=""></a></span> -->
+        <span><h1><a href="/">{{ site.sitename }}</span></a></h1></span>
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          {% assign name_page = "" %}
+          {% for page in site.pages %}
+            {% unless page.menutitle == null or page.hide or name_page contains page.title %}
+              <li><a class="nav-link scrollto " href="{{ page.url | relative_url }}">{{ page.menutitle }}</a></li>
+            {% endunless %}
+            {% assign name_page = page.title | append: name_page %}
+            {% endfor %}
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->

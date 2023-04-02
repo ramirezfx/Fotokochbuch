@@ -1,33 +1,22 @@
-<section data-bs-version="5.1" class="gallery3 cid-tyK4nubSqf" id="gallery3-d">
-    <div class="container-fluid">
-        <div class="mbr-section-head">
-            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
-                <strong>Unsere Rezeptsammlung:</strong>
-            </h4>
+<!-- ======= Team Section ======= -->
+<section id="team">
+    <div class="container" data-aos="fade-up">
+        <div class="section-header">
+            <h2>Unsere Rezepte:</h2>
         </div>
-        <div class="row mt-4">
+        <div class="row">
             {% for post in paginator.posts %}
-
-            <!-- CYCLE START -->
-            <div class="item features-image сol-12 col-md-6 col-lg-3">
-                <div class="item-wrapper">
-                    {% if post.thumbnail %}
-                    <div class="item-img">
-                        <a href="{{ post.url }}"><img data-src="{{ post.thumbnail }}" alt="Mobirise Website Builder" /></a>
-                    </div>
-                    {% endif %}
-                    <div class="item-content">
-                        <h5 class="item-title mbr-fonts-style display-7">
-                            <a href="{{ post.url }}" class="text-primary"><strong>{{ post.headline }}</strong></a>
-                        </h5>
-
-                        <p class="mbr-text mbr-fonts-style mt-3 display-7">{% include cycling-tags-post.html %}</p>
+            <div class="col-lg-3 col-md-6">
+                <div class="member">
+                    <div class="pic"><img src="{{ post.thumbnail }}" alt="" /></div>
+                    <div class="details">
+                        <h4><a href="{{ post.url }}" style="color:white">{{ post.headline }}</a></h4>
+                        <p>{% include cycling-tags-post.html %}</p>
                     </div>
                 </div>
             </div>
-            <!-- CYCLE END -->
-
             {% endfor %}
         </div>
     </div>
 </section>
+<!-- End Team Section -->

@@ -1,26 +1,30 @@
 <!DOCTYPE html>
-<html lang="en-US">
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<head>
-		{% include head.html %}
-	</head>
-	<body>
-		{% include header-block.html %}
-		{% include headline-block.html %}
-        {% include feat-image-block.html %}
+<html lang="en">
+    <head>
+        {% include head-block.html %}
+    </head>
 
-        {{ content }}
-
-        {% include tab-block.html %}
-        {% include blog-nav-block.html %}
-		{% include pagination-navigation.html %}
-		{% include footer-block.html %}
-		{% include mobirise-credit-block.html %}
+    <body>
+        {% if site.htmlbeforebody %}
+            {% include {{ site.htmlbeforebody }} %}
+        {% endif %}
+        
+        {% if page.htmlbeforebody %}
+            {% include {{ page.htmlbeforebody }} %}
+        {% endif %}
+        <!-- Put BODY-HTML here: -->
+        {% include header-block.html %}
+        {% include blog-content.html %}
+        {% include footer-block.html %}
         {% include scripts.html %}
-		{% include cookie-alert-block.html %}
-			
+        {% include cookie-alert-block.html %}
+        <!-- End BODY-HTML -->
+        {% if site.htmlbeforebodyend %}
+            {% include {{ site.htmlbeforebodyend }} %}
+        {% endif %}
+        
         {% if page.htmlbeforebodyend %}
-		{% include {{ page.htmlbeforebodyend }} %}
+            {% include {{ page.htmlbeforebodyend }} %}
         {% endif %}
     </body>
 </html>
