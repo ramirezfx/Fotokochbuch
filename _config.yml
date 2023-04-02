@@ -14,7 +14,9 @@ imglogopath: /assets/images/logo.png # Path To Logo-Image
 faviconpath: /assets/images/logo.png # Path To Favicon
 cookiealert:
 appletouchiconpath: # Path To Apple-Touch Favicon
-author: # Will be displayed at every post as the post-author
+portionen_icon: <i class="fa-solid fa-pizza-slice"></i>
+timer_icon: <i class="fa-solid fa-hourglass-end"></i>
+author: Kochen Mit KI # Will be displayed at every post as the post-author
 htmlheadstart:
 htmlbeforeheadend: site-htmlbeforeheadend.html
 htmlbodystart:
