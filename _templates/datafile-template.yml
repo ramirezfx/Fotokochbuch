@@ -1,0 +1,25 @@
+portionen: 
+zeitaufwandvorbereitung: 
+zeitaufwandzubereitung: 
+gesamtzeitaufwand: 
+
+zutaten:
+ - s: Schritt 1
+
+vorbereitung:
+ - s: Schritt 1
+
+zubereitung:
+ - s: Schritt 1
+
+
+naehrwerte:
+ kalorien: 
+ menge_pro_portion: 
+ fett: 
+ ges_fette: 
+ kohlenhydrate: 
+ zucker: 
+ ballaststoffe: 
+ eiweiss: 
+ salz: 

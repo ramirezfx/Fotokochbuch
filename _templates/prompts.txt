@@ -1,0 +1,13 @@
+Einleitungstext:
+Ich habe folgendes Rezept: xxx
+[Rezept]
+Generiere mir für dieses Rezept einen Einleitungstext mit 2-3 Absätzen. Bitte füge zwischen jedem Absatz <br><br> hinzu, um sie voneinander zu trennen.
+
+Zutaten:
+Generiere mir einen Text zur Überschrift "Über die Zutaten". Bitte füge zwischen jedem Absatz <br><br> hinzu, um sie voneinander zu trennen.
+
+Variationen:
+Generiere mir einen Text zur Überschrift "Variationen". Bitte füge zwischen jedem Absatz <br><br> hinzu, um sie voneinander zu trennen. Ausschliesslich bei Aufzählungen stelle folgenden Code voran: <i class="fa-regular fa-circle-check"></i>
+
+Serviervorschläge:
+Generiere mir einen Text zur Überschrift "Serviervorschläge". Bitte füge zwischen jedem Absatz <br><br> hinzu, um sie voneinander zu trennen. Ausschliesslich bei Aufzählungen stelle folgenden Code voran: <i class="fa-regular fa-circle-check"></i>
