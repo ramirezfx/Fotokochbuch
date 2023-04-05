@@ -22,7 +22,9 @@ tags: [Hauptspeise, Pasta]
     Man kann das Rezept auch nach Belieben variieren, indem man zum Beispiel verschiedene Käsesorten oder zusätzliche Gewürze hinzufügt. Wer es gerne etwas kräftiger mag, kann auch scharfen Paprika oder Chiliflocken hinzufügen. Die
     Schinkenfleckerl lassen sich auch wunderbar als Beilage zu gebratenem Fleisch oder Gemüse servieren. Probieren Sie dieses leckere Gericht aus und lassen Sie sich von seinem einzigartigen Geschmack begeistern!
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -39,7 +41,9 @@ tags: [Hauptspeise, Pasta]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -70,7 +74,9 @@ tags: [Hauptspeise, Pasta]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -92,3 +98,6 @@ tags: [Hauptspeise, Pasta]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

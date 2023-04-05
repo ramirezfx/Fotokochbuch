@@ -23,7 +23,9 @@ tags: [Suppe]
     kalt ein Genuss und kann auch am nächsten Tag noch aufgewärmt werden. Servieren Sie die Suppe mit ein paar gerösteten Brotscheiben oder Croutons, um die cremige Konsistenz der Suppe zu unterstreichen. Probieren Sie dieses Rezept aus und
     lassen Sie sich von der intensiven Knoblauchnote und der cremigen Konsistenz verzaubern.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -50,7 +52,9 @@ tags: [Suppe]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -75,7 +79,9 @@ tags: [Suppe]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -103,3 +109,6 @@ tags: [Suppe]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

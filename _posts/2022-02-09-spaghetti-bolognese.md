@@ -20,7 +20,9 @@ tags: [Sauce, Pasta, Faschiertes]
     Serviert wird die Sauce Bolognese im deutschsprachigem Raum zu Spaghetti, aber auch zu anderen Nudelsorten passt sie hervorragend. Ein Hauch geriebener Parmesan rundet den Geschmack perfekt ab und sorgt für ein vollendetes kulinarisches
     Erlebnis. Mit diesem Rezept können Sie schnell und einfach eine leckere und würzige Sauce Bolognese zaubern, die sowohl Erwachsene als auch Kinder begeistern wird.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -42,7 +44,9 @@ tags: [Sauce, Pasta, Faschiertes]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -65,7 +69,9 @@ tags: [Sauce, Pasta, Faschiertes]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -102,3 +108,6 @@ tags: [Sauce, Pasta, Faschiertes]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

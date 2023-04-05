@@ -23,7 +23,9 @@ htmlbeforebodyend:
     Das Ergebnis ist ein köstliches, knuspriges Brot mit einer goldbraunen Kruste und einer weichen, luftigen Krume. Es kann als Beilage zu einer Suppe oder einem Salat serviert werden oder einfach mit Butter und Marmelade zum Frühstück
     genossen werden. Wenn Sie auf der Suche nach einem einfachen und leckeren Brotrezept sind, sollten Sie dieses knusprige Brot ohne Kneten ausprobieren.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -53,3 +55,6 @@ htmlbeforebodyend:
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

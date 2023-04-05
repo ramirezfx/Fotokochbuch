@@ -21,7 +21,9 @@ tags: [Hauptspeise, Rindfleisch]
     Die Zubereitung des Wiener Saftgulaschs erfordert etwas Zeit und Geduld, aber es lohnt sich. Das Fleisch wird langsam gekocht, bis es zart und saftig ist. Das Ergebnis ist ein köstliches Gericht, das sich perfekt für ein gemütliches
     Abendessen mit Familie oder Freunden eignet. Probieren Sie es aus und lassen Sie sich von den köstlichen Aromen der österreichischen Küche verführen!
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -44,7 +46,9 @@ tags: [Hauptspeise, Rindfleisch]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -66,7 +70,9 @@ tags: [Hauptspeise, Rindfleisch]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -98,3 +104,6 @@ tags: [Hauptspeise, Rindfleisch]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

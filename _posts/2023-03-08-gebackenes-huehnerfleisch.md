@@ -17,7 +17,9 @@ tags: [Hauptspeise, Huhn]
     Dieses Gericht ist vielseitig und kann nach Belieben angepasst werden. Es kann mit verschiedenen Gewürzen und Soßen zubereitet werden, um den Geschmack zu variieren. Außerdem kann es mit Reis oder Nudeln serviert werden, um eine
     vollständige Mahlzeit zu kreieren.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -39,7 +41,9 @@ tags: [Hauptspeise, Huhn]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -69,7 +73,9 @@ tags: [Hauptspeise, Huhn]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -97,3 +103,6 @@ tags: [Hauptspeise, Huhn]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

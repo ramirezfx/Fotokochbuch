@@ -24,7 +24,9 @@ tags: [Hauptspeise, Schweinefleisch, Reis]
     reduzieren. Au&szlig;erdem kann man das Rezept leicht f&uuml;r eine gr&ouml;&szlig;ere Gruppe verdoppeln oder halbieren, je nach Bedarf. Wenn man also auf der Suche nach einem einfachen, aber k&ouml;stlichen Rezept f&uuml;r das
     n&auml;chste Abendessen ist, dann ist serbisches Reisfleisch eine ausgezeichnete Wahl.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -58,7 +60,9 @@ tags: [Hauptspeise, Schweinefleisch, Reis]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -87,7 +91,9 @@ tags: [Hauptspeise, Schweinefleisch, Reis]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -124,3 +130,6 @@ tags: [Hauptspeise, Schweinefleisch, Reis]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

@@ -21,7 +21,9 @@ tags: [Huhn, Hauptspeise]
     Dieses Gericht kann auf verschiedene Weise angepasst werden, um den individuellen Geschmack und die Präferenzen anzupassen. Die Schärfe des Gerichts kann durch die Zugabe von mehr oder weniger Currypaste kontrolliert werden, während die
     Auswahl des Gemüses je nach Verfügbarkeit oder persönlicher Vorliebe variiert werden kann. Servieren Sie Red Thai Curry mit Reis oder Nudeln für eine vollständige Mahlzeit, die sowohl sättigend als auch lecker ist.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -47,7 +49,9 @@ tags: [Huhn, Hauptspeise]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -79,7 +83,9 @@ tags: [Huhn, Hauptspeise]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -113,3 +119,6 @@ tags: [Huhn, Hauptspeise]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

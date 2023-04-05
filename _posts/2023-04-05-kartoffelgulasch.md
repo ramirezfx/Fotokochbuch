@@ -21,7 +21,9 @@ tags: [Mikrowellengericht, Hauptspeise, Kartoffeln]
     Probieren Sie dieses einfache und köstliche Rezept aus und verwöhnen Sie Ihren Gaumen mit dem würzigen Geschmack von Kartoffelgulasch. Es ist das perfekte Gericht für alle, die auf der Suche nach einem schnellen und einfachen Abendessen
     sind, das dennoch sättigend und köstlich ist.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -52,7 +54,9 @@ tags: [Mikrowellengericht, Hauptspeise, Kartoffeln]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -77,7 +81,9 @@ tags: [Mikrowellengericht, Hauptspeise, Kartoffeln]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -110,3 +116,6 @@ tags: [Mikrowellengericht, Hauptspeise, Kartoffeln]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

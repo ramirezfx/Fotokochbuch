@@ -21,7 +21,9 @@ tags: [Faschiertes, Hauptspeise]
     Am Ende werden die Kidney-Bohnen hinzugef&uuml;gt und das Chili con Carne ohne Deckel weitergekocht, um die Sauce einzudicken und die Bohnen zu erw&auml;rmen. Servieren Sie dieses k&ouml;stliche Gericht mit einem Schuss saurer Sahne und
     etwas K&auml;se und genie&szlig;en Sie es mit Tortilla-Chips oder Reis. Dieses Rezept ist perfekt f&uuml;r eine gro&szlig;e Familie oder Freunde und ist ein klassisches Gericht, das immer wieder gerne gegessen wird.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -44,7 +46,9 @@ tags: [Faschiertes, Hauptspeise]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -79,7 +83,9 @@ tags: [Faschiertes, Hauptspeise]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -112,3 +118,6 @@ tags: [Faschiertes, Hauptspeise]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>

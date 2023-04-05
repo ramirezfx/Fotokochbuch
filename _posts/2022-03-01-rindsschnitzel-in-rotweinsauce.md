@@ -21,7 +21,9 @@ tags: [Hauptspeise, Rindfleisch]
     Probieren Sie das Rezept aus und lassen Sie sich von dem einzigartigen Geschmack und der zarten Konsistenz der Rindsschnitzel verzaubern. Servieren Sie das Gericht mit einer Beilage Ihrer Wahl und einem guten Glas Rotwein, um das
     Erlebnis perfekt zu machen.
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -44,7 +46,9 @@ tags: [Hauptspeise, Rindfleisch]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -66,7 +70,9 @@ tags: [Hauptspeise, Rindfleisch]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -94,3 +100,6 @@ tags: [Hauptspeise, Rindfleisch]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
