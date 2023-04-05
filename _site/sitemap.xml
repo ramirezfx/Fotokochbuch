@@ -351,7 +351,7 @@
     <url>
       <loc>http://localhost:4100/</loc>
       
-        <lastmod>2023-04-05T11:32:41+02:00</lastmod>
+        <lastmod>2023-04-05T11:38:19+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -366,7 +366,7 @@
     <url>
       <loc>http://localhost:4100/search/</loc>
       
-        <lastmod>2023-04-05T11:32:41+02:00</lastmod>
+        <lastmod>2023-04-05T11:38:19+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -381,7 +381,7 @@
     <url>
       <loc>http://localhost:4100/data/search.liquid</loc>
       
-        <lastmod>2023-04-05T11:32:41+02:00</lastmod>
+        <lastmod>2023-04-05T11:38:19+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -398,7 +398,7 @@
     <url>
       <loc>http://localhost:4100/tags/</loc>
       
-        <lastmod>2023-04-05T11:32:41+02:00</lastmod>
+        <lastmod>2023-04-05T11:38:19+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -413,7 +413,7 @@
     <url>
       <loc>http://localhost:4100/feed.xml</loc>
       
-        <lastmod>2023-04-05T11:32:41+02:00</lastmod>
+        <lastmod>2023-04-05T11:38:19+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -428,7 +428,7 @@
     <url>
       <loc>http://localhost:4100/page2/</loc>
       
-        <lastmod>2023-04-05T11:32:41+02:00</lastmod>
+        <lastmod>2023-04-05T11:38:19+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
