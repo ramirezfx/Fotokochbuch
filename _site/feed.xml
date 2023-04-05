@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4100/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4100/" rel="alternate" type="text/html" /><updated>2023-04-03T15:52:59+02:00</updated><id>http://localhost:4100/feed.xml</id><author><name>Kochen Mit KI</name></author><entry><title type="html">Red Thai Curry</title><link href="http://localhost:4100/red-thai-curry/" rel="alternate" type="text/html" title="Red Thai Curry" /><published>2023-04-03T00:00:00+02:00</published><updated>2023-04-03T00:00:00+02:00</updated><id>http://localhost:4100/red-thai-curry</id><content type="html" xml:base="http://localhost:4100/red-thai-curry/"><![CDATA[<p>Red Thai Curry ist ein köstliches und einfaches Gericht, das aus der thailändischen Küche stammt und sich inzwischen weltweit großer Beliebtheit erfreut. Dieses Curry ist ein wunderbares Beispiel für die einzigartige Kombination von würzigen, süßen und sauren Aromen, die in der thailändischen Küche typisch sind. Es ist ein vielseitiges Gericht, das sich perfekt für den Familienabend oder das gemeinsame Essen mit Freunden eignet.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4100/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4100/" rel="alternate" type="text/html" /><updated>2023-04-05T08:42:31+02:00</updated><id>http://localhost:4100/feed.xml</id><author><name>Kochen Mit KI</name></author><entry><title type="html">Kartoffelgulasch Aus Der Mikrowelle</title><link href="http://localhost:4100/kartoffelgulasch-aus-der-mikrowelle/" rel="alternate" type="text/html" title="Kartoffelgulasch Aus Der Mikrowelle" /><published>2023-04-05T00:00:00+02:00</published><updated>2023-04-05T00:00:00+02:00</updated><id>http://localhost:4100/kartoffelgulasch</id><content type="html" xml:base="http://localhost:4100/kartoffelgulasch-aus-der-mikrowelle/"><![CDATA[<!-- Einleitungstext -->
+<p>
+    Kartoffelgulasch ist ein deftiges und würziges Gericht, das sich perfekt für kalte Abende eignet. Es ist einfach zuzubereiten und erfordert nur wenige Zutaten, die wahrscheinlich bereits in Ihrer Küche vorhanden sind. Dieses Rezept kombiniert saftige Kartoffeln, herzhafte Debreziner und eine Gewürzmischung aus Paprika, Kümmel und Majoran, um einen Geschmack zu erzeugen, der sowohl sättigend als auch köstlich ist.<br /><br />
+
+Das Beste an diesem Rezept ist, dass es schnell und einfach zuzubereiten ist. Sie benötigen lediglich eine Mikrowelle und ein paar Schüsseln, um alle Zutaten zu mischen und zu kochen. In nur wenigen Minuten können Sie ein warmes und befriedigendes Abendessen zubereiten, das Ihre Familie und Freunde begeistern wird.<br /><br />
+
+Probieren Sie dieses einfache und köstliche Rezept aus und verwöhnen Sie Ihren Gaumen mit dem würzigen Geschmack von Kartoffelgulasch. Es ist das perfekte Gericht für alle, die auf der Suche nach einem schnellen und einfachen Abendessen sind, das dennoch sättigend und köstlich ist.
+</p>
+
+<!-- Zutaten> -->
+<div class="row" style="margin-bottom: 20px;">
+    <div class="col-12 col-lg-4">
+        <img src="/assets/images/zutaten.png" alt="Zutaten" />
+    </div>
+    <div class="col-12 col-lg">
+        <h3>Über die Zutaten:</h3>
+        <p>
+            Beim Kochen und Backen sind Zutaten der Schlüssel zum Erfolg. Jede Zutat bringt ihren eigenen Geschmack, Textur und Aroma in ein Gericht ein und beeinflusst das Endergebnis. In diesem Text werfen wir einen Blick auf die Zutaten des Kartoffelgulasch-Rezepts und erfahren mehr darüber, was sie so besonders macht.<br /><br />
+
+Die Hauptzutat dieses Rezepts sind Kartoffeln. Kartoffeln sind reich an Kohlenhydraten, Vitamin C und Ballaststoffen, was sie zu einer ausgezeichneten Energiequelle macht. Sie sind auch sehr vielseitig und können auf viele verschiedene Arten zubereitet werden, von Kartoffelpüree bis hin zu gebratenen Kartoffeln.<br /><br />
+
+Eine weitere wichtige Zutat in diesem Rezept sind die Debreziner. Diese würzigen Würste stammen aus Ungarn und sind eine beliebte Zutat in vielen ungarischen Gerichten. Sie sind reich an Geschmack und verleihen dem Gericht eine herzhafte Note. Wenn Sie keine Debreziner finden können, können Sie auch andere würzige Würste wie Kielbasa oder Chorizo verwenden.<br /><br />
+
+Zusätzlich zu den Kartoffeln und Debrezinern enthält das Rezept auch Gewürze wie Paprika, Kümmel und Majoran. Diese Gewürze sind charakteristisch für die ungarische Küche und verleihen dem Gericht seinen unverwechselbaren Geschmack. Paprika bringt eine süße, rauchige Note, Kümmel eine warme Würze und Majoran eine zarte, aber würzige Note. In Kombination ergibt dies eine köstliche und aromatische Gewürzmischung, die den Geschmack des Gerichts verbessert.<br /><br />
+
+Das Kartoffelgulasch-Rezept mag einfach erscheinen, aber seine Zutaten sind das Geheimnis seines Geschmacks. Von Kartoffeln und Debrezinern bis hin zu Gewürzen und Suppenwürfeln tragen alle Zutaten zum einzigartigen Geschmack und der Textur dieses Gerichts bei. Indem Sie diese Zutaten in Ihren eigenen Rezepten verwenden, können Sie den Geschmack und das Aroma Ihrer Gerichte verbessern und ein kulinarisches Erlebnis schaffen, das unvergesslich ist.
+        </p>
+    </div>
+</div>
+
+<!-- Variationen -->
+<div class="row" style="margin-bottom: 20px;">
+    <div class="col-12 col-lg-4">
+        <img src="/assets/images/variations.png" alt="Variationen" />
+    </div>
+    <div class="col-12 col-lg">
+        <h3>Variationen:</h3>
+        <p>
+            <i class="fa-regular fa-circle-check"></i> Vegetarische Version: Für eine vegetarische Version des Kartoffelgulaschs können die Debreziner weggelassen werden und stattdessen Gemüse wie Paprika, Zucchini und Aubergine hinzugefügt werden. Auch Tofu oder Sojageschnetzeltes sind eine gute Alternative zu Fleisch.<br /><br />
+<i class="fa-regular fa-circle-check"></i> Würziger: Wer es gerne etwas schärfer mag, kann zusätzlich zu den anderen Gewürzen noch etwas Chilipulver oder scharfe Paprika hinzufügen.<br /><br />
+<i class="fa-regular fa-circle-check"></i> Mit Fleischbällchen: Statt Debreziner können auch selbstgemachte Fleischbällchen in den Kartoffelgulasch gegeben werden. Hierfür Rinderhackfleisch mit Ei, Semmelbröseln, Salz und Pfeffer zu Bällchen formen und in einer Pfanne anbraten, bevor sie in den Gulasch gegeben werden.<br /><br />
+<i class="fa-regular fa-circle-check"></i> Cremiger: Für eine cremigere Konsistenz kann am Ende des Kochvorgangs noch etwas Schmand oder saure Sahne untergerührt werden. Auch geriebener Käse passt gut dazu und sorgt für eine leckere Kruste.<br /><br />
+<i class="fa-regular fa-circle-check"></i> Mit Sauerkraut: Für eine herzhaftere Variante kann dem Kartoffelgulasch noch etwas Sauerkraut hinzugefügt werden. Hierfür einfach das Sauerkraut abtropfen lassen und in den letzten Minuten der Garzeit unter den Gulasch rühren.
+        </p>
+    </div>
+</div>
+
+<!-- Serviervorschläge -->
+<div class="row" style="margin-bottom: 20px;">
+    <div class="col-12 col-lg-4">
+        <img src="/assets/images/serving-tips.jpg" alt="Variationen" />
+    </div>
+    <div class="col-12 col-lg">
+        <h3>Serviervorschläge:</h3>
+        <p>
+            Unten finden Sie einige Vorschläge, wie Sie Kartoffelgulasch servieren können:
+
+<i class="fa-regular fa-circle-check"></i> Servieren Sie das Kartoffelgulasch einfach in einer Schüssel, garniert mit ein paar frischen Kräutern, wie z.B. Petersilie oder Schnittlauch.<br /><br />
+
+<i class="fa-regular fa-circle-check"></i> Servieren Sie das Kartoffelgulasch mit einem Klecks saurer Sahne oder Schmand, um dem Gericht eine cremige Note zu verleihen.<br /><br />
+
+<i class="fa-regular fa-circle-check"></i> Als Beilage passt frisches oder geröstetes Brot, Baguette oder auch Knödel sehr gut zum Kartoffelgulasch.<br /><br />
+
+<i class="fa-regular fa-circle-check"></i> Für eine zusätzliche Geschmacksnote können Sie auch ein paar Gewürzgurken oder eingelegte Paprika in kleine Stücke schneiden und unter das Gulasch mischen.<br /><br />
+
+<i class="fa-regular fa-circle-check"></i> Wenn Sie es gerne etwas würziger mögen, können Sie auch etwas scharfen Senf zum Kartoffelgulasch servieren.<br /><br />
+
+<i class="fa-regular fa-circle-check"></i> Als vegetarische Variante können Sie die Debreziner durch geröstete Paprikastreifen oder auch durch Pilze ersetzen.<br /><br />
+
+Ich hoffe, diese Serviervorschläge inspirieren Sie dazu, Ihr Kartoffelgulasch auf verschiedene Arten zu genießen!
+        </p>
+    </div>
+</div>]]></content><author><name>Kochen Mit KI</name></author><category term="Mikrowellengericht" /><category term="Hauptspeise" /><category term="Kartoffeln" /><summary type="html"><![CDATA[Kartoffelgulasch ist ein deftiges und würziges Gericht, das sich perfekt für kalte Abende eignet. Es ist einfach zuzubereiten und erfordert nur wenige Zutaten, die wahrscheinlich bereits in Ihrer Küche vorhanden sind. Dieses Rezept kombiniert saftige Kartoffeln, herzhafte Debreziner und eine Gewürzmischung aus Paprika, Kümmel und Majoran, um einen Geschmack zu erzeugen, der sowohl sättigend als auch köstlich ist.]]></summary></entry><entry><title type="html">Red Thai Curry</title><link href="http://localhost:4100/red-thai-curry/" rel="alternate" type="text/html" title="Red Thai Curry" /><published>2023-04-03T00:00:00+02:00</published><updated>2023-04-03T00:00:00+02:00</updated><id>http://localhost:4100/red-thai-curry</id><content type="html" xml:base="http://localhost:4100/red-thai-curry/"><![CDATA[<p>Red Thai Curry ist ein köstliches und einfaches Gericht, das aus der thailändischen Küche stammt und sich inzwischen weltweit großer Beliebtheit erfreut. Dieses Curry ist ein wunderbares Beispiel für die einzigartige Kombination von würzigen, süßen und sauren Aromen, die in der thailändischen Küche typisch sind. Es ist ein vielseitiges Gericht, das sich perfekt für den Familienabend oder das gemeinsame Essen mit Freunden eignet.</p>
 
 <p>Das Rezept für Red Thai Curry ist einfach zu folgen und erfordert nur wenige Zutaten, die leicht zu bekommen sind. Es ist eine großartige Möglichkeit, eine Vielzahl von Gemüsesorten und Proteinen in eine köstliche Mahlzeit zu integrieren. Das Hühnerfleisch wird zusammen mit frischem Gemüse wie Paprika, Karotten und Zuckerschoten in einer reichhaltigen Kokosmilchsoße gekocht, die mit roter Currypaste gewürzt ist.</p>
 
@@ -899,113 +971,4 @@ Diese cremige Knoblauchsuppe eignet sich hervorragend als Vorspeise für ein fes
         </div>
     </div>
     <!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE END -->
-</section>]]></content><author><name>Kochen Mit KI</name></author><category term="Suppe" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Sauce Carbonara</title><link href="http://localhost:4100/sauce-carbonara/" rel="alternate" type="text/html" title="Sauce Carbonara" /><published>2022-03-03T00:00:00+01:00</published><updated>2022-03-03T00:00:00+01:00</updated><id>http://localhost:4100/sauce-carbonara</id><content type="html" xml:base="http://localhost:4100/sauce-carbonara/"><![CDATA[<section data-bs-version="5.1" class="content5 cid-tyyJcTFpkx" id="content5-4">
-    <!-- CONTENT-TEMPLATE START -->
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-12 col-lg-10">
-            <p class="mbr-text mbr-fonts-style display-7">
-                Die Sauce Carbonara ist ein klassisches italienisches Gericht, das besonders cremig und würzig ist. Mit nur wenigen Zutaten lässt sich diese köstliche Sauce schnell und einfach zubereiten. Der Geschmack des Specks in Kombination mit der Sahne, den Gewürzen und der Zwiebel verleihen der Carbonara-Sauce ihren charakteristischen Geschmack. Serviert wird sie traditionell mit Pasta, aber sie eignet sich auch gut als Dip oder als Beilage zu Fleischgerichten. Hier ist das Rezept für eine leckere Sauce Carbonara, die garantiert jeden Gaumen verwöhnen wird.
-                <br /><br />
-                Für die Zubereitung benötigt man nur wenige Zutaten: Zwiebeln, Speck oder Braunschweiger, Sahne, Eigelb, Gewürze und Öl oder Butter zum Anbraten. Die Zutaten werden in Schüsseln vorbereitet und dann in einer Pfanne zusammengeführt. Dabei werden zuerst die Zwiebeln und der Speck angebraten, bevor die Sahne und das Eigelb hinzugefügt werden. Nachdem alles gut vermischt ist, wird die Sauce mit Salz, Pfeffer, Basilikum und Muskat gewürzt.
-                <br /><br />
-                Die Sauce Carbonara ist eine perfekte Wahl für ein schnelles und einfaches Mittag- oder Abendessen. Mit nur wenigen Handgriffen ist sie zubereitet und lässt sich vielseitig einsetzen. Probieren Sie das Rezept aus und genießen Sie den authentischen Geschmack der italienischen Küche!
-            </p>
-        </div>
-    </div>
-</div>
-<!-- CONTENT-TEMPLATE END -->
-
-</section>
-
-<section data-bs-version="5.1" class="image1 cid-tyz1VZbAsM" id="image1-a">
-    <!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE START -->
-<div class="container">
-    <div class="row align-items-center">
-        <div class="col-12 col-lg-4">
-            <div class="image-wrapper">
-                <img src="/assets/images/zutaten.png" alt="Mobirise Website Builder" />
-            </div>
-        </div>
-        <div class="col-12 col-lg">
-            <div class="text-wrapper">
-                <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5">
-                    <strong>Über die Zutaten</strong>
-                </h3>
-                <p class="mbr-text mbr-fonts-style display-7">
-                    Bei der Zubereitung von Sauce Carbonara kommt es auf die richtige Auswahl und Dosierung der Zutaten an. Hier sind einige wichtige Aspekte zu beachten:
-                    <br /><br />
-                    <i class="fa-regular fa-circle-check"></i> Zwiebeln: In diesem Rezept sorgen Zwiebeln für die gewünschte Würze. Sie sollten in kleine Würfel geschnitten und goldgelb geröstet werden.
-                    <br />
-                    <i class="fa-regular fa-circle-check"></i> Speck/Braunschweiger: Für eine authentische Carbonara benötigt man Speck oder Braunschweiger, die in kleine Würfel geschnitten und knusprig angebraten werden sollten.
-                    <br />
-                    <i class="fa-regular fa-circle-check"></i> Schlagobers: Das Schlagobers bildet die Basis für die cremige Sauce und sollte bei niedriger Hitze mit den anderen Zutaten vermischt werden.
-                    <br />
-                    <i class="fa-regular fa-circle-check"></i> Eigelb: Eigelb dient als Bindemittel und sorgt dafür, dass die Sauce eine cremige Konsistenz bekommt.
-                    <br />
-                    <i class="fa-regular fa-circle-check"></i> Gewürze: Basilikum, Salz, Pfeffer und Muskat geben der Sauce Carbonara das gewisse Etwas und sollten mit Bedacht dosiert werden.
-                    <br /><br />
-                    Wenn Sie diese Aspekte bei der Auswahl und Zubereitung der Zutaten berücksichtigen, steht einem köstlichen Pasta-Erlebnis nichts mehr im Wege.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE END -->
-
-</section>
-
-<section data-bs-version="5.1" class="image1 cid-tyz1VZbAsM" id="image1-a">
-    <!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE START -->
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-12 col-lg-4">
-                <div class="image-wrapper">
-                    <img src="/assets/images/variations.png" alt="Mobirise Website Builder" />
-                </div>
-            </div>
-            <div class="col-12 col-lg">
-                <div class="text-wrapper">
-                    <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5">
-                        <strong>Variationen: Sauce Carbonara</strong>
-                    </h3>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Die klassische Carbonara-Sauce wird normalerweise mit Speck oder Pancetta zubereitet, aber es gibt viele Varianten, die ohne Fleisch oder mit alternativen Zutaten gemacht werden können. Eine vegetarische Option ist, den Speck durch geräucherte Paprika oder pflanzlichen Speck zu ersetzen. Eine vegane Variante kann mit Soja-Sahne, pflanzlichem Käse und veganem Speck zubereitet werden. Eine andere Variation wäre, die Sauce mit verschiedenen Käsesorten wie Parmesan, Pecorino, oder Gouda zu machen. Man kann auch zusätzliche Zutaten wie Erbsen, Pilze, oder Brokkoli hinzufügen, um der Sauce mehr Geschmack und Textur zu verleihen. 
-                        <br /><br />
-                        Egal welche Variante man wählt, die Sauce Carbonara ist ein klassisches und leckeres Gericht, das sich schnell und einfach zubereiten lässt.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE END -->
-</section>
-
-<section data-bs-version="5.1" class="image1 cid-tyz1VZbAsM" id="image1-a">
-    <!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE START -->
-
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-12 col-lg-4">
-                <div class="image-wrapper">
-                    <img src="/assets/images/serving-tips.jpg" alt="Mobirise Website Builder" />
-                </div>
-            </div>
-            <div class="col-12 col-lg">
-                <div class="text-wrapper">
-                    <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5">
-                        <strong>Serviervorschläge</strong>
-                    </h3>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        <i class="fa-regular fa-circle-check"></i> Servieren Sie die Sauce Carbonara mit Spaghetti oder einer anderen Pasta Ihrer Wahl. <br /><br />
-                        <i class="fa-regular fa-circle-check"></i> Bestreuen Sie die Carbonara mit etwas geriebenem Parmesan oder Pecorino. <br /><br />
-                        <i class="fa-regular fa-circle-check"></i> Servieren Sie dazu einen grünen Salat mit einer einfachen Vinaigrette und etwas Brot zum Dippen in die Sauce. <br /><br />
-                        <i class="fa-regular fa-circle-check"></i> Verfeinern Sie die Carbonara mit frischen Kräutern wie Basilikum oder Petersilie. <br /><br />
-                        <i class="fa-regular fa-circle-check"></i> Genießen Sie die Sauce Carbonara als Hauptgericht oder als Beilage zu Fleisch oder Fisch. 
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- CONTENT-WITH-IMAGE-AND-HEADLINE-LEFT-TEMPLATE END -->
-</section>]]></content><author><name>Kochen Mit KI</name></author><category term="Hauptspeise" /><category term="Pasta" /><category term="Sauce" /><summary type="html"><![CDATA[Die Sauce Carbonara ist ein klassisches italienisches Gericht, das besonders cremig und würzig ist. Mit nur wenigen Zutaten lässt sich diese köstliche Sauce schnell und einfach zubereiten. Der Geschmack des Specks in Kombination mit der Sahne, den Gewürzen und der Zwiebel verleihen der Carbonara-Sauce ihren charakteristischen Geschmack. Serviert wird sie traditionell mit Pasta, aber sie eignet sich auch gut als Dip oder als Beilage zu Fleischgerichten. Hier ist das Rezept für eine leckere Sauce Carbonara, die garantiert jeden Gaumen verwöhnen wird. Für die Zubereitung benötigt man nur wenige Zutaten: Zwiebeln, Speck oder Braunschweiger, Sahne, Eigelb, Gewürze und Öl oder Butter zum Anbraten. Die Zutaten werden in Schüsseln vorbereitet und dann in einer Pfanne zusammengeführt. Dabei werden zuerst die Zwiebeln und der Speck angebraten, bevor die Sahne und das Eigelb hinzugefügt werden. Nachdem alles gut vermischt ist, wird die Sauce mit Salz, Pfeffer, Basilikum und Muskat gewürzt. Die Sauce Carbonara ist eine perfekte Wahl für ein schnelles und einfaches Mittag- oder Abendessen. Mit nur wenigen Handgriffen ist sie zubereitet und lässt sich vielseitig einsetzen. Probieren Sie das Rezept aus und genießen Sie den authentischen Geschmack der italienischen Küche!]]></summary></entry></feed>
+</section>]]></content><author><name>Kochen Mit KI</name></author><category term="Suppe" /><summary type="html"><![CDATA[]]></summary></entry></feed>
