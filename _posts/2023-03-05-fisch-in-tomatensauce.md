@@ -21,7 +21,9 @@ tags: [Hauptspeise, Fisch]
     Dieses Rezept ist einfach und schnell zuzubereiten und eignet sich hervorragend für ein schnelles Abendessen unter der Woche oder für ein gemeinsames Essen mit Freunden und Familie am Wochenende. Probieren Sie es aus und lassen Sie sich
     von dem köstlichen Geschmack überraschen!
 </p>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Zutaten> -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -44,7 +46,9 @@ tags: [Hauptspeise, Fisch]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Variationen -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -76,7 +80,9 @@ tags: [Hauptspeise, Fisch]
         </p>
     </div>
 </div>
-
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
 <!-- Serviervorschläge -->
 <div class="row" style="margin-bottom: 20px;">
     <div class="col-12 col-lg-4">
@@ -109,3 +115,6 @@ tags: [Hauptspeise, Fisch]
         </p>
     </div>
 </div>
+<p style="text-align: right;">
+    <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+</p>
