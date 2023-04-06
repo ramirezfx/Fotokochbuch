@@ -6,7 +6,7 @@ title: Fisch In Tomatensauce
 headline: Fisch In Tomatensauce
 thumbnail: /assets/images/fisch-in-tomatensauce.jpg
 datafile: fisch-in-tomatensauce
-tags: [Hauptspeise, Fisch]
+tags: [Fisch, Hauptspeise ]
 ---
 <!-- Einleitungstext -->
 <p>

@@ -6,7 +6,7 @@ title: Serbisches Reisfleisch
 headline: Serbisches Reisfleisch
 thumbnail: /assets/images/serbisches-reisfleisch.webp
 datafile: serbisches-reisfleisch
-tags: [Hauptspeise, Schweinefleisch, Reis]
+tags: [Schweinefleisch, Reis, Hauptspeise ]
 ---
 <!-- Einleitungstext -->
 <p>

@@ -7,8 +7,6 @@ headline: Knuspriges Brot-Ohne Kneten
 thumbnail: /assets/images/bauernbrot.jpg
 datafile: knuspriges-brot
 tags: Backen
-htmlbeforeheadend:
-htmlbeforebodyend:
 ---
 <!-- Einleitungstext -->
 <p>

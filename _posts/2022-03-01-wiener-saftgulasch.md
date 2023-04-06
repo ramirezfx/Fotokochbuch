@@ -6,7 +6,7 @@ title: Wiener Saftgulasch
 headline: Wiener Saftgulasch
 thumbnail: /assets/images/wiener-saftgulasch.jpg
 datafile: wiener-saftgulasch
-tags: [Hauptspeise, Rindfleisch]
+tags: [Rindfleisch, Hauptspeise ]
 ---
 <!-- Einleitungstext -->
 <p>

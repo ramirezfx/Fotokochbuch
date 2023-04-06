@@ -6,7 +6,7 @@ title: Schinkenfleckerl
 headline: Schinkenfleckerl
 thumbnail: /assets/images/schinkenfleckerl.jpg
 datafile: schinkenfleckerl
-tags: [Hauptspeise, Pasta]
+tags: [Pasta, Hauptspeise]
 ---
 <!-- Einleitungstext -->
 <p>

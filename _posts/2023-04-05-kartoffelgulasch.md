@@ -6,7 +6,7 @@ title: Kartoffelgulasch Aus Der Mikrowelle
 headline: Kartoffelgulasch Aus der Mikrowelle
 thumbnail: /assets/images/kartoffelgulasch.jpg
 datafile: kartoffelgulasch
-tags: [Mikrowellengericht, Hauptspeise, Kartoffeln]
+tags: [Mikrowellengericht, Kartoffeln, Hauptspeise ]
 ---
 <!-- Einleitungstext -->
 <p>

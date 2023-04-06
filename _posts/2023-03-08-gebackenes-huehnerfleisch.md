@@ -6,7 +6,7 @@ title: Gebackenes Huhn
 headline: Gebackenes Huhn
 thumbnail: /assets/images/gebackenes-huhn.jpg
 datafile: gebackenes-huhn
-tags: [Hauptspeise, Huhn]
+tags: [Huhn, Hauptspeise ]
 ---
 <!-- Einleitungstext -->
 <p>

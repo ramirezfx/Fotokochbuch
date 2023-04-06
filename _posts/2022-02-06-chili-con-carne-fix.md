@@ -6,5 +6,5 @@ title: Chili Con Carne-Fix
 headline: Chili Con Carne-Fix
 thumbnail: /assets/images/chili-con-carne-fix.webp
 datafile: chili-con-carne-fix
-tags: [Fix, Gewürz]
+tags: [Gewürz, Fix]
 ---
