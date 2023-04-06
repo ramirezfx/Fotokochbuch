@@ -7,7 +7,71 @@
         <center><b>{% include cycling-tags-post-gray.html %}</b></center>
         <br><br>
         <a href="#portfolio" style="color: #333;"><h5><b><i class="fa-solid fa-utensils"></i> <u>Springe Direkt zum Rezept <i class="fa-regular fa-circle-down"></i></u></b></h5></a>
+        
+        {% if site.data.[page.datafile].einleitungstext %}
+            <p>
+                {{ site.data.[page.datafile].einleitungstext }}
+            </p>
+            <p style="text-align: right;">
+                <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+            </p>
+        {% endif %}
+
+        {% if site.data.[page.datafile].zutatentext %}
+        <div class="row" style="margin-bottom: 20px;">
+            <div class="col-12 col-lg-4">
+                <img src="/assets/images/zutaten.png" alt="Zutaten" />
+            </div>
+            <div class="col-12 col-lg">
+                <h3>Über die Zutaten:</h3>
+                <p>
+                    {{ site.data.[page.datafile].zutatentext }}
+                </p>
+            </div>
+        </div>
+            <p style="text-align: right;">
+                <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+            </p>
+        {% endif %}        
+
+        {% if site.data.[page.datafile].variationentext %}
+        <div class="row" style="margin-bottom: 20px;">
+            <div class="col-12 col-lg-4">
+                <img src="/assets/images/variations.png" alt="Variationen" />
+            </div>
+            <div class="col-12 col-lg">
+                <h3>Variationen:</h3>
+                <p>
+                    {{ site.data.[page.datafile].variationentext }}
+                </p>
+            </div>
+        </div>
+        <p style="text-align: right;">
+            <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+        </p>
+        {% endif %}
+        
+        {% if site.data.[page.datafile].serviervorschlaegetext %}
+        <div class="row" style="margin-bottom: 20px;">
+            <div class="col-12 col-lg-4">
+                <img src="/assets/images/serving-tips.jpg" alt="Variationen" />
+            </div>
+            <div class="col-12 col-lg">
+                <h3>Serviervorschläge:</h3>
+                <p>
+                    {{ site.data.[page.datafile].serviervorschlaegetext }}
+                </p>
+            </div>
+        </div>
+        <p style="text-align: right;">
+            <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
+        </p>
+
+        {% endif %}
+
+
         {{ content }}
+
         {% include tab-block.html %}
         <p style="text-align: right;">
             <a href="#" style="color: #333">Scrolle zum Anfang <i class="fa-solid fa-chevron-up"></i></a>
