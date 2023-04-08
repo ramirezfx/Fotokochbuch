@@ -1,0 +1,25 @@
+Ich übermittle Dir mit dem nächsten prompt ein Rezept. Bitte warte danach auf Anweisungen
+Enter drücken
+[Rezept übermitteln]
+
+Zutaten generieren:
+Ich will dass Du dieses Rezept in 3 Schritte trennst: Zutaten, Vorbereitung, Zubereitung
+Bitte gib mir jetzt die Rubrik Zutaten in Deutsch. Verwende metrische Einheiten. Ausgabe ist yml mit folgendem Format:
+Zutaten:
+ - s: Zutat 1
+ - s: Zutat 2
+Ausgabe bitte als yaml-Codebox, damit man es rauskopieren kann.
+
+Vorbereitung generieren:
+Bitte gib mir jetzt die Rubrik Vorbereitung in Deutsch. Verwende metrische Einheiten. Ausgabe ist yml mit folgendem Format:
+Vorbereitung:
+ - s: Schritt 1
+ - s: Schritt 2
+Ausgabe bitte als yaml-Codebox, damit man es rauskopieren kann.
+
+Zubereitung generieren:
+Bitte gib mir jetzt die Rubrik Zubereitung in Deutsch. Verwende metrische Einheiten. Ausgabe ist yml mit folgendem Format:
+Zubereitung:
+ - s: Schritt 1
+ - s: Schritt 2
+Ausgabe bitte als yaml-Codebox, damit man es rauskopieren kann.
