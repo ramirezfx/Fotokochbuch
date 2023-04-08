@@ -1,19 +1,26 @@
-portionen: 
-zeitaufwandvorbereitung: 
-zeitaufwandzubereitung: 
-gesamtzeitaufwand: 
+Rezeptinfo:
+ Portionen: 
+ Zeitaufwandvorbereitung: 
+ Zeitaufwandzubereitung: 
+ Gesamtzeitaufwand: 
 
-zutaten:
+Artikeltexte:
+ einleitungstext:
+ zutatentext:
+ variationentext:
+ serviervorschlaegetext:
+
+Zutaten:
  - s: Schritt 1
 
-vorbereitung:
+Vorbereitung:
  - s: Schritt 1
 
-zubereitung:
+Zubereitung:
  - s: Schritt 1
 
 
-naehrwerte:
+Naehrwerte:
  kalorien: 
  menge_pro_portion: 
  fett: 

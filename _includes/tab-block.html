@@ -16,26 +16,33 @@
                     <li class="filter-active" data-filter="*">Alles</li>
                     <li data-filter=".filter-rezeptinfos">Info</li>
                     <li data-filter=".filter-zutaten">Zutaten</li>
-                    {% if site.data.[page.datafile].vorbereitung %}
-                        <li data-filter=".filter-vorbereitung">Vorbereitung</li>
-                    {% endif %}
-                    {% if site.data.[page.datafile].zubereitung %}
-                        <li data-filter=".filter-zubereitung">Zubereitung</li>
-                    {% endif %}
+                    {% assign yaml_data = site.data[page.datafile] %}
+                    {% for key in yaml_data %}
+                      {% unless key[0] == "Rezeptinfo" or key[0] == "Artikeltexte" or key[0] == "Zutaten" or key[0] == "Naehrwerte" %}
+                        <li data-filter=".filter-{{ key[0] | strip }}">{{ key[0] | strip }}</li>
+                      {% endunless %}
+                    {% endfor %}                                      
                 </ul>
             </div>
         </div>
+
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
             <div class="portfolio-item filter-rezeptinfos">
                 <div>
                     <h3>Rezeptinfos:</h3>
-                    {% if site.data.[page.datafile].portionen %}
-                        <b>{{ site.portionen_icon }} Portionen: <span class="badge bg-primary">{{ site.data.[page.datafile].portionen }}</span><br /></b>
+                    {% if site.data.[page.datafile].Rezeptinfo.Portionen %}
+                        <b>{{ site.portionen_icon }} Portionen: <span class="badge bg-primary">{{ site.data.[page.datafile].Rezeptinfo.Portionen }}</span><br /></b>
                     {% endif %}
-                    {% if site.data.[page.datafile].gesamtzeitaufwand %}
-                        <b>{{ site.timer_icon }} Gesamtzeitaufwand: <span class="badge bg-primary">{{ site.data.[page.datafile].gesamtzeitaufwand }}</span></b>
+                    {% if site.data.[page.datafile].Rezeptinfo.Zeitaufwandvorbereitung %}
+                        <b>{{ site.timer_icon }} Vorbereitungszeit: <span class="badge bg-primary">{{ site.data.[page.datafile].Rezeptinfo.Zeitaufwandvorbereitung }}</span></b><br>
                     {% endif %}
-                    {% if site.data.[page.datafile].naehrwerte %}
+                    {% if site.data.[page.datafile].Rezeptinfo.Zeitaufwandzubereitung %}
+                        <b>{{ site.timer_icon }} Zubereitungszeit: <span class="badge bg-primary">{{ site.data.[page.datafile].Rezeptinfo.Zeitaufwandzubereitung }}</span></b><br>
+                    {% endif %}                 
+                    {% if site.data.[page.datafile].Rezeptinfo.Gesamtzeitaufwand %}
+                        <b>{{ site.timer_icon }} Gesamtzeitaufwand: <span class="badge bg-primary">{{ site.data.[page.datafile].Rezeptinfo.Gesamtzeitaufwand }}</span></b><br>
+                    {% endif %}
+                    {% if site.data.[page.datafile].Naehrwerte %}
                     <!-- Nährwerttabelle START -->
                     <div style="margin-top: 30px; line-height: 100%;">
                         <hr>
@@ -46,24 +53,24 @@
                         <hr style="border: 3px solid black;" />
                         <table style="border-collapse: collapse; width: 100%;" border="0">
                             <tbody>
-                                {% if site.data.[page.datafile].naehrwerte.preis_pro_portion %}
+                                {% if site.data.[page.datafile].Naehrwerte.preis_pro_portion %}
                                 <tr>
                                     <td style="width: 48.9015%;"><b>Preis / Portion:</b></td>
                                     <td style="width: 48.9015%; text-align: right;">
-                                        <i><b>{{ site.data.[page.datafile].naehrwerte.preis_pro_portion }} EUR</b></i>
+                                        <i><b>{{ site.data.[page.datafile].Naehrwerte.preis_pro_portion }} EUR</b></i>
                                     </td>
                                 </tr>
                                 {% endif %}
                                 <tr>
                                     <td style="width: 48.9015%;"><b>Menge / Portion:</b></td>
                                     <td style="width: 48.9015%; text-align: right;">
-                                        <i><b>{{ site.data.[page.datafile].naehrwerte.menge_pro_portion }} g</b></i>
+                                        <i><b>{{ site.data.[page.datafile].Naehrwerte.menge_pro_portion }} g</b></i>
                                     </td>
                                 </tr>
                             </tbody>
                         </table>
                         <h4>
-                            <b>Kalorien: {{ site.data.[page.datafile].naehrwerte.kalorien }}</b>
+                            <b>Kalorien: {{ site.data.[page.datafile].Naehrwerte.kalorien }}</b>
                         </h4>
                         <table style="border-collapse: collapse; width: 100%;" border="0">
                             <hr style="border: 3px solid black;" />
@@ -72,12 +79,12 @@
                                     <tr>
                                         <td style="width: 48.9015%;"><b>Fett</b></td>
                                         <td style="width: 48.9015%; text-align: right;">
-                                            <i><b>{{ site.data.[page.datafile].naehrwerte.fett }} g</b></i>
+                                            <i><b>{{ site.data.[page.datafile].Naehrwerte.fett }} g</b></i>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="width: 48.9015%;">&nbsp; Davon ges. Fetts.</td>
-                                        <td style="width: 48.9015%; text-align: right;"><i>{{ site.data.[page.datafile].naehrwerte.ges_fette }} g</i></td>
+                                        <td style="width: 48.9015%; text-align: right;"><i>{{ site.data.[page.datafile].Naehrwerte.ges_fette }} g</i></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -87,12 +94,12 @@
                                     <tr>
                                         <td style="width: 48.9015%;"><b>Kohlenhydrate</b></td>
                                         <td style="width: 48.9015%; text-align: right;">
-                                            <i><b>{{ site.data.[page.datafile].naehrwerte.kohlenhydrate }} g</b></i>
+                                            <i><b>{{ site.data.[page.datafile].Naehrwerte.kohlenhydrate }} g</b></i>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="width: 48.9015%;">&nbsp; Davon Zucker</td>
-                                        <td style="width: 48.9015%; text-align: right;"><i>{{ site.data.[page.datafile].naehrwerte.zucker }} g</i></td>
+                                        <td style="width: 48.9015%; text-align: right;"><i>{{ site.data.[page.datafile].Naehrwerte.zucker }} g</i></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -102,7 +109,7 @@
                                     <tr>
                                         <td style="width: 48.9015%;"><b>Ballaststoffe</b></td>
                                         <td style="width: 48.9015%; text-align: right;">
-                                            <i><b>{{ site.data.[page.datafile].naehrwerte.ballaststoffe }} g</b></i>
+                                            <i><b>{{ site.data.[page.datafile].Naehrwerte.ballaststoffe }} g</b></i>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -113,7 +120,7 @@
                                     <tr>
                                         <td style="width: 48.9015%;"><b>Eiwei&szlig;</b></td>
                                         <td style="width: 48.9015%; text-align: right;">
-                                            <i><b>{{ site.data.[page.datafile].naehrwerte.eiweiss }} g</b></i>
+                                            <i><b>{{ site.data.[page.datafile].Naehrwerte.eiweiss }} g</b></i>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -124,7 +131,7 @@
                                     <tr>
                                         <td style="width: 48.9015%;"><b>Salz</b></td>
                                         <td style="width: 48.9015%; text-align: right;">
-                                            <i><b>{{ site.data.[page.datafile].naehrwerte.salz }} g</b></i>
+                                            <i><b>{{ site.data.[page.datafile].Naehrwerte.salz }} g</b></i>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -139,7 +146,7 @@
             <div class="portfolio-item filter-zutaten">
                 <div>
                     <h3>Zutaten:</h3>
-                    {% for nextstep in site.data.[page.datafile].zutaten %}
+                    {% for nextstep in site.data.[page.datafile].Zutaten %}
                     <div class="form-check">
                         <hr style="border: 1px dashed gray;" />
                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
@@ -150,46 +157,25 @@
                     {% endfor %}
                 </div>
             </div>
-            {% if site.data.[page.datafile].vorbereitung %}
-                <div class="portfolio-item filter-vorbereitung">
-                    <div>
-                        <h3> Vorbereitung:</h3>
-                        {% if site.data.[page.datafile].zeitaufwandvorbereitung %}
-                        <h5>
-                            <b>{{ site.timer_icon }} Vorbereitungszeit: <span class="badge bg-primary">{{ site.data.[page.datafile].zeitaufwandvorbereitung }}</span></b>
-                        </h5>
-                        {% endif %} {% for nextstep in site.data.[page.datafile].vorbereitung %}
-                        <div class="form-check">
-                            <hr style="border: 1px dashed gray;" />
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                            <label class="form-check-label strikethrough" for="flexCheckDefault">
-                                {{ nextstep.s }}
-                            </label>
-                        </div>
-                        {% endfor %}
+
+            {% assign yaml_data = site.data[page.datafile] %}
+            {% for key in yaml_data %}
+                {% unless key[0] == "Rezeptinfo" or key[0] == "Artikeltexte" or key[0] == "Zutaten" or key[0] == "Naehrwerte" %}
+                {% assign actkey =  key[0] | strip %}
+                <div class="portfolio-item filter-{{ actkey }}">
+                    <h3>{{ actkey }}:</h3>
+                    {% for nextstep in site.data.[page.datafile].[actkey] %}
+                    <div class="form-check">
+                        <hr style="border: 1px dashed gray;" />
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+                        <label class="form-check-label strikethrough" for="flexCheckDefault">
+                            {{ nextstep.s }}
+                        </label>
                     </div>
+                    {% endfor %}
                 </div>
-            {% endif %}
-            {% if site.data.[page.datafile].zubereitung %}
-                <div class="portfolio-item filter-zubereitung">
-                    <div>
-                        <h3> Zubereitung:</h3>
-                        {% if site.data.[page.datafile].zeitaufwandzubereitung %}
-                        <h5>
-                            <b>{{ site.timer_icon }} Zubereitungszeit: <span class="badge bg-primary">{{ site.data.[page.datafile].zeitaufwandzubereitung }}</span></b>
-                        </h5>
-                        {% endif %} {% for nextstep in site.data.[page.datafile].zubereitung %}
-                        <div class="form-check">
-                            <hr style="border: 1px dashed gray;" />
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                            <label class="form-check-label strikethrough" for="flexCheckDefault">
-                                {{ nextstep.s }}
-                            </label>
-                        </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            {% endif %}
+                {% endunless %}
+            {% endfor %}                                      
         </div>
     </div>
 </section>
