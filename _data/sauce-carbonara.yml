@@ -1,9 +1,11 @@
-portionen: 2
-gesamtzeitaufwand: 30 Minuten
-zeitaufwandvorbereitung: 15 Minuten
-zeitaufwandzubereitung: 15 Minuten
+Rezeptinfo:
+ Portionen: 2
+ Gesamtzeitaufwand: 30 Minuten
+ Zeitaufwandvorbereitung: 15 Minuten
+ Zeitaufwandzubereitung: 15 Minuten
 
-einleitungstext: 'Die Sauce Carbonara ist ein klassisches italienisches Gericht, das besonders cremig und würzig ist. Mit nur wenigen Zutaten lässt sich diese köstliche Sauce schnell und einfach zubereiten. Der Geschmack des Specks in Kombination mit der
+Artikeltexte:
+ einleitungstext: 'Die Sauce Carbonara ist ein klassisches italienisches Gericht, das besonders cremig und würzig ist. Mit nur wenigen Zutaten lässt sich diese köstliche Sauce schnell und einfach zubereiten. Der Geschmack des Specks in Kombination mit der
     Sahne, den Gewürzen und der Zwiebel verleihen der Carbonara-Sauce ihren charakteristischen Geschmack. Serviert wird sie traditionell mit Pasta, aber sie eignet sich auch gut als Dip oder als Beilage zu Fleischgerichten. Hier ist das
     Rezept für eine leckere Sauce Carbonara, die garantiert jeden Gaumen verwöhnen wird.
     <br />
@@ -14,7 +16,7 @@ einleitungstext: 'Die Sauce Carbonara ist ein klassisches italienisches Gericht,
     <br />
     Die Sauce Carbonara ist eine perfekte Wahl für ein schnelles und einfaches Mittag- oder Abendessen. Mit nur wenigen Handgriffen ist sie zubereitet und lässt sich vielseitig einsetzen. Probieren Sie das Rezept aus und genießen Sie den
     authentischen Geschmack der italienischen Küche!'
-zutatentext: '            Bei der Zubereitung von Sauce Carbonara kommt es auf die richtige Auswahl und Dosierung der Zutaten an. Hier sind einige wichtige Aspekte zu beachten:
+ zutatentext: '            Bei der Zubereitung von Sauce Carbonara kommt es auf die richtige Auswahl und Dosierung der Zutaten an. Hier sind einige wichtige Aspekte zu beachten:
             <br />
             <br />
             <i class="fa-regular fa-circle-check"></i> Zwiebeln: In diesem Rezept sorgen Zwiebeln für die gewünschte Würze. Sie sollten in kleine Würfel geschnitten und goldgelb geröstet werden.
@@ -28,13 +30,13 @@ zutatentext: '            Bei der Zubereitung von Sauce Carbonara kommt es auf d
             <i class="fa-regular fa-circle-check"></i> Gewürze: Basilikum, Salz, Pfeffer und Muskat geben der Sauce Carbonara das gewisse Etwas und sollten mit Bedacht dosiert werden. <br />
             <br />
             Wenn Sie diese Aspekte bei der Auswahl und Zubereitung der Zutaten berücksichtigen, steht einem köstlichen Pasta-Erlebnis nichts mehr im Wege.'
-variationentext: '            Die klassische Carbonara-Sauce wird normalerweise mit Speck oder Pancetta zubereitet, aber es gibt viele Varianten, die ohne Fleisch oder mit alternativen Zutaten gemacht werden können. Eine vegetarische Option ist, den Speck
+ variationentext: '            Die klassische Carbonara-Sauce wird normalerweise mit Speck oder Pancetta zubereitet, aber es gibt viele Varianten, die ohne Fleisch oder mit alternativen Zutaten gemacht werden können. Eine vegetarische Option ist, den Speck
             durch geräucherte Paprika oder pflanzlichen Speck zu ersetzen. Eine vegane Variante kann mit Soja-Sahne, pflanzlichem Käse und veganem Speck zubereitet werden. Eine andere Variation wäre, die Sauce mit verschiedenen Käsesorten
             wie Parmesan, Pecorino, oder Gouda zu machen. Man kann auch zusätzliche Zutaten wie Erbsen, Pilze, oder Brokkoli hinzufügen, um der Sauce mehr Geschmack und Textur zu verleihen.
             <br />
             <br />
             Egal welche Variante man wählt, die Sauce Carbonara ist ein klassisches und leckeres Gericht, das sich schnell und einfach zubereiten lässt.'
-serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Servieren Sie die Sauce Carbonara mit Spaghetti oder einer anderen Pasta Ihrer Wahl. <br />
+ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Servieren Sie die Sauce Carbonara mit Spaghetti oder einer anderen Pasta Ihrer Wahl. <br />
             <br />
             <i class="fa-regular fa-circle-check"></i> Bestreuen Sie die Carbonara mit etwas geriebenem Parmesan oder Pecorino. <br />
             <br />
@@ -44,7 +46,7 @@ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> 
             <br />
             <i class="fa-regular fa-circle-check"></i> Genießen Sie die Sauce Carbonara als Hauptgericht oder als Beilage zu Fleisch oder Fisch.'
 
-zutaten:
+Zutaten:
  - s: 1 Zwiebel
  - s: 300g Speck/Braunschweiger
  - s: 1 EL Öl/Butter
@@ -55,12 +57,12 @@ zutaten:
  - s: Pffeffer (Ein paar mal an der Pfeffermühle drehen)
  - s: 1/8 TL Muskat
 
-vorbereitung:
+Vorbereitung:
  - s: 1 Zwiebel in kleine Würfel schneiden und in eine kleine Schüssel geben
  - s: 300g Speck/Braunschweiger in kleine Würfel schneiden und in eine kleine Schüssel geben
  - s: 1 Eigelb in eine kleine Schüssel geben und verrühren
 
-zubereitung:
+Zubereitung:
  - s: 1 EL Öl/Butter in eine Pfanne geben und leicht erhitzen
  - s: Den Inhalt der Schüssel mit den Zwiebelwürfel in die Pfanne geben und goldgelb rösten
  - s: Den Inhalt der Schüssel mit den 300g Speck/Braunschweiger in die Pfanne geben und knusprig anbraten

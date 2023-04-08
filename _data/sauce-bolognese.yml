@@ -1,9 +1,11 @@
-portionen: 6
-zeitaufwandvorbereitung: 6 Minuten
-zeitaufwandzubereitung: 1 Stunde, 15 Minuten
-gesamtzeitaufwand: 1 Stunde, 21 Minuten
+Rezeptinfo:
+ Portionen: 6
+ Zeitaufwandvorbereitung: 6 Minuten
+ Zeitaufwandzubereitung: 1 Stunde, 15 Minuten
+ Gesamtzeitaufwand: 1 Stunde, 21 Minuten
 
-einleitungstext: '    Sauce Bolognese ist ein Klassiker der italienischen Küche und eine beliebte Beilage zu Nudelgerichten. Es gibt zahlreiche Varianten des Rezepts, aber die Grundzutaten bleiben meistens gleich: Faschiertes, Zwiebeln, Tomatenmark und
+Artikeltexte:
+ einleitungstext: '    Sauce Bolognese ist ein Klassiker der italienischen Küche und eine beliebte Beilage zu Nudelgerichten. Es gibt zahlreiche Varianten des Rezepts, aber die Grundzutaten bleiben meistens gleich: Faschiertes, Zwiebeln, Tomatenmark und
     Tomaten. Eine besondere Note bekommt die Sauce durch den Rotwein, der bei diesem Rezept verwendet wird. Das Bolognese-Fix sorgt dafür, dass die Sauce schnell und einfach zubereitet werden kann und trotzdem vollmundig und aromatisch
     schmeckt.<br />
     <br />
@@ -12,7 +14,7 @@ einleitungstext: '    Sauce Bolognese ist ein Klassiker der italienischen Küche
     <br />
     Serviert wird die Sauce Bolognese im deutschsprachigem Raum zu Spaghetti, aber auch zu anderen Nudelsorten passt sie hervorragend. Ein Hauch geriebener Parmesan rundet den Geschmack perfekt ab und sorgt für ein vollendetes kulinarisches
     Erlebnis. Mit diesem Rezept können Sie schnell und einfach eine leckere und würzige Sauce Bolognese zaubern, die sowohl Erwachsene als auch Kinder begeistern wird.'
-zutatentext: '            Die Zutaten für eine leckere Sauce Bolognese sind relativ einfach und lassen sich schnell in jedem Supermarkt besorgen. Die Hauptzutat ist das Faschierte, das für die Fleischkomponente der Soße sorgt. Es kann Rinder- oder
+ zutatentext: '            Die Zutaten für eine leckere Sauce Bolognese sind relativ einfach und lassen sich schnell in jedem Supermarkt besorgen. Die Hauptzutat ist das Faschierte, das für die Fleischkomponente der Soße sorgt. Es kann Rinder- oder
             Schweinefleisch oder eine Mischung aus beiden verwendet werden.<br />
             <br />
 
@@ -22,7 +24,7 @@ zutatentext: '            Die Zutaten für eine leckere Sauce Bolognese sind rel
 
             Das Rezept empfiehlt die Verwendung von Bolognese-Fix, einem Gewürzmischungspaket, um den Geschmack der Soße zu intensivieren. Schließlich werden die Zutaten mit Spaghetti serviert, um ein vollständiges und leckeres Gericht zu
             kreieren.'
-variationentext: '            Es gibt zahlreiche Möglichkeiten, das klassische Bolognese-Rezept zu variieren und an den eigenen Geschmack anzupassen. So kann man beispielsweise verschiedene Gemüsesorten wie Karotten, Sellerie oder Paprika hinzufügen, um dem
+ variationentext: '            Es gibt zahlreiche Möglichkeiten, das klassische Bolognese-Rezept zu variieren und an den eigenen Geschmack anzupassen. So kann man beispielsweise verschiedene Gemüsesorten wie Karotten, Sellerie oder Paprika hinzufügen, um dem
             Gericht mehr Farbe und Geschmack zu verleihen. Auch die Wahl des Fleisches kann variieren: Statt Rinderfaschiertem kann man auch Hackfleisch von Schwein, Lamm oder Huhn verwenden.<br />
             <br />
 
@@ -33,7 +35,7 @@ variationentext: '            Es gibt zahlreiche Möglichkeiten, das klassische 
             Eine weitere Variationsmöglichkeit besteht darin, verschiedene Nudelsorten zu verwenden. Statt Spaghetti können auch Penne, Tagliatelle oder Fusilli serviert werden. Wer es besonders kalorienarm mag, kann auch zucchini- oder
             karotten-Nudeln als Basis verwenden. Auch eine Beilage wie Reis oder Kartoffeln passt gut zu einer leckeren Bolognese-Sauce. Lassen Sie Ihrer Kreativität freien Lauf und probieren Sie aus, welche Variationen Ihnen am besten
             schmecken!'
-serviervorschlaegetext: '            Hier sind einige Serviervorschläge für dein Bolognese-Gericht:<br />
+ serviervorschlaegetext: '            Hier sind einige Serviervorschläge für dein Bolognese-Gericht:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Klassisch mit Spaghetti: Serviere die Bolognese-Sauce mit Spaghetti und Parmesan. Für einen schönen Geschmack und eine tolle Optik kannst du frische Kräuter wie Basilikum oder Oregano
@@ -59,7 +61,7 @@ serviervorschlaegetext: '            Hier sind einige Serviervorschläge für de
 
             Mit diesen Serviervorschlägen wird dein Bolognese-Gericht garantiert zu einem Hit bei deinen Gästen!'
 
-zutaten:
+Zutaten:
  - s: 500g Faschiertes
  - s: <a href="/bolognese-fix/">Bolognese-Fix</a>
  - s: Pro Portion 100g Spaghetti
@@ -69,11 +71,11 @@ zutaten:
  - s: 4 EL Öl
  - s: 250ml Rotwein
 
-vorbereitung:
+Vorbereitung:
  - s: 2 Zwiebeln würfelig schneiden und in eine Schüssel geben
  - s: 250ml Rotwein in ein Gefäß geben
 
-zubereitung:
+Zubereitung:
  - s: 4 EL Öl in einen Kochtopf geben
  - s: Kochfeld auf mittlere Hitze stellen
  - s: Inhalt der Schüssel mit den Zwiebelwürfeln in den Kochtopf geben und goldgelb rösten <i class="fa-solid fa-hourglass-end"></i> <span class="badge bg-primary">12 Minuten</span>

@@ -1,7 +1,8 @@
-gesamtzeitaufwand: 1-2 Minuten
-zeitaufwandzubereitung: 1-2 Minuten
+Rezeptinfo:
+ Gesamtzeitaufwand: 1-2 Minuten
+ Zeitaufwandzubereitung: 1-2 Minuten
 
-zutaten:
+Zutaten:
  - s: 2 EL Basilikum getrocknet
  - s: 2 EL Oregano getrocknet
  - s: 1 EL Rosmarin getrocknet
@@ -10,5 +11,5 @@ zutaten:
  - s: 1 EL Chili Flocken
  - s: 1 TL Knoblauchpulver
 
-zubereitung:
+Zubereitung:
  - s: Alle zutaten vermengen

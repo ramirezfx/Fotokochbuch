@@ -1,8 +1,9 @@
-portionen: 6
-gesamtzeitaufwand: 1-2 Minuten
-zeitaufwandzubereitung: 1-2 Minuten
+Rezeptinfo:
+ Portionen: 6
+ Gesamtzeitaufwand: 1-2 Minuten
+ Zeitaufwandzubereitung: 1-2 Minuten
 
-zutaten:
+Zutaten:
  - s: 4 EL Zucker
  - s: 2 TL Salz
  - s: 4 TL Chilipulver
@@ -10,5 +11,5 @@ zutaten:
  - s: 2 TL Knoblauchpulver
  - s: 1/2 TL Pfeffer
 
-zubereitung:
+Zubereitung:
  - s: Alles vermengen

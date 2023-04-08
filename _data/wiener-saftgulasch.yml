@@ -1,9 +1,11 @@
-portionen: 4
-zeitaufwandvorbereitung: 20 Minuten
-zeitaufwandzubereitung: 2 Stunden, 45 Minuten
-gesamtzeitaufwand: 3 Stunden, 5 Minuten
+Rezeptinfo:
+ Portionen: 4
+ Zeitaufwandvorbereitung: 20 Minuten
+ Zeitaufwandzubereitung: 2 Stunden, 45 Minuten
+ Gesamtzeitaufwand: 3 Stunden, 5 Minuten
 
-einleitungstext: '    Wiener Saftgulasch ist ein klassisches Gericht der österreichischen Küche, das aus zartem Gulaschfleisch und würzigen Zutaten besteht. Es ist eine herzhafte und wohlschmeckende Mahlzeit, die ideal für kalte Tage ist. Der Name
+Artikeltexte:
+ einleitungstext: 'Wiener Saftgulasch ist ein klassisches Gericht der österreichischen Küche, das aus zartem Gulaschfleisch und würzigen Zutaten besteht. Es ist eine herzhafte und wohlschmeckende Mahlzeit, die ideal für kalte Tage ist. Der Name
     "Saftgulasch" kommt von der saftigen Konsistenz des Gerichts, die durch die langsame Zubereitung und das Hinzufügen von verschiedenen Gewürzen erreicht wird.<br />
     <br />
 
@@ -13,7 +15,7 @@ einleitungstext: '    Wiener Saftgulasch ist ein klassisches Gericht der österr
 
     Die Zubereitung des Wiener Saftgulaschs erfordert etwas Zeit und Geduld, aber es lohnt sich. Das Fleisch wird langsam gekocht, bis es zart und saftig ist. Das Ergebnis ist ein köstliches Gericht, das sich perfekt für ein gemütliches
     Abendessen mit Familie oder Freunden eignet. Probieren Sie es aus und lassen Sie sich von den köstlichen Aromen der österreichischen Küche verführen!'
-zutatentext: '            Das Wiener Saftgulasch ist ein klassisches Gericht der österreichischen Küche und zeichnet sich durch seine reichhaltigen und herzhaften Zutaten aus. Das Hauptbestandteil ist das Gulaschfleisch, das aus Rind oder Kalb gewonnen
+ zutatentext: '            Das Wiener Saftgulasch ist ein klassisches Gericht der österreichischen Küche und zeichnet sich durch seine reichhaltigen und herzhaften Zutaten aus. Das Hauptbestandteil ist das Gulaschfleisch, das aus Rind oder Kalb gewonnen
             wird und von zarten Fett- und Fleischschichten durchzogen ist. Aber auch die Zwiebeln spielen eine entscheidende Rolle und verleihen dem Gericht ihre charakteristische Süße und Geschmack.<br />
             <br />
 
@@ -24,7 +26,7 @@ zutatentext: '            Das Wiener Saftgulasch ist ein klassisches Gericht der
             Um die Intensität und den Geschmack des Saftgulaschs zu verstärken, werden auch Rotwein und Weißweinessig verwendet. Diese verleihen dem Gericht nicht nur eine feine Säure, sondern auch einen raffinierten Geschmack.
             Rindsuppenwürfel und Salz geben dem Saftgulasch die nötige Würze und sorgen für einen intensiven Geschmack, der die Sinne verwöhnt. Insgesamt sind es die Kombination und der Einsatz der Zutaten, die das Wiener Saftgulasch zu
             einem besonderen Genuss machen.'
-variationentext: '            Es gibt unzählige Variationen des Wiener Saftgulaschs, die je nach Geschmack und Region variieren können. Einige köstliche Variationen beinhalten die Zugabe von verschiedenen Gemüsen wie Paprika, Karotten oder Kartoffeln, um dem
+ variationentext: '            Es gibt unzählige Variationen des Wiener Saftgulaschs, die je nach Geschmack und Region variieren können. Einige köstliche Variationen beinhalten die Zugabe von verschiedenen Gemüsen wie Paprika, Karotten oder Kartoffeln, um dem
             Gulasch mehr Textur und Geschmack zu verleihen.<br />
             <br />
 
@@ -34,7 +36,7 @@ variationentext: '            Es gibt unzählige Variationen des Wiener Saftgula
 
             Darüber hinaus kann das Wiener Saftgulasch auch in verschiedenen Varianten serviert werden, wie zum Beispiel mit Spätzle, Knödeln oder Brot. Es kann auch mit Sauerrahm oder frischem Petersilie garniert werden, um ihm zusätzliche
             Aromen und Texturen zu verleihen. Die Möglichkeiten sind endlos und können an die individuellen Vorlieben und Geschmäcker angepasst werden.'
-serviervorschlaegetext: '            Hier sind einige Serviervorschläge für dein Wiener Saftgulasch:<br />
+ serviervorschlaegetext: '            Hier sind einige Serviervorschläge für dein Wiener Saftgulasch:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Klassisch mit Semmelknödel oder Salzkartoffeln servieren. Dazu passt ein frischer grüner Salat als Beilage.<br />
@@ -55,7 +57,7 @@ serviervorschlaegetext: '            Hier sind einige Serviervorschläge für de
 
             Egal welche Variante du wählst, das Wiener Saftgulasch ist ein perfektes Gericht für kalte Tage und lässt sich auch wunderbar am nächsten Tag aufwärmen und genießen.'
 
-zutaten:
+Zutaten:
  - s: 1kg Gulaschfleisch
  - s: 800g Zwiebeln
  - s: 2 Lorbeerblätter
@@ -70,7 +72,7 @@ zutaten:
  - s: 1 EL Weissweinessig
  - s: 1 Rindsuppenwürfel
 
-vorbereitung:
+Vorbereitung:
  - s: 1/2 Liter Wasser in ein Gefäß geben
  - s: 800g Zwiebeln in grobe Würfel/Ringe schneiden und in eine Schüssel geben
  - s: 150ml  Rotwein in ein Glas geben
@@ -84,7 +86,7 @@ vorbereitung:
  - s: 4 EL Paprikapulver in die Schüssel mit den Knoblauchzehen,... geben
  - s: 1 EL Weissweinessig in die Schüssel mit den Knoblauchzehen,... geben
 
-zubereitung:
+Zubereitung:
  - s: 8 EL Öl in einen Topf geben
  - s: 1 Zwiebelwürfel in den Kochtopf geben und warten bis man es bruzzeln hört
  - s: Den Inhalt der Schüssel mit den restlichen Zwiebelwürfel in den Topf geben und goldgelb rösten

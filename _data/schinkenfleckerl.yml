@@ -1,9 +1,11 @@
-portionen: 4-5
-zeitaufwandvorbereitung: 12 Minuten
-zeitaufwandzubereitung: 35 Minuten
-gesamtzeitaufwand: 47 Minuten
+Rezeptinfo:
+ Portionen: 4-5
+ Zeitaufwandvorbereitung: 12 Minuten
+ Zeitaufwandzubereitung: 35 Minuten
+ Gesamtzeitaufwand: 47 Minuten
 
-einleitungstext: '    Schinkenfleckerl ist ein traditionelles österreichisches Gericht, das aus Fleckerlnudeln, Schinken und Käse besteht. Das Gericht ist einfach zuzubereiten und bietet eine wunderbare Möglichkeit, Reste von Schinken und Käse aufzubrauchen.
+Artikeltexte:
+ einleitungstext: '    Schinkenfleckerl ist ein traditionelles österreichisches Gericht, das aus Fleckerlnudeln, Schinken und Käse besteht. Das Gericht ist einfach zuzubereiten und bietet eine wunderbare Möglichkeit, Reste von Schinken und Käse aufzubrauchen.
     Es ist ein wohlschmeckendes Gericht, das sowohl als Hauptmahlzeit als auch als Beilage serviert werden kann.<br />
     <br />
 
@@ -14,12 +16,12 @@ einleitungstext: '    Schinkenfleckerl ist ein traditionelles österreichisches 
 
     Man kann das Rezept auch nach Belieben variieren, indem man zum Beispiel verschiedene Käsesorten oder zusätzliche Gewürze hinzufügt. Wer es gerne etwas kräftiger mag, kann auch scharfen Paprika oder Chiliflocken hinzufügen. Die
     Schinkenfleckerl lassen sich auch wunderbar als Beilage zu gebratenem Fleisch oder Gemüse servieren. Probieren Sie dieses leckere Gericht aus und lassen Sie sich von seinem einzigartigen Geschmack begeistern!'
-zutatentext: '            In diesem Rezept für Schinkenfleckerl sind eine Vielzahl von Zutaten erforderlich, um das gewünschte Geschmackserlebnis zu erzielen.<br />
+ zutatentext: '            In diesem Rezept für Schinkenfleckerl sind eine Vielzahl von Zutaten erforderlich, um das gewünschte Geschmackserlebnis zu erzielen.<br />
             <br />
 
             Es gibt eine perfekte Kombination aus Gewürzen, Käse und Schinken, die den Geschmack jedes Bissen in diesem Gericht ausmachen. Die richtigen Zutaten sind entscheidend, um ein perfektes Ergebnis zu erzielen und den Gaumen zu
             verwöhnen.'
-variationentext: '            Es gibt viele Möglichkeiten, das Rezept für Schinkenfleckerl zu variieren und an den persönlichen Geschmack anzupassen. Hier sind einige Ideen:<br />
+ variationentext: '            Es gibt viele Möglichkeiten, das Rezept für Schinkenfleckerl zu variieren und an den persönlichen Geschmack anzupassen. Hier sind einige Ideen:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Gemüse hinzufügen: Schinkenfleckerl können durch das Hinzufügen von Gemüse wie Paprika, Zucchini, Karotten oder Erbsen noch nahrhafter und bunter gestaltet werden.<br />
@@ -38,7 +40,7 @@ variationentext: '            Es gibt viele Möglichkeiten, das Rezept für Schi
             <br />
 
             Mit diesen Variationen können Schinkenfleckerl zu einem vielseitigen Gericht werden, das immer wieder neu interpretiert werden kann.'
-serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Für ein gelungenes Servieren der Schinkenfleckerl empfiehlt es sich, diese mit einem frischen Salat als Beilage zu servieren. Auch eine Tomatensoße oder ein Dip aus saurer Sahne und
+ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Für ein gelungenes Servieren der Schinkenfleckerl empfiehlt es sich, diese mit einem frischen Salat als Beilage zu servieren. Auch eine Tomatensoße oder ein Dip aus saurer Sahne und
             Kräutern kann als Begleitung dienen. Wer es gerne etwas deftiger mag, kann zusätzlich noch knusprig gebratene Speckwürfel über die Schinkenfleckerl streuen.<br />
             <br />
 
@@ -49,7 +51,7 @@ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> 
             <i class="fa-regular fa-circle-check"></i> Zu guter Letzt kann man die Schinkenfleckerl auch als Hauptgericht oder Beilage zu verschiedenen Fleisch- oder Gemüsegerichten servieren. Besonders gut passt dazu beispielsweise
             gebratenes Hühnchen oder gedünstetes Gemüse.'
 
-zutaten:
+Zutaten:
  - s: 100g Pizzakäse
  - s: 1 Zwiebel
  - s: 2-3 EL Öl
@@ -61,7 +63,7 @@ zutaten:
  - s: 1 EL Petersilie getrocknet
  - s: 1/2 TL Pfeffer
 
-vorbereitung:
+Vorbereitung:
  - s: 1 Zwiebel würfelig schneiden und in eine Schüssel geben
  - s: 170g Schinken oder Braunschweiger würfelig schneiden und in eine Schüssel geben
  - s: 100g Pizzakäse in eine Schüssel geben
@@ -72,7 +74,7 @@ vorbereitung:
  - s: 1/2 TL Pfeffer in die Schüssel mit dem Majoran,... geben
  - s: 1/2 TL Salz in die Schüssel mit dem Majoran,.. geben
 
-zubereitung:
+Zubereitung:
  - s: Den Inhalt der Schüssel mit den Zwiebelwürfeln in einer Pfanne goldbraun rösten
  - s: Danach den Inhalt der Schüssel mit dem kleingewürfelten Schinken dazu geben und ein paar Minuten mitrösten.
  - s: 400g Fleckerl in reichlich Salzwasser lt. Packung zubereiten

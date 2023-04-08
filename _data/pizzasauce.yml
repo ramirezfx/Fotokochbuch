@@ -1,8 +1,10 @@
-portionen: 6
-gesamtzeitaufwand: 1-2 Minuten
-zeitaufwandzubereitung: 1-2 Minuten
+Rezeptinfo:
+ Portionen: 6
+ Gesamtzeitaufwand: 1-2 Minuten
+ Zeitaufwandzubereitung: 1-2 Minuten
 
-einleitungstext: 'Die Pizzasauce ist eine wesentliche Zutat bei der Zubereitung von Pizza. Sie ist das Geheimnis eines guten Pizzageschmacks und kann die gesamte Erfahrung beeinflussen. Eine hausgemachte Pizzasauce ist einfach zu machen und schmeckt um
+Artikeltexte:
+ einleitungstext: 'Die Pizzasauce ist eine wesentliche Zutat bei der Zubereitung von Pizza. Sie ist das Geheimnis eines guten Pizzageschmacks und kann die gesamte Erfahrung beeinflussen. Eine hausgemachte Pizzasauce ist einfach zu machen und schmeckt um
     einiges besser als jede im Supermarkt erhältliche Sauce. Dieses Rezept für Pizzasauce ist einfach und schnell zuzubereiten und verwendet nur wenige Zutaten, die Sie wahrscheinlich bereits in Ihrer Küche haben.<br />
     <br />
 
@@ -12,7 +14,7 @@ einleitungstext: 'Die Pizzasauce ist eine wesentliche Zutat bei der Zubereitung 
 
     Sobald alle Zutaten gemischt sind, können Sie die Sauce mit einem Mixer oder Pürierstab zerkleinern, um eine glatte und gleichmäßige Konsistenz zu erhalten. Diese Pizzasauce ist perfekt als Basis für jede Art von Pizza und kann auch als
     Dip für Brot oder Gemüse verwendet werden. Probieren Sie es aus und experimentieren Sie mit verschiedenen Kräutern und Gewürzen, um die perfekte Pizzasauce zu kreieren, die genau Ihrem Geschmack entspricht.'
-zutatentext: '            Die Zutaten sind das Herzstück jedes Rezepts und beeinflussen maßgeblich den Geschmack und die Qualität des Gerichts. Bei der Zubereitung von Pizzasauce sind frische und qualitativ hochwertige Zutaten von größter Bedeutung, um
+ zutatentext: '            Die Zutaten sind das Herzstück jedes Rezepts und beeinflussen maßgeblich den Geschmack und die Qualität des Gerichts. Bei der Zubereitung von Pizzasauce sind frische und qualitativ hochwertige Zutaten von größter Bedeutung, um
             ein schmackhaftes Ergebnis zu erzielen. In diesem Artikel werfen wir einen Blick auf die Zutaten, die für eine perfekte Pizzasauce benötigt werden.<br />
             <br />
 
@@ -28,7 +30,7 @@ zutatentext: '            Die Zutaten sind das Herzstück jedes Rezepts und beei
             Gewürze wie Paprikapulver oder Chiliflocken hinzufügen, um der Sauce mehr Würze zu geben. Ein Teelöffel Zucker und ein Teelöffel Salz sind in der Regel ausreichend, um der Sauce eine ausgewogene Geschmacksnote zu verleihen. Mit
             diesen Zutaten und einem guten Rezept können Sie eine köstliche Pizzasauce zubereiten, die perfekt zu Ihrer Lieblingspizza passt.'
 
-zutaten:
+Zutaten:
  - s: 1 Dose (420g) Geschälte Tomaten
  - s: 170g Tomatenmark
  - s: 1/4 von einer kleinen Zwiebel
@@ -37,5 +39,5 @@ zutaten:
  - s: 1 TL Zucker
  - s: 1 TL Salz
 
-zubereitung:
+Zubereitung:
  - s: Alles miteinander vermengen und mit Mixer oder Pürierstab zerkleinern

@@ -1,6 +1,8 @@
-portionen: 4
+Rezeptinfo:
+ Portionen: 4
 
-einleitungstext: '    Heute stellen wir Ihnen ein köstliches Rezept vor: Gebackene Sesamschenkel. Dieses Gericht ist einfach zuzubereiten und verleiht dem Hähnchen eine knusprige, goldene Haut, die mit einer würzigen Marinade aus Sojasauce, Limettensaft,
+Artikeltexte:
+ einleitungstext: '    Heute stellen wir Ihnen ein köstliches Rezept vor: Gebackene Sesamschenkel. Dieses Gericht ist einfach zuzubereiten und verleiht dem Hähnchen eine knusprige, goldene Haut, die mit einer würzigen Marinade aus Sojasauce, Limettensaft,
     Honig und Ingwer aromatisiert wird. Der geröstete Sesam gibt dem Gericht eine zusätzliche Textur und ein nussiges Aroma, das perfekt zum Hühnchen passt. <br />
     <br />
 
@@ -11,7 +13,7 @@ einleitungstext: '    Heute stellen wir Ihnen ein köstliches Rezept vor: Geback
     Das Gericht ist auch sehr anpassungsfähig. Sie können die Schenkel durch Hähnchenbrust oder -keule ersetzen, je nachdem, was Sie bevorzugen. Sie können auch zusätzliche Gewürze oder Kräuter hinzufügen, um den Geschmack zu variieren. Wie
     auch immer Sie dieses Gericht zubereiten, Sie werden sicherlich von der Kombination aus knuspriger Haut, zartem Fleisch und würziger Marinade begeistert sein. Also probieren Sie es unbedingt aus! <br />
     <br />'
-zutatentext: '            Die Zutatenliste für gebackene Sesamschenkel ist relativ kurz, aber dennoch voller Geschmack. Die Kombination aus Sojasauce, Limettensaft, Honig und Ingwer verleiht den Hühnerschenkeln eine einzigartige Würze und ein feines
+ zutatentext: '            Die Zutatenliste für gebackene Sesamschenkel ist relativ kurz, aber dennoch voller Geschmack. Die Kombination aus Sojasauce, Limettensaft, Honig und Ingwer verleiht den Hühnerschenkeln eine einzigartige Würze und ein feines
             Aroma. <br />
             <br />
 
@@ -25,7 +27,7 @@ zutatentext: '            Die Zutatenliste für gebackene Sesamschenkel ist rela
 
             Es ist auch erwähnenswert, dass diese Zutaten gesundheitsfördernde Eigenschaften haben. Sojasauce ist reich an Proteinen und hat einen hohen Gehalt an essentiellen Aminosäuren. Ingwer wird für seine entzündungshemmenden
             Eigenschaften und seine Fähigkeit geschätzt, den Magen zu beruhigen. Zusammen mit dem Hühnchen, das eine hervorragende Proteinquelle darstellt, ergibt sich ein nahrhaftes und leckeres Gericht.'
-variationentext: '            <i class="fa-regular fa-circle-check"></i> Wenn du es gerne scharf magst, kannst du ein paar rote Chiliflocken zur Marinade hinzufügen oder das Gericht mit Sriracha-Sauce servieren. <br />
+ variationentext: '            <i class="fa-regular fa-circle-check"></i> Wenn du es gerne scharf magst, kannst du ein paar rote Chiliflocken zur Marinade hinzufügen oder das Gericht mit Sriracha-Sauce servieren. <br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Anstelle von Hühnerschenkeln kannst du auch Hähnchenbrust verwenden. Schneide sie einfach in dicke Scheiben und achte darauf, dass sie gut durchgegart sind. <br />
@@ -40,7 +42,7 @@ variationentext: '            <i class="fa-regular fa-circle-check"></i> Wenn du
 
             <i class="fa-regular fa-circle-check"></i> Um das Gericht noch nahrhafter zu machen, kannst du es mit verschiedenen Gemüsen servieren, wie z.B. Brokkoli, Paprika oder Karotten. Schneide das Gemüse in mundgerechte Stücke und
             röste es im Ofen zusammen mit dem Hühnchen. So erhältst du eine komplette Mahlzeit auf einmal.'
-serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Serviere die Sesamschenkel mit Reis oder Nudeln und einem knackigen Salat. Ein einfacher grüner Salat mit Gurken, Tomaten und einer leichten Vinaigrette ist eine perfekte Ergänzung zu
+ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Serviere die Sesamschenkel mit Reis oder Nudeln und einem knackigen Salat. Ein einfacher grüner Salat mit Gurken, Tomaten und einer leichten Vinaigrette ist eine perfekte Ergänzung zu
             diesem Gericht. <br />
             <br />
 
@@ -59,7 +61,7 @@ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> 
             <i class="fa-regular fa-circle-check"></i> Eine weitere Möglichkeit ist es, die Sesamschenkel mit gedünstetem Gemüse und einer cremigen Sauce zu servieren. Eine einfache Sauce kannst du aus saurer Sahne, Knoblauch, Zitronensaft
             und Dill zubereiten.'
 
-zutaten:
+Zutaten:
 
  - s: 1/3 Cup Sojasauce
  - s: 2 EL Limettensaft
@@ -68,13 +70,13 @@ zutaten:
  - s: 1kg Hühneroberschenkel
  - s: 2 EL Sesam
 
-vorbereitung:
+Vorbereitung:
  - s: 1/3 Cup Sojasauce, 2 EL Limettensaft, 1 EL Honig und 2 EL kleingehackten Ingwer in einer Schüssel vermengen
  - s: Hühneroberschenkel in einen Behälter geben
  - s: Die Marinade mit der Sojasauce,... dazu geben und 1-2 Stunden marinieren - Ab und zu umrühren und vermengen
  - s: 2 EL Sesam in einer trockenen Pfanne ohne Öl anrösten und in eine kleine Schüssel geben
  
-zubereitung:
+Zubereitung:
  - s: Ofen auf 190 Grad Ober- Unterhitze vorheizen
  - s: Sobald die Backtemperatur von 190 Grad erreicht ist, den Inhalt des Behälters mit den Hühnerschenkel in eine Auflaufform geben (Hautseite oben!!!)
  - s: 45-50 Minuten backen lassen (Ab und zu die Haut mit der Marinade bestreichen)

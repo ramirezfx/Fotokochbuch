@@ -1,8 +1,9 @@
-portionen: 6-8
-gesamtzeitaufwand: 1-2 Minuten
-zeitaufwandzubereitung: 1-2 Minuten
+Rezeptinfo:
+ Portionen: 6-8
+ Gesamtzeitaufwand: 1-2 Minuten
+ Zeitaufwandzubereitung: 1-2 Minuten
 
-zutaten:
+Zutaten:
  - s: 1/2 Suppenwürfel Rinderbrühe
  - s: 1 EL Kakaopulver
  - s: 1.5 EL Chilipulver
@@ -14,6 +15,6 @@ zutaten:
  - s: 1 TL Chiliflocken
  - s: 1/2 TL Korianderpulver
 
-zubereitung:
+Zubereitung:
  - s: 1/2 Suppenwürfel Rinderbrühe über eine Schüssel zerbröseln
  - s: Den Rest der Zutaten in die Schüssel geben und ordentlich umrühren

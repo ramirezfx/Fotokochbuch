@@ -1,8 +1,10 @@
-portionen: Reicht für ca. 1kg Fleisch
-gesamtzeitaufwand: Mindestens 30 Minuten
-zeitaufwandzubereitung: Mindestens 30 Minuten
+Rezeptinfo:
+ Portionen: Reicht für ca. 1kg Fleisch
+ Gesamtzeitaufwand: Mindestens 30 Minuten
+ Zeitaufwandzubereitung: Mindestens 30 Minuten
 
-einleitungstext: '    Die asiatische Küche ist weltweit bekannt für ihre aromatischen und exotischen Geschmacksrichtungen. Wenn Sie auf der Suche nach einem einfachen und leckeren Rezept sind, das Sie zu Hause ausprobieren können, dann sollten Sie unbedingt
+Artikeltexte:
+ einleitungstext: '    Die asiatische Küche ist weltweit bekannt für ihre aromatischen und exotischen Geschmacksrichtungen. Wenn Sie auf der Suche nach einem einfachen und leckeren Rezept sind, das Sie zu Hause ausprobieren können, dann sollten Sie unbedingt
     diese Asia-Fleischmarinade ausprobieren. Diese Marinade verleiht dem Fleisch einen einzigartigen Geschmack, der perfekt zu asiatischen Gerichten passt.
 
     <br />
@@ -18,7 +20,7 @@ einleitungstext: '    Die asiatische Küche ist weltweit bekannt für ihre aroma
     Um die Marinade zuzubereiten, müssen Sie lediglich alle Zutaten vermengen und das Fleisch darin für mindestens 30 Minuten im Kühlschrank einweichen lassen. Sie können jedes Fleisch Ihrer Wahl verwenden, ob es nun Hühnchen,
     Schweinefleisch oder Rindfleisch ist. Nachdem das Fleisch mariniert wurde, können Sie es auf verschiedene Arten zubereiten, wie zum Beispiel braten, grillen oder sogar als Basis für Wok-Gerichte verwenden. Probieren Sie es aus und
     genießen Sie den Geschmack Asiens in Ihrem eigenen Zuhause!'
-zutatentext: '            Die Zutaten in einem Rezept sind entscheidend für den Geschmack und das Aroma des Gerichts. Deshalb ist es wichtig, die richtigen Zutaten auszuwählen und zu verwenden. In diesem Artikel werfen wir einen genaueren Blick auf die
+ zutatentext: '            Die Zutaten in einem Rezept sind entscheidend für den Geschmack und das Aroma des Gerichts. Deshalb ist es wichtig, die richtigen Zutaten auszuwählen und zu verwenden. In diesem Artikel werfen wir einen genaueren Blick auf die
             Zutatenliste der Asia-Fleischmarinade und erklären, warum jede Zutat so wichtig ist.
 
             <br />
@@ -57,7 +59,7 @@ zutatentext: '            Die Zutaten in einem Rezept sind entscheidend für den
             Insgesamt sind alle Zutaten in der Asia-Fleischmarinade wichtig für den Geschmack und das Aroma des Gerichts. Jede Zutat hat ihre eigene Funktion und trägt dazu bei, dass das Fleisch zart und würzig wird. Wenn Sie asiatische
             Küche lieben oder einfach nur eine neue Marinade ausprobieren möchten, sollten Sie diese Asia-Fleischmarinade unbedingt ausprobieren.'
 
-zutaten:
+Zutaten:
  - s: 2 EL Sojasauce
  - s: 2 EL Reiswein
  - s: 2 EL Wasser
@@ -65,5 +67,5 @@ zutaten:
  - s: 1 TL Ingwerpulver
  - s: 1.5 TL Maisstärke
 
-zubereitung:
+Zubereitung:
  - s: Alle Zutaten mit 1kg Fleisch vermengen und mindestens 30 Minuten im Kühlschrank einziehen lassen.

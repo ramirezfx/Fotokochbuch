@@ -1,8 +1,10 @@
-portionen: 4
-zeitaufwandzubereitung: 35 Minuten
-gesamtzeitaufwand: 35 Minuten
+Rezeptinfo:
+ Portionen: 4
+ Zeitaufwandzubereitung: 35 Minuten
+ Gesamtzeitaufwand: 35 Minuten
 
-einleitungstext: '    Red Thai Curry ist ein köstliches und einfaches Gericht, das aus der thailändischen Küche stammt und sich inzwischen weltweit großer Beliebtheit erfreut. Dieses Curry ist ein wunderbares Beispiel für die einzigartige Kombination von
+Artikeltexte:
+ einleitungstext: '    Red Thai Curry ist ein köstliches und einfaches Gericht, das aus der thailändischen Küche stammt und sich inzwischen weltweit großer Beliebtheit erfreut. Dieses Curry ist ein wunderbares Beispiel für die einzigartige Kombination von
     würzigen, süßen und sauren Aromen, die in der thailändischen Küche typisch sind. Es ist ein vielseitiges Gericht, das sich perfekt für den Familienabend oder das gemeinsame Essen mit Freunden eignet.<br />
     <br />
 
@@ -12,7 +14,7 @@ einleitungstext: '    Red Thai Curry ist ein köstliches und einfaches Gericht, 
 
     Dieses Gericht kann auf verschiedene Weise angepasst werden, um den individuellen Geschmack und die Präferenzen anzupassen. Die Schärfe des Gerichts kann durch die Zugabe von mehr oder weniger Currypaste kontrolliert werden, während die
     Auswahl des Gemüses je nach Verfügbarkeit oder persönlicher Vorliebe variiert werden kann. Servieren Sie Red Thai Curry mit Reis oder Nudeln für eine vollständige Mahlzeit, die sowohl sättigend als auch lecker ist.'
-zutatentext: '            Die Zutaten sind das Herzstück eines jeden Rezepts und bestimmen maßgeblich den Geschmack und die Qualität der Mahlzeit. Im Falle von Red Thai Curry sind die Zutaten sorgfältig ausgewählt, um das einzigartige Aroma und den
+ zutatentext: '            Die Zutaten sind das Herzstück eines jeden Rezepts und bestimmen maßgeblich den Geschmack und die Qualität der Mahlzeit. Im Falle von Red Thai Curry sind die Zutaten sorgfältig ausgewählt, um das einzigartige Aroma und den
             Geschmack zu kreieren, für den dieses Gericht bekannt ist.<br />
             <br />
 
@@ -26,7 +28,7 @@ zutatentext: '            Die Zutaten sind das Herzstück eines jeden Rezepts un
 
             Die Kokosmilchsoße bildet die Grundlage für das Curry und sorgt für eine cremige Textur und einen milden Geschmack. Die Kokosmilch wird aus dem Fleisch reifer Kokosnüsse gewonnen und verleiht dem Gericht auch eine gewisse Süße.
             Es ist wichtig, eine hochwertige Kokosmilch zu wählen, um sicherzustellen, dass das Gericht einen vollen und cremigen Geschmack hat.'
-variationentext: '            Eine der großartigen Eigenschaften von Red Thai Curry ist seine Vielseitigkeit. Das Grundrezept lässt sich leicht anpassen und durch verschiedene Zutaten ergänzen oder ersetzen, um ein ganz neues Gericht zu kreieren.<br />
+ variationentext: '            Eine der großartigen Eigenschaften von Red Thai Curry ist seine Vielseitigkeit. Das Grundrezept lässt sich leicht anpassen und durch verschiedene Zutaten ergänzen oder ersetzen, um ein ganz neues Gericht zu kreieren.<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Vegetarische Option: Wenn Sie kein Fleisch essen, können Sie das Hühnerfleisch einfach durch Tofu oder Seitan ersetzen. Dies gibt dem Curry eine neue Textur und kann auch dazu
@@ -46,7 +48,7 @@ variationentext: '            Eine der großartigen Eigenschaften von Red Thai C
             <br />
 
             Die Möglichkeiten, das Grundrezept von Red Thai Curry zu variieren, sind nahezu unbegrenzt. Lassen Sie Ihrer Kreativität freien Lauf und kreieren Sie Ihre ganz persönliche Variante dieses beliebten Gerichts.'
-serviervorschlaegetext: '            Red Thai Curry ist ein Gericht, das wunderbar zu Reis oder Nudeln passt und auch mit verschiedenen Beilagen kombiniert werden kann. Hier sind einige Serviervorschläge, um das Curry noch schmackhafter zu machen:<br />
+ serviervorschlaegetext: '            Red Thai Curry ist ein Gericht, das wunderbar zu Reis oder Nudeln passt und auch mit verschiedenen Beilagen kombiniert werden kann. Hier sind einige Serviervorschläge, um das Curry noch schmackhafter zu machen:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Reis: Servieren Sie das Curry mit Jasminreis oder Basmatireis. Der leicht süße und blumige Geschmack des Reises passt perfekt zum scharfen Curry.<br />
@@ -69,7 +71,7 @@ serviervorschlaegetext: '            Red Thai Curry ist ein Gericht, das wunderb
 
             Mit diesen Serviervorschlägen können Sie das Red Thai Curry noch schmackhafter machen und es zu einem Highlight auf Ihrem Esstisch machen.'
 
-zutaten:
+Zutaten:
  - s: 500g Hühnerfleisch
  - s: 2 Paprikaschoten (bzw. insgesamt 280-300g Paprikastreifen)
  - s: 2 Frühlingszwiebel (14g)
@@ -79,7 +81,7 @@ zutaten:
  - s: 2-3 EL rote Currypaste (50g-75g)
  - s: 2 Dosen Kokosmilch (je 400ml/g)
 
-vorbereitung:
+Vorbereitung:
  - s: Hühnerfleisch klein schneiden und in eine Schüssel geben
  - s: 2 Paprikaschoten in Streifen schneiden und in eine Schüssel geben
  - s: 2 Frühlingszwiebeln in Ringe schneiden (Nur den grünen Teil) und in die Schüssel mit den Paprikastreifen geben
@@ -87,7 +89,7 @@ vorbereitung:
  - s: 200g Zuckerschoten in bissgrosse Stücke schneiden und in die Schüssel mit den Paprikastreifen geben
  - s: 2-3 EL (50g-75g) rote Currypaste in eine Schüssel geben
 
-zubereitung:
+Zubereitung:
  - s: 2 EL Sesamöl oder Rapsöl im Wok erhitzen
  - s: Den Inhalt der Schüssel mit der Curry-Paste in den Wok geben und kurz sautieren
  - s: Den Inhalt der 2 Dosen Kokosmilch in den Wok geben und aufkochen lassen

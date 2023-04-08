@@ -1,12 +1,14 @@
-portionen: 4
+Rezeptinfo:
+ Portionen: 4
 
-einleitungstext: '    Gebackenes Huhn ist ein einfaches und leckeres Gericht, das schnell zubereitet ist und mit knusprigem Teig und saftigem Fleisch begeistert. Die Zubereitung ist einfach und erfordert nur wenige Zutaten, die in den meisten Küchen zu
+Artikeltexte:
+ einleitungstext: '    Gebackenes Huhn ist ein einfaches und leckeres Gericht, das schnell zubereitet ist und mit knusprigem Teig und saftigem Fleisch begeistert. Die Zubereitung ist einfach und erfordert nur wenige Zutaten, die in den meisten Küchen zu
     finden sind. Das Huhn wird in einer Mischung aus Mehl, Maizena, Milch, Backpulver und Öl gewendet und im heißen Öl frittiert, bis es knusprig und goldbraun ist.<br />
     <br />
 
     Dieses Gericht ist vielseitig und kann nach Belieben angepasst werden. Es kann mit verschiedenen Gewürzen und Soßen zubereitet werden, um den Geschmack zu variieren. Außerdem kann es mit Reis oder Nudeln serviert werden, um eine
     vollständige Mahlzeit zu kreieren.'
-zutatentext: '            Gebackenes Huhn, auch als knuspriges Huhn bekannt, ist ein beliebtes Gericht in vielen Küchen weltweit. Um dieses köstliche Gericht zuzubereiten, benötigt man eine Handvoll einfacher Zutaten, die in jeder gut sortierten Küche zu
+ zutatentext: '            Gebackenes Huhn, auch als knuspriges Huhn bekannt, ist ein beliebtes Gericht in vielen Küchen weltweit. Um dieses köstliche Gericht zuzubereiten, benötigt man eine Handvoll einfacher Zutaten, die in jeder gut sortierten Küche zu
             finden sind.<br />
             <br />
 
@@ -16,7 +18,7 @@ zutatentext: '            Gebackenes Huhn, auch als knuspriges Huhn bekannt, ist
 
             Der Teig besteht aus einer Kombination von Mehl, Maizena, Backpulver, Milch und Öl. Diese Zutaten werden gründlich vermischt, um einen glatten Teig zu erhalten, der das Hühnchen perfekt umhüllt und ihm seine knusprige Textur
             verleiht. Mit diesen einfachen Zutaten kann man das gebackene Huhn schnell und einfach zu Hause zubereiten.'
-variationentext: '            Hier sind einige Variationen, die du ausprobieren kannst, um das gebackene Huhn zu variieren:<br />
+ variationentext: '            Hier sind einige Variationen, die du ausprobieren kannst, um das gebackene Huhn zu variieren:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Gewürztes Mehl: Füge dem Mehl-Teig eine Prise deiner Lieblingsgewürze hinzu, wie zum Beispiel Paprikapulver, Knoblauchpulver oder Cayennepfeffer, um dem Hühnchen einen zusätzlichen Kick
@@ -34,7 +36,7 @@ variationentext: '            Hier sind einige Variationen, die du ausprobieren 
             <br />
 
             Probiere diese Variationen aus, um dein gebackenes Huhn aufzupeppen und neue Geschmacksrichtungen zu entdecken!'
-serviervorschlaegetext: '            Für das gebackene Huhn gibt es verschiedene Serviervorschläge, die das Gericht noch schmackhafter machen können.<br />
+ serviervorschlaegetext: '            Für das gebackene Huhn gibt es verschiedene Serviervorschläge, die das Gericht noch schmackhafter machen können.<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Eine beliebte Variante ist es, das Huhn mit Reis oder Asia-Nudeln zu servieren, um eine vollständige Mahlzeit zu erhalten. Dazu kann man das Huhn in kleine Streifen schneiden und mit
@@ -51,7 +53,7 @@ serviervorschlaegetext: '            Für das gebackene Huhn gibt es verschieden
             Ob als Hauptgericht oder als Fingerfood bei einem gemütlichen Abend mit Freunden - das gebackene Huhn ist ein wahrer Genuss. Mit ein paar kreativen Serviervorschlägen kann man das Gericht noch abwechslungsreicher gestalten und
             immer wieder neu interpretieren.'
 
-zutaten:
+Zutaten:
  - s: 5-6 Hühnerschnitzel
  - s: 120g Mehl
  - s: 30g Maizena
@@ -61,7 +63,7 @@ zutaten:
  - s: Sojasauce
  - s: Salz
 
-vorbereitung:
+Vorbereitung:
  - s: 120g Mehl in eine Schüssel geben
  - s: 30g Maizena in die Schüssel mit dem Mehl geben
  - s: 1 Prise Salz in die Schüssel mit dem Mehl,... geben
@@ -71,7 +73,7 @@ vorbereitung:
  - s: Hühnerschnitzel beidseitig mit Salz und Pfeffer würzen
  - s: Hühnerschnitzel beidseitig mit etwas Sojasauce bestreichen
 
-zubereitung:
+Zubereitung:
  - s: 750ml Öl in Wok/Pfanne erhitzen (Stufe 5) bis sich auf einem eingetunkten Zahnstocher Bläschen bilden
  - s: Hühnerfleisch im Teig wälzen, in dem Wok/Pfanne frittieren bis der Teig goldgelb ist
  - s: Hühnerstücke in Streifen schneiden und ein wenig Sauce drüber leeren

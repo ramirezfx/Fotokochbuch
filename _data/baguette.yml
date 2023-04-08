@@ -1,6 +1,8 @@
-portionen: 3 Baguettes
+Rezeptinfo:
+ Portionen: 3 Baguettes
 
-einleitungstext: '    Baguette ist eines der bekanntesten französischen Gebäcke und wird auf der ganzen Welt gerne gegessen. Mit diesem Rezept für Crosses Baguette können Sie dieses leckere Gebäck ganz einfach zuhause zubereiten. Das Baguette wird durch die
+Artikeltexte:
+ einleitungstext: '    Baguette ist eines der bekanntesten französischen Gebäcke und wird auf der ganzen Welt gerne gegessen. Mit diesem Rezept für Crosses Baguette können Sie dieses leckere Gebäck ganz einfach zuhause zubereiten. Das Baguette wird durch die
     Schnitte auf der Oberfläche besonders knusprig und bekommt eine schöne Optik. <br />
     <br />
 
@@ -11,7 +13,7 @@ einleitungstext: '    Baguette ist eines der bekanntesten französischen Gebäck
 
     Die fertigen Baguettes werden auf ein Backblech gelegt und mit Wasser bestrichen und mit etwas Mehl bestreut. Dann werden sie bei 180 Grad Ober-/Unterhitze im Ofen gebacken, bis sie goldbraun und knusprig sind. Mit diesem einfachen
     Rezept können Sie frisches und leckeres Crosses Baguette zuhause genießen, das perfekt zu jeder Mahlzeit oder als Snack passt. Probieren Sie es aus und beeindrucken Sie Ihre Gäste mit selbstgebackenem Baguette!'
-zutatentext: '            In diesem Rezept für Crosses Baguette spielen die Zutaten eine entscheidende Rolle für das Gelingen des Gebäcks. Jeder Bestandteil des Teigs trägt zur Geschmacksbildung, Struktur und Haltbarkeit des Baguettes bei. <br />
+ zutatentext: '            In diesem Rezept für Crosses Baguette spielen die Zutaten eine entscheidende Rolle für das Gelingen des Gebäcks. Jeder Bestandteil des Teigs trägt zur Geschmacksbildung, Struktur und Haltbarkeit des Baguettes bei. <br />
             <br />
 
             Das wichtigste Element im Teig ist das Mehl, das für die Struktur des Gebäcks verantwortlich ist. In diesem Rezept wird Weizenmehl verwendet, da es eine hohe Elastizität aufweist und die Luft im Teig gut halten kann, was für ein
@@ -29,7 +31,7 @@ zutatentext: '            In diesem Rezept für Crosses Baguette spielen die Zut
             Insgesamt sind die Zutaten in diesem Rezept sorgfältig ausgewählt, um ein perfektes Crosses Baguette zu kreieren. Durch die richtige Dosierung und Kombination der Zutaten entsteht ein Baguette, das außen knusprig und innen weich
             ist und sich perfekt für jede Mahlzeit eignet.'
 
-zutaten:
+Zutaten:
  - s: 500g Mehl
  - s: 270ml Wasser
  - s: 80ml Öl
@@ -37,7 +39,7 @@ zutaten:
  - s: 1 TL Salz
  - s: 1 Pkg/7g Trockenhefe
 
-zubereitung:
+Zubereitung:
  - s: 270ml lauwarmes Wasser in eine kleine Schüssel geben
  - s: 1 TL Zucker in die Schüssel mit dem lauwarmen Wasser geben
  - s: 1 Pkg/7g Trockenhefe in die Schüssel mit dem lauwarmen Wasser geben

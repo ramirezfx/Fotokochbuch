@@ -1,6 +1,8 @@
-portionen: 6
+Rezeptinfo:
+ Portionen: 6
 
-einleitungstext: 'Diese Knoblauchcremesuppe ist ein absolutes Highlight für alle Knoblauchliebhaber. Sie ist einfach zuzubereiten und benötigt nur wenige Zutaten, die man meistens sowieso im Vorratsschrank hat. Die Kombination aus der intensiven
+Artikeltexte:
+ einleitungstext: 'Diese Knoblauchcremesuppe ist ein absolutes Highlight für alle Knoblauchliebhaber. Sie ist einfach zuzubereiten und benötigt nur wenige Zutaten, die man meistens sowieso im Vorratsschrank hat. Die Kombination aus der intensiven
     Knoblauchnote und der cremigen Konsistenz wird Sie begeistern. Diese Suppe ist eine perfekte Vorspeise für ein besonderes Abendessen oder auch als Hauptgericht für diejenigen, die es gerne vegetarisch mögen. <br />
     <br />
 
@@ -12,7 +14,7 @@ einleitungstext: 'Diese Knoblauchcremesuppe ist ein absolutes Highlight für all
     Die Kombination aus Knoblauch und Schlagobers mag im ersten Moment ungewöhnlich klingen, jedoch harmonieren die beiden Zutaten perfekt miteinander und ergeben eine einzigartige Geschmackskomposition. Die Suppe ist sowohl warm als auch
     kalt ein Genuss und kann auch am nächsten Tag noch aufgewärmt werden. Servieren Sie die Suppe mit ein paar gerösteten Brotscheiben oder Croutons, um die cremige Konsistenz der Suppe zu unterstreichen. Probieren Sie dieses Rezept aus und
     lassen Sie sich von der intensiven Knoblauchnote und der cremigen Konsistenz verzaubern.'
-zutatentext: '            Die Zutaten bilden das Herzstück jedes Rezepts und sind ausschlaggebend für den Geschmack und die Qualität eines Gerichts. Bei der Knoblauchcremesuppe handelt es sich um ein einfaches und dennoch leckeres Rezept, welches mit
+ zutatentext: '            Die Zutaten bilden das Herzstück jedes Rezepts und sind ausschlaggebend für den Geschmack und die Qualität eines Gerichts. Bei der Knoblauchcremesuppe handelt es sich um ein einfaches und dennoch leckeres Rezept, welches mit
             wenigen Zutaten auskommt. <br />
             <br />
 
@@ -27,7 +29,7 @@ zutatentext: '            Die Zutaten bilden das Herzstück jedes Rezepts und si
 
             Bei der Zubereitung der Knoblauchcremesuppe ist es wichtig, hochwertige Zutaten zu verwenden, um ein geschmacklich ansprechendes Ergebnis zu erzielen. Das Rezept ist einfach und schnell zubereitet und eignet sich daher perfekt
             für den Alltag oder für eine besondere Gelegenheit. Probieren Sie es aus und lassen Sie sich von der intensiven Knoblauchnote und der cremigen Konsistenz verzaubern.'
-variationentext: '            <i class="fa-regular fa-circle-check"></i> Eine Möglichkeit zur Variation der Knoblauchcremesuppe besteht darin, anstelle von Hühnersuppenwürfeln Gemüsebrühe zu verwenden. Dadurch erhält die Suppe einen intensiveren Geschmack
+ variationentext: '            <i class="fa-regular fa-circle-check"></i> Eine Möglichkeit zur Variation der Knoblauchcremesuppe besteht darin, anstelle von Hühnersuppenwürfeln Gemüsebrühe zu verwenden. Dadurch erhält die Suppe einen intensiveren Geschmack
             und ist zudem vegetarisch.<br />
             <br />
             <i class="fa-regular fa-circle-check"></i> Statt der getrockneten Petersilie können auch frische Kräuter wie Schnittlauch, Koriander oder Basilikum verwendet werden, um der Suppe eine besondere Note zu verleihen.<br />
@@ -40,7 +42,7 @@ variationentext: '            <i class="fa-regular fa-circle-check"></i> Eine M�
             <i class="fa-regular fa-circle-check"></i> Für eine Low-Carb-Version der Suppe kann das Mehl weggelassen werden und stattdessen eine geringere Menge an Kartoffeln oder anderem Gemüse wie Karotten oder Sellerie verwendet werden.
             <br />
             <br />'
-serviervorschlaegetext: '            Diese cremige Knoblauchsuppe eignet sich hervorragend als Vorspeise für ein festliches Menü oder als leichte Mahlzeit an einem kühlen Abend.<br />
+ serviervorschlaegetext: '            Diese cremige Knoblauchsuppe eignet sich hervorragend als Vorspeise für ein festliches Menü oder als leichte Mahlzeit an einem kühlen Abend.<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Servieren Sie die Suppe mit knusprigem Brot oder Baguette.<br />
@@ -57,7 +59,7 @@ serviervorschlaegetext: '            Diese cremige Knoblauchsuppe eignet sich he
 
             <i class="fa-regular fa-circle-check"></i> Garnieren Sie die Suppe mit frischer Petersilie oder Schnittlauch, um ihr einen zusätzlichen Geschmackskick zu verleihen.'            
 
-zutaten:
+Zutaten:
  - s: 70g Knoblauch
  - s: 1.5 Liter Wasser
  - s: 500ml Schlagobers/CremeFin 7%
@@ -70,7 +72,7 @@ zutaten:
  - s: 2 TL Petersilie getrocknet
  - s: 4 Eier
 
-vorbereitung:
+Vorbereitung:
  - s: 70g Knoblauch abwiegen, schälen, mit Knoblauchpresse zerdrücken und in eine Schüssel geben
  - s: 80g Butter in eine Schüssel geben
  - s: 30g Mehl in eine Schüssel geben
@@ -81,7 +83,7 @@ vorbereitung:
  - s: 1.5 Liter Wasser (oder 2 L Wasser wenn kein Schlagobers verwendet wird) in ein Gefäss geben
  - s: 4 Eier in einer Schüssel verquirlen
 
-zubereitung:
+Zubereitung:
  - s: Die Schüssel mit der Butter in einen Topf geben und bei kleiner Hitze schmelzen
  - s: Wenn die Butter geschmolzen ist, den Inhalt der Schüssel mit dem Mehl dazu geben und ordentlich umrühren
  - s: Wenn das Mehl bräunlich geworden ist, das Gefäss mit dem Wasser dazu geben
@@ -94,7 +96,7 @@ zubereitung:
  - s: Den Inhalt der Schüssel mit den verquirlten Eiern einrühren bis diese gestockt sind
  - s: Die Schüssel mit der Petersilie dazu geben und nochmals umrühren
 
-naehrwerte:
+Naehrwerte:
  kalorien: 69.77
  menge_pro_portion: ~410
  fett: 5.42

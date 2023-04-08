@@ -1,6 +1,8 @@
-portionen: 6-8
+Rezeptinfo:
+ Portionen: 6-8
 
-einleitungstext: '    Chili con Carne ist ein klassisches Gericht aus der mexikanischen K&uuml;che, das auch bei uns sehr beliebt ist. Das Gericht besteht aus einer Mischung aus Hackfleisch, Bohnen, Tomaten und Gew&uuml;rzen, die zusammen zu einer herzhaften
+Artikeltexte:
+ einleitungstext: '    Chili con Carne ist ein klassisches Gericht aus der mexikanischen K&uuml;che, das auch bei uns sehr beliebt ist. Das Gericht besteht aus einer Mischung aus Hackfleisch, Bohnen, Tomaten und Gew&uuml;rzen, die zusammen zu einer herzhaften
     und w&uuml;rzigen Sauce gekocht werden. Das Besondere an diesem Rezept ist, dass es mit einem speziellen Chili-Con-Carne-Fix zubereitet wird, der das W&uuml;rzen besonders einfach und schnell macht.<br />
     <br />
 
@@ -10,7 +12,7 @@ einleitungstext: '    Chili con Carne ist ein klassisches Gericht aus der mexika
 
     Am Ende werden die Kidney-Bohnen hinzugef&uuml;gt und das Chili con Carne ohne Deckel weitergekocht, um die Sauce einzudicken und die Bohnen zu erw&auml;rmen. Servieren Sie dieses k&ouml;stliche Gericht mit einem Schuss saurer Sahne und
     etwas K&auml;se und genie&szlig;en Sie es mit Tortilla-Chips oder Reis. Dieses Rezept ist perfekt f&uuml;r eine gro&szlig;e Familie oder Freunde und ist ein klassisches Gericht, das immer wieder gerne gegessen wird.'
-zutatentext: '            In diesem Chili Con Carne-Rezept werden einige Zutaten verwendet, die dem Gericht seinen einzigartigen Geschmack verleihen. Das Chili-Con-Carne-Fix ist eine Mischung aus Gewürzen, die speziell für dieses Gericht entwickelt wurde
+ zutatentext: '            In diesem Chili Con Carne-Rezept werden einige Zutaten verwendet, die dem Gericht seinen einzigartigen Geschmack verleihen. Das Chili-Con-Carne-Fix ist eine Mischung aus Gewürzen, die speziell für dieses Gericht entwickelt wurde
             und enthält unter anderem Kreuzkümmel, Paprika, Knoblauch und Cayennepfeffer. Das Faschierte wird mit dieser Gewürzmischung angebraten und anschließend mit Tomatenmark, Bier und Kaffee abgelöscht. Die Dosen mit gehackten Tomaten
             verleihen dem Chili Con Carne eine sämige Konsistenz und runden das Aroma ab.<br />
             <br />
@@ -21,7 +23,7 @@ zutatentext: '            In diesem Chili Con Carne-Rezept werden einige Zutaten
 
             Als Topping eignen sich geriebener Käse, saure Sahne und frische Kräuter wie Koriander oder Petersilie. Die Zutaten für dieses Rezept sind leicht zu finden und die meisten davon haben Sie vielleicht sogar bereits in Ihrem
             Vorratsschrank. Zusammen ergeben sie ein leckeres und würziges Gericht, das sich perfekt für gemütliche Abende mit Freunden oder der Familie eignet.'
-variationentext: '            Es gibt zahlreiche Möglichkeiten, das klassische Chili Con Carne Rezept nach eigenem Geschmack und Vorlieben zu variieren. Hier sind einige Vorschläge:<br />
+ variationentext: '            Es gibt zahlreiche Möglichkeiten, das klassische Chili Con Carne Rezept nach eigenem Geschmack und Vorlieben zu variieren. Hier sind einige Vorschläge:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Vegetarische Version: Das Faschierte durch Sojahack oder gewürfeltes Gemüse wie Karotten, Sellerie und Paprika ersetzen. Auch Tofu oder Pilze eignen sich als Fleischersatz.<br />
@@ -44,7 +46,7 @@ variationentext: '            Es gibt zahlreiche Möglichkeiten, das klassische 
             <br />
 
             Mit diesen Variationen kann man das klassische Chili Con Carne Rezept immer wieder neu interpretieren und immer wieder aufs Neue genießen.'
-serviervorschlaegetext: '            Chili Con Carne ist ein wunderbares Gericht, das auf viele verschiedene Arten serviert werden kann. Hier sind einige Ideen, wie Sie das Chili Con Carne aufpeppen und zu einem perfekten Essen machen können.<br />
+ serviervorschlaegetext: '            Chili Con Carne ist ein wunderbares Gericht, das auf viele verschiedene Arten serviert werden kann. Hier sind einige Ideen, wie Sie das Chili Con Carne aufpeppen und zu einem perfekten Essen machen können.<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Mit Reis servieren: Servieren Sie das Chili Con Carne auf einer Schüssel dampfendem Reis. Dies gibt dem Gericht eine zusätzliche Textur und macht es zu einem noch befriedigenderen
@@ -66,7 +68,7 @@ serviervorschlaegetext: '            Chili Con Carne ist ein wunderbares Gericht
             Das sind nur einige Ideen, wie Sie das Chili Con Carne aufpeppen und zu einem noch besseren Gericht machen können. Experimentieren Sie mit verschiedenen Zutaten und sehen Sie, was am besten zu Ihrem Geschmack passt. Das Schöne
             an Chili Con Carne ist, dass es sich perfekt anpassen lässt, um ein ganz individuelles Essen zu kreieren.'
 
-zutaten:
+Zutaten:
  - s: 1 Glas <a href="/chili-con-carne-fix">Chili-Con-Carne-Fix</a>
  - s: 1kg Faschiertes
  - s: 3 EL Öl
@@ -79,11 +81,11 @@ zutaten:
  - s: 3 Dosen Kidney-Bohnen
  - s: 200ml Wasser
 
-vorbereitung:
+Vorbereitung:
  - s: 2 Zwiebeln würfelig schneiden
  - s: 4 Knoblauchzehen über den Zwiebelwürfel ausdrücken
 
-zubereitung:
+Zubereitung:
  - s: 3 EL Öl im Kochtopf erhitzen
  - s: Zwiebelwürfel und Knoblauch goldbraun rösten
  - s: 1kg Faschiertes dazu geben und alles vermengen

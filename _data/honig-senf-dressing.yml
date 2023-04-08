@@ -1,6 +1,7 @@
-portionen: 8-10
-
-einleitungstext: '    Das würzige Honig-Senf-Dressing ist ein einfaches und dennoch geschmacksintensives Dressing, das perfekt zu Salaten, Sandwiches und gegrilltem Fleisch passt. Es ist schnell und einfach zuzubereiten und enthält nur wenige Zutaten, die
+Rezeptinfo:
+ Portionen: 8-10
+Artikeltexte:
+ einleitungstext: '    Das würzige Honig-Senf-Dressing ist ein einfaches und dennoch geschmacksintensives Dressing, das perfekt zu Salaten, Sandwiches und gegrilltem Fleisch passt. Es ist schnell und einfach zuzubereiten und enthält nur wenige Zutaten, die
     wahrscheinlich bereits in Ihrer Küche vorhanden sind. Das Dressing hat eine angenehme Balance zwischen süß und scharf und verleiht Ihren Gerichten einen köstlichen Geschmack.<br />
     <br />
 
@@ -10,7 +11,7 @@ einleitungstext: '    Das würzige Honig-Senf-Dressing ist ein einfaches und den
 
     Das würzige Honig-Senf-Dressing ist eine großartige Ergänzung zu jeder Mahlzeit. Ob Sie es als Dip für gebackene Hühnchenflügel, als Dressing für einen Salat oder als Beilage zu gegrilltem Fleisch verwenden, es wird sicherlich den
     Geschmack Ihrer Gerichte verbessern. Probieren Sie dieses einfache und dennoch leckere Dressing aus und genießen Sie die Geschmacksexplosion in Ihrem Mund!'
-zutatentext: '            Das würzige Honig-Senf-Dressing ist eine Kombination aus einigen wenigen, aber dennoch kraftvollen Zutaten, die dieses Dressing zu einem perfekten Begleiter für fast jeden Salat machen.<br />
+ zutatentext: '            Das würzige Honig-Senf-Dressing ist eine Kombination aus einigen wenigen, aber dennoch kraftvollen Zutaten, die dieses Dressing zu einem perfekten Begleiter für fast jeden Salat machen.<br />
             <br />
 
             Olivenöl bildet die Basis für dieses Dressing und ist eine wichtige Quelle für gesunde Fette. Der kräftige Geschmack von Weissweinessig verleiht dem Dressing einen erfrischenden und säuerlichen Touch, während Honig dem Dressing
@@ -18,7 +19,7 @@ zutatentext: '            Das würzige Honig-Senf-Dressing ist eine Kombination 
             <br />
 
             Der Senf verleiht dem Dressing ein scharfes, aber dennoch angenehmes Aroma, während Knoblauch und Gewürze wie Cayenne- und schwarzer Pfeffer sowie Salz das Dressing perfekt abrunden.'
-variationentext: '            Hier sind einige Variationen, die Sie ausprobieren können, um das Würzige Honig-Senf-Dressing zu personalisieren:<br />
+ variationentext: '            Hier sind einige Variationen, die Sie ausprobieren können, um das Würzige Honig-Senf-Dressing zu personalisieren:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Schärfe anpassen: Wenn Sie es schärfer mögen, erhöhen Sie einfach die Menge an Cayenne-Pfeffer oder fügen Sie eine Prise roter Pfefferflocken hinzu. Wenn Sie es milder bevorzugen,
@@ -44,7 +45,7 @@ variationentext: '            Hier sind einige Variationen, die Sie ausprobieren
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Knoblauch: Wenn Sie ein Fan von Knoblauch sind, fügen Sie einfach eine zusätzliche Knoblauchzehe hinzu oder erhöhen Sie die Menge an Knoblauchpulver.'
-serviervorschlaegetext: '            Das würzige Honig-Senf Dressing ist ein vielseitiger Begleiter für viele Gerichte und eignet sich hervorragend als Dressing für Salate, Marinade für gegrilltes oder gebratenes Fleisch und Gemüse oder als Dip für Fingerfood. Hier
+ serviervorschlaegetext: '            Das würzige Honig-Senf Dressing ist ein vielseitiger Begleiter für viele Gerichte und eignet sich hervorragend als Dressing für Salate, Marinade für gegrilltes oder gebratenes Fleisch und Gemüse oder als Dip für Fingerfood. Hier
             sind einige Serviervorschläge, um das Beste aus diesem Dressing herauszuholen:<br />
             <br />
 
@@ -68,7 +69,7 @@ serviervorschlaegetext: '            Das würzige Honig-Senf Dressing ist ein vi
 
             Egal, wie Sie das würzige Honig-Senf Dressing verwenden, es wird sicherlich jedes Gericht aufpeppen und den Geschmack auf ein neues Niveau bringen. Probieren Sie es aus und lassen Sie Ihrer Kreativität freien Lauf!'            
 
-zutaten:
+Zutaten:
  - s: 1/2 Cup Olivenöl (110ml)
  - s: 3 EL Weissweinessig
  - s: 1 EL Honig
@@ -78,5 +79,5 @@ zutaten:
  - s: 1 Prise Schwarzer Pfeffer
  - s: 2 Prisen Salz
 
-zubereitung:
+Zubereitung:
  - s: Alle Zutaten in ein Gefäss geben und ordentlich mit dem Schneebesen vermischen

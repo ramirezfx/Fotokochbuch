@@ -1,9 +1,11 @@
-portionen: 1 Laib
-zeitaufwandvorbereitung: 20 Stunden, 10 Minuten
-zeitaufwandzubereitung: 40 Minuten
-gesamtzeitaufwand: 20 Stunden, 50 Minuten
+Rezeptinfo:
+ Portionen: 1 Laib
+ Zeitaufwandvorbereitung: 20 Stunden, 10 Minuten
+ Zeitaufwandzubereitung: 40 Minuten
+ Gesamtzeitaufwand: 20 Stunden, 50 Minuten
 
-einleitungstext: '    Brot ist ein Grundnahrungsmittel, das seit Jahrtausenden von Menschen auf der ganzen Welt genossen wird. Es gibt viele verschiedene Arten von Brot, aber eine besonders beliebte Variante ist das knusprige Brot. In diesem Rezept wird
+Artikeltexte:
+ einleitungstext: '    Brot ist ein Grundnahrungsmittel, das seit Jahrtausenden von Menschen auf der ganzen Welt genossen wird. Es gibt viele verschiedene Arten von Brot, aber eine besonders beliebte Variante ist das knusprige Brot. In diesem Rezept wird
     gezeigt, wie man ein köstliches knuspriges Brot ohne Kneten zubereiten kann, das perfekt zu jeder Mahlzeit passt.<br />
     <br />
 
@@ -13,7 +15,7 @@ einleitungstext: '    Brot ist ein Grundnahrungsmittel, das seit Jahrtausenden v
 
     Das Ergebnis ist ein köstliches, knuspriges Brot mit einer goldbraunen Kruste und einer weichen, luftigen Krume. Es kann als Beilage zu einer Suppe oder einem Salat serviert werden oder einfach mit Butter und Marmelade zum Frühstück
     genossen werden. Wenn Sie auf der Suche nach einem einfachen und leckeren Brotrezept sind, sollten Sie dieses knusprige Brot ohne Kneten ausprobieren.'
-zutatentext: '            In der Küche sind die Zutaten der Grundbaustein jedes Rezepts. Sie sind verantwortlich für den Geschmack, die Textur und die Nährstoffe, die in unseren Mahlzeiten enthalten sind. Bei der Zubereitung von Speisen ist es wichtig,
+ zutatentext: '            In der Küche sind die Zutaten der Grundbaustein jedes Rezepts. Sie sind verantwortlich für den Geschmack, die Textur und die Nährstoffe, die in unseren Mahlzeiten enthalten sind. Bei der Zubereitung von Speisen ist es wichtig,
             qualitativ hochwertige Zutaten zu verwenden, um das beste Ergebnis zu erzielen.<br />
             <br />
 
@@ -32,14 +34,14 @@ zutatentext: '            In der Küche sind die Zutaten der Grundbaustein jedes
             Insgesamt sind die Zutaten des knusprigen Brotes ohne Kneten einfach, aber entscheidend für die Herstellung eines köstlichen Brotes. Durch die Verwendung von qualitativ hochwertigen Zutaten kann man ein Brot herstellen, das
             nicht nur gut schmeckt, sondern auch nährstoffreich ist.'
 
-zutaten:
+Zutaten:
  - s: 335g Weizenmehl, Typ 700
  - s: 100g Roggenmehl (Vollkorn)
  - s: 12g  Salz
  - s: 1/4 TL Trockenhefe
  - s: 350g Wasser (lauwarm/Zimmeremperatur)
 
-vorbereitung:
+Vorbereitung:
  - s: 335g Weizenmehl in eine Rührschüssel geben
  - s: 100g Roggenmhl (Vollkorn) in die Rührschüssel geben
  - s: 12g Salz in die Rührschüssel geben
@@ -53,7 +55,7 @@ vorbereitung:
  - s: Den Teig in eine Schüssel mit bemelten Geschirrtuch geben
  - s: Den Teig weitere 2 Stunden gehen lassen <span class="badge bg-primary">2 Stunden</span>
 
-zubereitung:
+Zubereitung:
  - s: 30 Minuten vor dem Backen den Ofen (Heißluft) vorheizen (220 Grad) mit einem Blech drinnen. <span class="badge bg-primary">30 Minuten</span>
  - s: Kurz vor dem Backen zwei feuerfeste Schalen mit Wasser unten in den Ofen schieben.
  - s: Den nun fertigen Brotteig auf ein Backpapier kippen und auf das heiße Blech setzen.

@@ -1,6 +1,8 @@
-portionen: 2
+Rezeptinfo:
+ Portionen: 2
 
-einleitungstext: '    Heute stellen wir Ihnen ein einfaches und leckeres Rezept für Fisch in Tomatensauce vor. Die Kombination aus zartem Fischfilet und fruchtiger Tomatensauce mit knackigen Paprikastücken und aromatischem Ingwer ergibt eine köstliche
+Artikeltexte:
+ einleitungstext: '    Heute stellen wir Ihnen ein einfaches und leckeres Rezept für Fisch in Tomatensauce vor. Die Kombination aus zartem Fischfilet und fruchtiger Tomatensauce mit knackigen Paprikastücken und aromatischem Ingwer ergibt eine köstliche
     Mahlzeit, die Sie in nur wenigen Schritten zubereiten können.<br />
     <br />
 
@@ -10,7 +12,7 @@ einleitungstext: '    Heute stellen wir Ihnen ein einfaches und leckeres Rezept 
 
     Dieses Rezept ist einfach und schnell zuzubereiten und eignet sich hervorragend für ein schnelles Abendessen unter der Woche oder für ein gemeinsames Essen mit Freunden und Familie am Wochenende. Probieren Sie es aus und lassen Sie sich
     von dem köstlichen Geschmack überraschen!'
-zutatentext: '            Das Rezept für Fisch in Tomatensauce erfordert eine Vielzahl von Zutaten, um das perfekte Geschmackserlebnis zu erzielen. Die Auswahl der richtigen Zutaten und ihre Vorbereitung sind entscheidend für das Endergebnis des
+ zutatentext: '            Das Rezept für Fisch in Tomatensauce erfordert eine Vielzahl von Zutaten, um das perfekte Geschmackserlebnis zu erzielen. Die Auswahl der richtigen Zutaten und ihre Vorbereitung sind entscheidend für das Endergebnis des
             Gerichts. <br />
             <br />
 
@@ -21,7 +23,7 @@ zutatentext: '            Das Rezept für Fisch in Tomatensauce erfordert eine V
 
             Es ist wichtig, hochwertige Zutaten für dieses Gericht zu wählen, da sie den Geschmack und die Qualität des Gerichts beeinflussen können. Frischer Fisch ist am besten und Paprikaschoten sollten reif und knackig sein. Ingwer und
             Knoblauch sollten frisch und aromatisch sein, um das beste Geschmackserlebnis zu gewährleisten. Die richtige Auswahl und Vorbereitung der Zutaten ist entscheidend für das Gelingen dieses köstlichen Gerichts.'
-variationentext: '            Variationen sind eine großartige Möglichkeit, ein Rezept aufzupeppen und ihm einen neuen Geschmack zu verleihen. Hier sind einige Vorschläge, wie Sie das Fischgericht mit Tomatensauce variieren können:<br />
+ variationentext: '            Variationen sind eine großartige Möglichkeit, ein Rezept aufzupeppen und ihm einen neuen Geschmack zu verleihen. Hier sind einige Vorschläge, wie Sie das Fischgericht mit Tomatensauce variieren können:<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Anstatt Paprikaschoten können Sie auch andere Gemüsesorten wie Zucchini, Karotten oder Champignons verwenden. Schneiden Sie das Gemüse in kleine Stücke und braten Sie es mit dem Ingwer
@@ -41,7 +43,7 @@ variationentext: '            Variationen sind eine großartige Möglichkeit, ei
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Wenn Sie es gerne exotischer mögen, können Sie der Sauce auch Currypulver oder Kurkuma hinzufügen.'
-serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Für eine perfekte Präsentation können Sie das Gericht auf einem Bett aus frischem Salat servieren und es mit frisch gehackten Kräutern garnieren.
+ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> Für eine perfekte Präsentation können Sie das Gericht auf einem Bett aus frischem Salat servieren und es mit frisch gehackten Kräutern garnieren.
 
             <br />
             <br />
@@ -63,7 +65,7 @@ serviervorschlaegetext: '            <i class="fa-regular fa-circle-check"></i> 
 
             <i class="fa-regular fa-circle-check"></i> Zum Abschluss können Sie eine leckere Nachspeise wie einen Schokoladenkuchen oder fruchtigen Obstsalat servieren, um das perfekte Menü zu komplettieren.'
 
-zutaten:
+Zutaten:
  - s: 250g Fischfilet
  - s: 1.5 TL Maizena Maisstärke
  - s: Salz
@@ -78,7 +80,7 @@ zutaten:
  - s: 2 TL Tomatenmark
  - s: 70ml Öl
 
-vorbereitung:
+Vorbereitung:
  - s: Den Fisch waschen, trocken tupfen, in mundgerechte Stücke schneiden und in eine Schüssel geben
  - s: 1 TL Maisstärke in eine Schüssel geben
  - s: 2 Prisen Salz in die Schüssel mit der Maisstärke,... geben
@@ -101,7 +103,7 @@ vorbereitung:
  - s: 1 EL Wasser in die Schüssel mit dem Reiswein,... geben
  - s: Alles ordentlich verrühren
 
-zubereitung:
+Zubereitung:
  - s: Wok erhitzen
  - s: 70ml Öl in den Wok geben
  - s: Den Inhalt der Schüssel mit dem Fisch in den Wok geben und 2-3 Minuten braten

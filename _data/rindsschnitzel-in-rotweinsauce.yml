@@ -1,6 +1,8 @@
-portionen: 2
+Rezeptinfo:
+ Portionen: 2
 
-einleitungstext: '    Das Rindsschnitzel in Rotweinsauce ist ein Klassiker der österreichischen Küche und überzeugt mit seiner herzhaften und aromatischen Note. Die zarten Rindsschnitzel werden mit einer leckeren Rotweinsauce verfeinert, die durch Karotten
+Artikeltexte:
+ einleitungstext: '    Das Rindsschnitzel in Rotweinsauce ist ein Klassiker der österreichischen Küche und überzeugt mit seiner herzhaften und aromatischen Note. Die zarten Rindsschnitzel werden mit einer leckeren Rotweinsauce verfeinert, die durch Karotten
     und Zwiebeln eine feine Süße erhält. Die Sauce ist perfekt abgestimmt und gibt dem Gericht eine wunderbare Tiefe.<br />
     <br />
 
@@ -10,7 +12,7 @@ einleitungstext: '    Das Rindsschnitzel in Rotweinsauce ist ein Klassiker der �
 
     Probieren Sie das Rezept aus und lassen Sie sich von dem einzigartigen Geschmack und der zarten Konsistenz der Rindsschnitzel verzaubern. Servieren Sie das Gericht mit einer Beilage Ihrer Wahl und einem guten Glas Rotwein, um das
     Erlebnis perfekt zu machen.'
-zutatentext: '            Bei der Zubereitung von Rindsschnitzel in Rotweinsauce sind die Zutaten von entscheidender Bedeutung. Es handelt sich hierbei um eine klassische Zubereitung, bei der das Fleisch in einer herzhaften Sauce aus Rotwein und
+ zutatentext: '            Bei der Zubereitung von Rindsschnitzel in Rotweinsauce sind die Zutaten von entscheidender Bedeutung. Es handelt sich hierbei um eine klassische Zubereitung, bei der das Fleisch in einer herzhaften Sauce aus Rotwein und
             Rindssuppenwürfel langsam geschmort wird. Die Auswahl der Zutaten spielt eine wichtige Rolle für den Geschmack und die Konsistenz des Gerichts.<br />
             <br />
 
@@ -21,7 +23,7 @@ zutatentext: '            Bei der Zubereitung von Rindsschnitzel in Rotweinsauce
             Weitere wichtige Zutaten sind das Mehl, das dazu verwendet wird, um die Sauce zu binden, sowie der Rotwein und der Rindssuppenwürfel. Letzterer verleiht der Sauce eine kräftige Rindfleischnote und sorgt für eine ausgewogene
             Würze. Das Öl dient zum Anbraten des Fleisches und der Zwiebeln, während Salz und Pfeffer das Gericht abschließend abrunden. Zusammen ergeben diese Zutaten ein köstliches und herzhaftes Gericht, das perfekt für ein gemütliches
             Abendessen geeignet ist.'
-variationentext: '            Es gibt viele Möglichkeiten, das Rezept für Rindsschnitzel in Rotweinsauce zu variieren und den Geschmack anzupassen. Eine Option ist, verschiedene Gemüsesorten hinzuzufügen oder zu ersetzen, um das Gericht noch aromatischer zu
+ variationentext: '            Es gibt viele Möglichkeiten, das Rezept für Rindsschnitzel in Rotweinsauce zu variieren und den Geschmack anzupassen. Eine Option ist, verschiedene Gemüsesorten hinzuzufügen oder zu ersetzen, um das Gericht noch aromatischer zu
             machen. Zum Beispiel können Paprika, Champignons oder Zucchini in dünne Streifen geschnitten und zusammen mit den Karotten in der Pfanne angebraten werden.<br />
             <br />
 
@@ -31,7 +33,7 @@ variationentext: '            Es gibt viele Möglichkeiten, das Rezept für Rind
 
             Um das Gericht etwas gesünder zu gestalten, kann man auch Vollkornmehl anstelle von Weißmehl verwenden, oder den Rotwein durch Gemüsebrühe ersetzen. Wer es gerne scharf mag, kann zusätzlich Chiliflocken oder eine Prise
             Cayennepfeffer in die Sauce geben. Durch die Variation von Zutaten und Gewürzen können Sie das Rezept auf Ihre persönlichen Geschmackspräferenzen abstimmen und jedes Mal ein neues, aufregendes Gericht kreieren.'
-serviervorschlaegetext: '            Es gibt viele Möglichkeiten, wie du das Rindsschnitzel in Rotweinsauce servieren kannst.<br />
+ serviervorschlaegetext: '            Es gibt viele Möglichkeiten, wie du das Rindsschnitzel in Rotweinsauce servieren kannst.<br />
             <br />
 
             <i class="fa-regular fa-circle-check"></i> Eine klassische Variante ist es, das Fleisch auf einem Bett aus Kartoffelpüree oder Spätzle zu servieren und mit der Sauce zu übergießen. Dazu passen auch gedünstete oder gebratene
@@ -48,7 +50,7 @@ serviervorschlaegetext: '            Es gibt viele Möglichkeiten, wie du das Ri
 
             Lass deiner Kreativität freien Lauf und experimentiere mit verschiedenen Beilagen und Saucen, um dein Rindsschnitzel in Rotweinsauce auf unterschiedliche Art und Weise zu servieren.'                         
 
-zutaten:
+Zutaten:
  - s: 1 Zwiebel
  - s: 4 Stk./500g Rindsschnitzel
  - s: 3 EL Mehl
@@ -59,7 +61,7 @@ zutaten:
  - s: 1 Prise Salz
  - s: 1 Prise Pfeffer
  
-vorbereitung:
+Vorbereitung:
  - s: Rindsschnitzel waschen und trocken tupfen
  - s: Rindsschnitzel salzen und pfeffern
  - s: 1 Zwiebel in kleine Würfel schneiden und in eine Schüssel geben
@@ -68,7 +70,7 @@ vorbereitung:
  - s: 250ml Wasser in ein Glas geben
  - s: 250 ml Rotwein in ein Glas geben
  
-zubereitung:
+Zubereitung:
  - s: In einer Pfanne Öl erhitzen und die 4 Rindsschnitzel beidseitig anbraten
  - s: Das Fleisch aus der Pfanne nehmen und in Folie gewickelt warm stellen
  - s: Die Zwiebelwürfel und Karottenwürfel im Bratenrückstand anbraten
@@ -81,7 +83,7 @@ zubereitung:
  - s: Fleisch aus der Pfanne nehmen und nochmals in Folie warmstellen
  - s: Die Sauce durch ein Sieb streichen und evt. nachwürzen
 
-naehrwerte:
+Naehrwerte:
  kalorien: 93.45
  menge_pro_portion: ~675
  fett: 3.81
