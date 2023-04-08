@@ -6,5 +6,5 @@ title: Knoblauch-Butter-Huhn
 headline: Knoblauch-Butter-Huhn
 thumbnail: /assets/images/garlic-butter-chicken.jpg
 datafile: garlic-butter-chicken
-tags: [Huhn, Hauptspeise]
+tags: [weniger-als-30-minuten, Huhn, Hauptspeise]
 ---
