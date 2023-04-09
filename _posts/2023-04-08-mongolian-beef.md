@@ -8,3 +8,4 @@ thumbnail: /assets/images/mongolian-beef.jpg
 datafile: mongolian-beef
 tags: [Rindfleisch, Hauptspeise]
 ---
+<a href="https://thewoksoflife.com/mongolian-beef-recipe/" target="_blank">Originalrezept: https://thewoksoflife.com/mongolian-beef-recipe/</a>
